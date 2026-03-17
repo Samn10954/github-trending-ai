@@ -36,7 +36,7 @@
             display: flex;
             justify-content: center;
             gap: 10px;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
             flex-wrap: wrap;
         }
         .date-btn {
@@ -49,6 +49,40 @@
             transition: all 0.2s;
         }
         .date-btn:hover { background: #30363d; }
+        
+        .filter-section {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #161b22;
+            border-radius: 8px;
+            border: 1px solid #30363d;
+        }
+        .filter-label {
+            color: #8b949e;
+            margin-bottom: 10px;
+            font-size: 0.9rem;
+        }
+        .tag-filter {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .tag-btn {
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #8b949e;
+            padding: 4px 12px;
+            border-radius: 16px;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .tag-btn:hover { border-color: #58a6ff; color: #58a6ff; }
+        .tag-btn.active {
+            background: #238636;
+            border-color: #238636;
+            color: white;
+        }
         
         .stats {
             display: flex;
@@ -110,6 +144,17 @@
             border-radius: 12px;
             font-size: 0.8rem;
         }
+        
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #8b949e;
+        }
+        
+        @media (max-width: 768px) {
+            .project-header { flex-direction: column; gap: 10px; }
+            .stats { flex-direction: column; gap: 10px; align-items: center; }
+        }
     </style>
 </head>
 <body>
@@ -119,245 +164,115 @@
             <p class="subtitle">每日 AI、具身智能热门开源项目精选</p>
         </header>
         
-        <div class="date-nav">
-            <a href="./index.html" class="date-btn">今天</a>
-            <a href="./2026-03-17.html" class="date-btn">3月17日</a>
+        <div class="date-nav" id="dateNav"></div>
+        
+        <div class="filter-section">
+            <div class="filter-label">🏷️ 标签筛选：</div>
+            <div class="tag-filter" id="tagFilter">
+                <button class="tag-btn active" data-tag="all">全部</button>
+                <button class="tag-btn" data-tag="agent">Agent</button>
+                <button class="tag-btn" data-tag="llm">LLM</button>
+                <button class="tag-btn" data-tag="robotics">机器人/具身</button>
+                <button class="tag-btn" data-tag="vision">视觉/CV</button>
+                <button class="tag-btn" data-tag="speech">语音/TTS</button>
+                <button class="tag-btn" data-tag="rag">RAG</button>
+                <button class="tag-btn" data-tag="training">训练/推理</button>
+            </div>
         </div>
         
         <div class="stats">
-            <div>项目数: <strong>14</strong></div>
-            <div>本周新增: <strong>95,198</strong> ⭐</div>
+            <div>项目数: <strong id="totalCount">14</strong></div>
+            <div>本周新增: <strong id="totalStars">106,547</strong> ⭐</div>
         </div>
         
-        <div class="project-list">
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/msitarzewski/agency-agents" target="_blank" class="project-name">msitarzewski/agency-agents</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 50.8k</span>
-                        <span class="stat today">+32,648 this week</span>
-                        <span class="stat fork">⑂ 7.6k</span>
-                    </div>
-                </div>
-                <p class="project-desc">A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</p>
-                    <div class="keywords">
-                            <span class="keyword">ai</span>
-                            <span class="keyword">agent</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/microsoft/BitNet" target="_blank" class="project-name">microsoft/BitNet</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 35.1k</span>
-                        <span class="stat today">+6,209 this week</span>
-                        <span class="stat fork">⑂ 3.0k</span>
-                    </div>
-                </div>
-                <p class="project-desc">Official inference framework for 1-bit LLMs</p>
-                    <div class="keywords">
-                            <span class="keyword">llm</span>
-                            <span class="keyword">inference</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/lightpanda-io/browser" target="_blank" class="project-name">lightpanda-io/browser</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 20.8k</span>
-                        <span class="stat today">+7,998 this week</span>
-                        <span class="stat fork">⑂ 784</span>
-                    </div>
-                </div>
-                <p class="project-desc">Lightpanda: the headless browser designed for AI and automation</p>
-                    <div class="keywords">
-                            <span class="keyword">ai</span>
-                            <span class="keyword">automation</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/alibaba/page-agent" target="_blank" class="project-name">alibaba/page-agent</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 10.1k</span>
-                        <span class="stat today">+7,084 this week</span>
-                        <span class="stat fork">⑂ 777</span>
-                    </div>
-                </div>
-                <p class="project-desc">JavaScript in-page GUI agent. Control web interfaces with natural language.</p>
-                    <div class="keywords">
-                            <span class="keyword">agent</span>
-                            <span class="keyword">control</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/promptfoo/promptfoo" target="_blank" class="project-name">promptfoo/promptfoo</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 17.0k</span>
-                        <span class="stat today">+5,792 this week</span>
-                        <span class="stat fork">⑂ 1.5k</span>
-                    </div>
-                </div>
-                <p class="project-desc">Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI.</p>
-                    <div class="keywords">
-                            <span class="keyword">ai</span>
-                            <span class="keyword">gpt</span>
-                            <span class="keyword">claude</span>
-                            <span class="keyword">gemini</span>
-                            <span class="keyword">agent</span>
-                            <span class="keyword">rag</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/fishaudio/fish-speech" target="_blank" class="project-name">fishaudio/fish-speech</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 27.9k</span>
-                        <span class="stat today">+4,872 this week</span>
-                        <span class="stat fork">⑂ 2.3k</span>
-                    </div>
-                </div>
-                <p class="project-desc">SOTA Open Source TTS</p>
-                    <div class="keywords">
-                            <span class="keyword">speech</span>
-                            <span class="keyword">tts</span>
-                            <span class="keyword">audio</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/obra/superpowers" target="_blank" class="project-name">obra/superpowers</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 90.8k</span>
-                        <span class="stat today">+3,050 this week</span>
-                        <span class="stat fork">⑂ 7.2k</span>
-                    </div>
-                </div>
-                <p class="project-desc">An agentic skills framework & software development methodology that works.</p>
-                    <div class="keywords">
-                            <span class="keyword">agent</span>
-                            <span class="keyword">agentic</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/NousResearch/hermes-agent" target="_blank" class="project-name">NousResearch/hermes-agent</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 8.3k</span>
-                        <span class="stat today">+2,615 this week</span>
-                        <span class="stat fork">⑂ 970</span>
-                    </div>
-                </div>
-                <p class="project-desc">The agent that grows with you</p>
-                    <div class="keywords">
-                            <span class="keyword">agent</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/AstrBotDevs/AstrBot" target="_blank" class="project-name">AstrBotDevs/AstrBot</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 25.5k</span>
-                        <span class="stat today">+2,298 this week</span>
-                        <span class="stat fork">⑂ 1.7k</span>
-                    </div>
-                </div>
-                <p class="project-desc">Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature</p>
-                    <div class="keywords">
-                            <span class="keyword">ai</span>
-                            <span class="keyword">llm</span>
-                            <span class="keyword">agent</span>
-                            <span class="keyword">agentic</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/volcengine/OpenViking" target="_blank" class="project-name">volcengine/OpenViking</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 14.9k</span>
-                        <span class="stat today">+2,298 this week</span>
-                        <span class="stat fork">⑂ 1.0k</span>
-                    </div>
-                </div>
-                <p class="project-desc">OpenViking is an open-source context database designed specifically for AI Agents</p>
-                    <div class="keywords">
-                            <span class="keyword">ai</span>
-                            <span class="keyword">agent</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/virattt/ai-hedge-fund" target="_blank" class="project-name">virattt/ai-hedge-fund</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 49.2k</span>
-                        <span class="stat today">+2,072 this week</span>
-                        <span class="stat fork">⑂ 8.6k</span>
-                    </div>
-                </div>
-                <p class="project-desc">An AI Hedge Fund Team</p>
-                    <div class="keywords">
-                            <span class="keyword">ai</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/pbakaus/impeccable" target="_blank" class="project-name">pbakaus/impeccable</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 9.7k</span>
-                        <span class="stat today">+1,970 this week</span>
-                        <span class="stat fork">⑂ 374</span>
-                    </div>
-                </div>
-                <p class="project-desc">The design language that makes your AI harness better at design.</p>
-                    <div class="keywords">
-                            <span class="keyword">ai</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/vectorize-io/hindsight" target="_blank" class="project-name">vectorize-io/hindsight</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 4.5k</span>
-                        <span class="stat today">+1,447 this week</span>
-                        <span class="stat fork">⑂ 300</span>
-                    </div>
-                </div>
-                <p class="project-desc">Hindsight: Agent Memory That Learns</p>
-                    <div class="keywords">
-                            <span class="keyword">agent</span>
-                    </div>
-            </div>
-            
-            <div class="project-card">
-                <div class="project-header">
-                    <a href="https://github.com/666ghj/BettaFish" target="_blank" class="project-name">666ghj/BettaFish</a>
-                    <div class="project-stats">
-                        <span class="stat star">⭐ 39.3k</span>
-                        <span class="stat today">+0 this week</span>
-                        <span class="stat fork">⑂ 7.3k</span>
-                    </div>
-                </div>
-                <p class="project-desc">微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌</p>
-                    <div class="keywords">
-                            <span class="keyword">agent</span>
-                    </div>
-            </div>
-            
-        </div>
+        <div class="project-list" id="projectList"></div>
     </div>
+
+    <script>
+        const projectsData = [{"name": "msitarzewski/agency-agents", "url": "https://github.com/msitarzewski/agency-agents", "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.", "stars": 50791, "forks": 7561, "stars_today": 32648, "tags": ["agent"]}, {"name": "microsoft/BitNet", "url": "https://github.com/microsoft/BitNet", "description": "Official inference framework for 1-bit LLMs", "stars": 35079, "forks": 2997, "stars_today": 6209, "tags": ["llm", "training"]}, {"name": "lightpanda-io/browser", "url": "https://github.com/lightpanda-io/browser", "description": "Lightpanda: the headless browser designed for AI and automation", "stars": 20762, "forks": 784, "stars_today": 7998, "tags": ["ai"]}, {"name": "alibaba/page-agent", "url": "https://github.com/alibaba/page-agent", "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.", "stars": 10111, "forks": 777, "stars_today": 7084, "tags": ["agent"]}, {"name": "promptfoo/promptfoo", "url": "https://github.com/promptfoo/promptfoo", "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.", "stars": 17049, "forks": 1476, "stars_today": 5792, "tags": ["llm", "agent", "rag"]}, {"name": "volcengine/OpenViking", "url": "https://github.com/volcengine/OpenViking", "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.", "stars": 14889, "forks": 1012, "stars_today": 8297, "tags": ["agent"]}, {"name": "fishaudio/fish-speech", "url": "https://github.com/fishaudio/fish-speech", "description": "SOTA Open Source TTS", "stars": 27928, "forks": 2327, "stars_today": 2638, "tags": ["speech"]}, {"name": "pbakaus/impeccable", "url": "https://github.com/pbakaus/impeccable", "description": "The design language that makes your AI harness better at design.", "stars": 9700, "forks": 374, "stars_today": 6515, "tags": ["ai"]}, {"name": "NousResearch/hermes-agent", "url": "https://github.com/NousResearch/hermes-agent", "description": "The agent that grows with you", "stars": 8315, "forks": 970, "stars_today": 5270, "tags": ["agent"]}, {"name": "obra/superpowers", "url": "https://github.com/obra/superpowers", "description": "An agentic skills framework & software development methodology that works.", "stars": 90781, "forks": 7190, "stars_today": 13195, "tags": ["agent"]}, {"name": "virattt/ai-hedge-fund", "url": "https://github.com/virattt/ai-hedge-fund", "description": "An AI Hedge Fund Team", "stars": 49197, "forks": 8565, "stars_today": 2162, "tags": ["ai"]}, {"name": "vectorize-io/hindsight", "url": "https://github.com/vectorize-io/hindsight", "description": "Hindsight: Agent Memory That Learns", "stars": 4475, "forks": 300, "stars_today": 1614, "tags": ["agent"]}, {"name": "AstrBotDevs/AstrBot", "url": "https://github.com/AstrBotDevs/AstrBot", "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728", "stars": 25498, "forks": 1740, "stars_today": 5107, "tags": ["llm", "agent"]}, {"name": "666ghj/BettaFish", "url": "https://github.com/666ghj/BettaFish", "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002", "stars": 39255, "forks": 7331, "stars_today": 2018, "tags": ["agent"]}];
+        const dates = [{"date": "2026-03-17", "label": "\u4eca\u5929"}];
+
+        let currentTag = 'all';
+
+        const tagMap = {
+            'agent': ['agent', 'agentic', 'autonomous'],
+            'llm': ['llm', 'gpt', 'claude', 'gemini'],
+            'robotics': ['robotics', 'robot', 'embodied', 'humanoid'],
+            'vision': ['vision', 'cv', 'computer vision', 'multimodal', 'vlm'],
+            'speech': ['speech', 'tts', 'stt', 'voice', 'audio'],
+            'rag': ['rag', 'retrieval', 'knowledge graph'],
+            'training': ['training', 'inference', 'cuda', 'gpu']
+        };
+
+        function init() {
+            renderDateNav();
+            renderProjects();
+            initTagFilter();
+        }
+
+        function renderDateNav() {
+            const nav = document.getElementById('dateNav');
+            nav.innerHTML = dates.map(d => 
+                `<a href="./${d.date}.html" class="date-btn">${d.label}</a>`
+            ).join('');
+        }
+
+        function initTagFilter() {
+            const buttons = document.querySelectorAll('.tag-btn');
+            buttons.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    buttons.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentTag = btn.dataset.tag;
+                    renderProjects();
+                });
+            });
+        }
+
+        function renderProjects() {
+            const listEl = document.getElementById('projectList');
+            
+            let filtered = projectsData;
+            if (currentTag !== 'all') {
+                const keywords = tagMap[currentTag] || [currentTag];
+                filtered = projectsData.filter(p => 
+                    p.tags.some(t => keywords.includes(t))
+                );
+            }
+
+            document.getElementById('totalCount').textContent = filtered.length;
+            const totalStars = filtered.reduce((sum, p) => sum + p.stars_today, 0);
+            document.getElementById('totalStars').textContent = totalStars.toLocaleString();
+
+            if (filtered.length === 0) {
+                listEl.innerHTML = '<div class="no-results">没有找到匹配的项目</div>';
+                return;
+            }
+
+            listEl.innerHTML = filtered.map(p => `
+                <div class="project-card">
+                    <div class="project-header">
+                        <a href="${p.url}" target="_blank" class="project-name">${p.name}</a>
+                        <div class="project-stats">
+                            <span class="stat star">⭐ ${formatNumber(p.stars)}</span>
+                            <span class="stat today">+${p.stars_today.toLocaleString()} this week</span>
+                            <span class="stat fork">⑂ ${formatNumber(p.forks)}</span>
+                        </div>
+                    </div>
+                    <p class="project-desc">${p.description || '暂无简介'}</p>
+                    <div class="keywords">
+                        ${p.tags.map(t => `<span class="keyword">${t}</span>`).join('')}
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function formatNumber(n) {
+            if (n >= 1000) return (n / 1000).toFixed(1) + 'k';
+            return n;
+        }
+
+        init();
+    </script>
 </body>
 </html>

@@ -1,0 +1,43 @@
+name: Daily GitHub Trending AI Collection
+
+on:
+  schedule:
+    # 每天早上 8:00 (北京时间) 运行
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run collector
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          python collector.py
+
+      - name: Generate static HTML
+        run: |
+          python generate_html.py
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto update: $(date +%Y-%m-%d)"
+          file_pattern: "data/*.json index.html"
