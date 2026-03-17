@@ -145,12 +145,30 @@ def derive_tags(matched_keywords: list[str]) -> list[str]:
 
 def fallback_translate_to_zh(description_en: str, max_len: int = 200) -> str:
     translated = description_en or ""
-    for en, zh in GLOSSARY.items():
+    replacements = {
+        "agent": "智能体",
+        "agents": "智能体",
+        "framework": "框架",
+        "tool": "工具",
+        "tools": "工具",
+        "browser": "浏览器",
+        "speech": "语音",
+        "robot": "机器人",
+        "robotics": "机器人技术",
+        "vision": "视觉",
+        "multimodal": "多模态",
+        "memory": "记忆",
+        "database": "数据库",
+        "open source": "开源",
+        "inference": "推理",
+        "training": "训练",
+    }
+    for en, zh in replacements.items():
         translated = re.sub(rf"\b{re.escape(en)}\b", zh, translated, flags=re.IGNORECASE)
     translated = translated.strip()
     if not translated:
         return ""
-    return ("这是一个与 AI / 具身智能相关的开源项目：" + translated)[:max_len] + ("..." if len(translated) > max_len else "")
+    return ("这是一个" + translated)[:max_len] + ("..." if len(translated) > max_len else "")
 
 
 def generate_summary_with_openrouter(project: dict[str, Any], max_len: int = 200) -> str:
@@ -166,7 +184,7 @@ def generate_summary_with_openrouter(project: dict[str, Any], max_len: int = 200
         "2. 风格像中文产品介绍或技术媒体项目卡片；\n"
         "3. 重点说明这个项目是什么、主要做什么、适合什么场景；\n"
         "4. 语气简洁、自然、专业；\n"
-        "5. 保留关键技术缩写，如 LLM, RAG, VLM, TTS, STT, CV, SLAM, GPU, CUDA, API；\n"
+        "5. 尽量全部改写成自然中文，除非项目名或极少数无法自然翻译的专有名词；\n"
         "6. 不要编造原文没有的信息；\n"
         "7. 只输出 1 句话中文简介。\n"
         "8. 尽量采用类似这样的表达：『这是一个……的开源项目/工具/框架，适合……场景。』\n\n"
