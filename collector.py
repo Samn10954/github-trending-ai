@@ -4,7 +4,7 @@ GitHub Trending AI 采集器
 - 支持 daily / weekly / monthly
 - 过滤 AI / 具身智能相关项目
 - 生成标准化 JSON / Markdown 数据
-- 优先使用 OpenRouter 大模型翻译简介，失败时回退到术语翻译
+- 优先使用 OpenRouter 大模型生成中文简介，失败时回退到术语摘要
 """
 
 from __future__ import annotations
@@ -147,27 +147,39 @@ def fallback_translate_to_zh(description_en: str, max_len: int = 200) -> str:
     translated = description_en or ""
     for en, zh in GLOSSARY.items():
         translated = re.sub(rf"\b{re.escape(en)}\b", zh, translated, flags=re.IGNORECASE)
-    return translated[:max_len] + ("..." if len(translated) > max_len else "")
+    translated = translated.strip()
+    if not translated:
+        return ""
+    return ("这是一个与 AI / 具身智能相关的开源项目：" + translated)[:max_len] + ("..." if len(translated) > max_len else "")
 
 
-def translate_with_openrouter(description_en: str, max_len: int = 200) -> str:
+def generate_summary_with_openrouter(project: dict[str, Any], max_len: int = 200) -> str:
+    description_en = project.get("description_en", "")
     if not description_en:
         return ""
     if not OPENROUTER_API_KEY:
         return fallback_translate_to_zh(description_en, max_len)
     prompt = (
-        "请把下面这段 GitHub 开源项目简介翻译成简洁、自然、专业的中文。"
-        "保留专有名词、项目名、技术缩写（如 LLM, RAG, VLM, TTS, STT, CV, SLAM, GPU, CUDA, API, UI, GUI, CLI, SDK, IDE, OSS）。"
-        "不要解释，不要补充，只输出翻译结果。\n\n"
-        f"原文：{description_en}"
+        "请基于下面这个 GitHub 开源项目的信息，生成一段简洁、自然、专业的中文简介。"
+        "要求：\n"
+        "1. 不要逐字翻译原文；\n"
+        "2. 要像中文科技媒体/技术社区的项目简介；\n"
+        "3. 概括这个项目是做什么的、适合什么场景；\n"
+        "4. 保留关键技术缩写，如 LLM, RAG, VLM, TTS, STT, CV, SLAM, GPU, CUDA, API；\n"
+        "5. 不要编造原文没有的信息；\n"
+        "6. 只输出 1 句话中文简介。\n\n"
+        f"项目名：{project.get('name', '')}\n"
+        f"英文简介：{description_en}\n"
+        f"标签：{', '.join(project.get('tags', []))}\n"
+        f"相关关键词：{', '.join(project.get('matched_keywords', []))}"
     )
     payload = {
         "model": OPENROUTER_MODEL,
         "messages": [
-            {"role": "system", "content": "你是一个专业的技术翻译助手。"},
+            {"role": "system", "content": "你是一个专业的技术编辑，擅长把英文项目说明改写成简洁准确的中文项目简介。"},
             {"role": "user", "content": prompt},
         ],
-        "temperature": 0.2,
+        "temperature": 0.3,
     }
     headers = {
         "Authorization": f"Bearer {OPENROUTER_API_KEY}",
@@ -197,7 +209,7 @@ def filter_projects(projects: list[dict[str, Any]]) -> list[dict[str, Any]]:
             project["matched_keywords"] = matched_keywords
             project["tags"] = derive_tags(matched_keywords)
             project["relevance_score"] = score
-            project["description_zh"] = translate_with_openrouter(project["description_en"])
+            project["description_zh"] = generate_summary_with_openrouter(project)
             filtered.append(project)
     return filtered
 
