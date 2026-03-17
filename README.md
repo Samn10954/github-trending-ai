@@ -1,52 +1,58 @@
 # GitHub Trending AI 每日精选
 
-> 每日 AI、具身智能热门开源项目精选
+每天自动收集 GitHub Trending 中与 AI、具身智能相关的开源项目，并生成可按日期浏览、按标签筛选的静态网页。
 
-## 快速部署到 GitHub Pages
+## 功能
 
-### 方式一：手动部署（推荐）
-
-1. **创建 GitHub 仓库**
-   - 打开 https://github.com/new
-   - 仓库名：`github-trending-ai`
-   - 设为 **Public**
-   - 不要勾选 README
-
-2. **推送代码**
-   ```bash
-   cd ~/.openclaw/workspace/github-trending-ai
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/github-trending-ai.git
-   git push -u origin main
-   ```
-
-3. **开启 GitHub Pages**
-   - 进入仓库 → Settings → Pages
-   - Source 选择 **Deploy from a branch**
-   - Branch 选择 **gh-pages** / **(root)**
-   - Save
-
-4. **获取访问链接**
-   - 等待 1-2 分钟，页面会生成类似 `https://YOUR_USERNAME.github.io/github-trending-ai/` 的链接
-
-### 方式二：自动部署（推荐）
-
-推送代码后，GitHub Actions 会自动部署：
-- 打开仓库 → Actions
-- 查看部署状态
-- 成功后点击 "GitHub Pages" 链接
+- 每天早上 8:00（北京时间）自动采集
+- 数据源：GitHub Trending weekly
+- 按日期查看历史结果
+- 按标签筛选：Agent / LLM / 机器人/具身 / 视觉 / 多模态 / 语音 / RAG / 训练推理
+- 输出 JSON、Markdown、静态 HTML
 
 ## 本地运行
 
 ```bash
-cd github-trending-ai
-python3 collector.py    # 采集数据
-python3 server.py       # 启动本地服务 http://localhost:8080
+python3 collector.py
+python3 generate_html.py
+python3 server.py
 ```
 
-## 自动采集
+打开：<http://localhost:8080>
 
-已配置每日 8:00 自动运行采集脚本（需手动触发或配置 Cron）
+## 数据结构
+
+每个 `data/YYYY-MM-DD.json` 包含：
+
+- `date`: 数据日期
+- `period`: 统计周期（当前为 `weekly`）
+- `count`: 项目数
+- `projects[]`:
+  - `name`
+  - `url`
+  - `description_en`
+  - `description_zh`
+  - `stars`
+  - `forks`
+  - `stars_period`
+  - `matched_keywords`
+  - `tags`
+  - `relevance_score`
+
+## 自动更新
+
+GitHub Actions 已配置为：
+- 每天北京时间 08:00 自动执行
+- 也可手动在 Actions 页面触发
+
+流程：
+1. 运行 `collector.py`
+2. 运行 `generate_html.py`
+3. 自动提交更新后的数据和页面
+
+## 后续可继续优化
+
+- 接入中文翻译 API，真正生成 `description_zh`
+- 增加排序（按 star / 新增 star）
+- 增加更多标签和更精细的分类
+- 改为 GitHub API + HTML fallback 双通道采集
