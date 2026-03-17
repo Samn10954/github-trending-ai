@@ -71,6 +71,8 @@
 <option value="stars">按总 Stars 排序</option>
 <option value="forks">按 Forks 排序</option>
 <option value="relevance_score">按相关性排序</option></select></div>
+          <div class="sort-wrap"><label for="chartMetricSelect">趋势指标</label><select id="chartMetricSelect" class="sort-select"><option value="stars_period">周期新增</option>
+<option value="stars">总 Stars</option></select></div>
         </div>
       </div>
     </div>
@@ -98,6 +100,7 @@
     let favorites = JSON.parse(localStorage.getItem(favoritesKey) || '[]');
     let activeTag = 'all';
     let activeSort = 'stars_period';
+    let activeChartMetric = 'stars_period';
     let activeTrendProject = null;
 
     function formatNumber(n) { return n >= 1000 ? (n / 1000).toFixed(1) + 'k' : String(n); }
@@ -123,8 +126,8 @@
         return;
       }
       const series = projectTrends[projectName];
-      title.textContent = projectName + ' 的历史趋势';
-      const values = series.map(x => x.stars_period || 0);
+      title.textContent = projectName + ' 的历史趋势（' + (activeChartMetric === 'stars' ? '总 Stars' : '周期新增') + '）';
+      const values = series.map(x => x[activeChartMetric] || 0);
       const maxVal = Math.max(...values, 1);
       const left = 50, right = 20, top = 20, bottom = 40;
       const plotW = w - left - right, plotH = h - top - bottom;
@@ -132,7 +135,7 @@
       ctx.strokeStyle = '#58a6ff'; ctx.lineWidth = 2; ctx.beginPath();
       series.forEach((point, i) => {
         const x = left + (plotW * i) / Math.max(series.length - 1, 1);
-        const y = top + plotH - ((point.stars_period || 0) / maxVal) * plotH;
+        const y = top + plotH - (((point[activeChartMetric] || 0)) / maxVal) * plotH;
         if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
         ctx.fillStyle = '#a371f7'; ctx.beginPath(); ctx.arc(x, y, 3, 0, Math.PI * 2); ctx.fill();
       });
@@ -183,6 +186,7 @@
       renderProjects();
     }));
     document.getElementById('sortSelect').addEventListener('change', (event) => { activeSort = event.target.value; renderProjects(); });
+    document.getElementById('chartMetricSelect').addEventListener('change', (event) => { activeChartMetric = event.target.value; drawTrendChart(activeTrendProject); });
 
     renderProjects();
     drawTrendChart(null);

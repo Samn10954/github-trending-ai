@@ -28,6 +28,7 @@ SORT_META = [
     ("stars_period", "按周期新增排序"), ("stars", "按总 Stars 排序"),
     ("forks", "按 Forks 排序"), ("relevance_score", "按相关性排序"),
 ]
+CHART_METRICS = [("stars_period", "周期新增"), ("stars", "总 Stars")]
 
 
 def format_date_label(date_str: str) -> str:
@@ -89,6 +90,10 @@ def build_tag_buttons() -> str:
 
 def build_sort_options() -> str:
     return "\n".join(f'<option value="{k}">{v}</option>' for k, v in SORT_META)
+
+
+def build_chart_metric_options() -> str:
+    return "\n".join(f'<option value="{k}">{v}</option>' for k, v in CHART_METRICS)
 
 
 def build_archive(records: list[dict[str, Any]], current_period: str) -> str:
@@ -170,6 +175,7 @@ def render_page(record: dict[str, Any], records: list[dict[str, Any]], period: s
           <div><div class="filter-label">🏷️ 标签筛选</div><div class="tag-filter">{build_tag_buttons()}</div></div>
           <div><div class="filter-label">📅 榜单周期</div><div class="tag-filter">{build_period_buttons(period)}</div></div>
           <div class="sort-wrap"><label for="sortSelect">排序</label><select id="sortSelect" class="sort-select">{build_sort_options()}</select></div>
+          <div class="sort-wrap"><label for="chartMetricSelect">趋势指标</label><select id="chartMetricSelect" class="sort-select">{build_chart_metric_options()}</select></div>
         </div>
       </div>
     </div>
@@ -197,6 +203,7 @@ def render_page(record: dict[str, Any], records: list[dict[str, Any]], period: s
     let favorites = JSON.parse(localStorage.getItem(favoritesKey) || '[]');
     let activeTag = 'all';
     let activeSort = 'stars_period';
+    let activeChartMetric = 'stars_period';
     let activeTrendProject = null;
 
     function formatNumber(n) {{ return n >= 1000 ? (n / 1000).toFixed(1) + 'k' : String(n); }}
@@ -222,8 +229,8 @@ def render_page(record: dict[str, Any], records: list[dict[str, Any]], period: s
         return;
       }}
       const series = projectTrends[projectName];
-      title.textContent = projectName + ' 的历史趋势';
-      const values = series.map(x => x.stars_period || 0);
+      title.textContent = projectName + ' 的历史趋势（' + (activeChartMetric === 'stars' ? '总 Stars' : '周期新增') + '）';
+      const values = series.map(x => x[activeChartMetric] || 0);
       const maxVal = Math.max(...values, 1);
       const left = 50, right = 20, top = 20, bottom = 40;
       const plotW = w - left - right, plotH = h - top - bottom;
@@ -231,7 +238,7 @@ def render_page(record: dict[str, Any], records: list[dict[str, Any]], period: s
       ctx.strokeStyle = '#58a6ff'; ctx.lineWidth = 2; ctx.beginPath();
       series.forEach((point, i) => {{
         const x = left + (plotW * i) / Math.max(series.length - 1, 1);
-        const y = top + plotH - ((point.stars_period || 0) / maxVal) * plotH;
+        const y = top + plotH - (((point[activeChartMetric] || 0)) / maxVal) * plotH;
         if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
         ctx.fillStyle = '#a371f7'; ctx.beginPath(); ctx.arc(x, y, 3, 0, Math.PI * 2); ctx.fill();
       }});
@@ -282,6 +289,7 @@ def render_page(record: dict[str, Any], records: list[dict[str, Any]], period: s
       renderProjects();
     }}));
     document.getElementById('sortSelect').addEventListener('change', (event) => {{ activeSort = event.target.value; renderProjects(); }});
+    document.getElementById('chartMetricSelect').addEventListener('change', (event) => {{ activeChartMetric = event.target.value; drawTrendChart(activeTrendProject); }});
 
     renderProjects();
     drawTrendChart(null);

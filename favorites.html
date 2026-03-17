@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>我的收藏 - GitHub Trending AI</title>
+  <style>
+    body { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; background:#0d1117; color:#c9d1d9; margin:0; }
+    .container { max-width: 1000px; margin: 0 auto; padding: 24px; }
+    h1 { color:#58a6ff; }
+    .tip { color:#8b949e; margin: 8px 0 20px; }
+    .item { background:#161b22; border:1px solid #30363d; border-radius:10px; padding:16px; margin-bottom:12px; }
+    .name { color:#58a6ff; font-weight:600; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>⭐ 我的收藏</h1>
+    <div class="tip">这个页面会显示你在当前浏览器里收藏的项目名称。后续还可以继续增强成跨设备同步。</div>
+    <div id="list"></div>
+  </div>
+  <script>
+    const favorites = JSON.parse(localStorage.getItem('github-trending-ai-favorites') || '[]');
+    const list = document.getElementById('list');
+    if (!favorites.length) {
+      list.innerHTML = '<div class="item">还没有收藏任何项目。</div>';
+    } else {
+      list.innerHTML = favorites.map(name => '<div class="item"><div class="name">' + name + '</div></div>').join('');
+    }
+  </script>
+</body>
+</html>
