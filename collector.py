@@ -160,14 +160,16 @@ def generate_summary_with_openrouter(project: dict[str, Any], max_len: int = 200
     if not OPENROUTER_API_KEY:
         return fallback_translate_to_zh(description_en, max_len)
     prompt = (
-        "请基于下面这个 GitHub 开源项目的信息，生成一段简洁、自然、专业的中文简介。"
+        "请基于下面这个 GitHub 开源项目的信息，生成一段产品介绍型的中文简介。"
         "要求：\n"
         "1. 不要逐字翻译原文；\n"
-        "2. 要像中文科技媒体/技术社区的项目简介；\n"
-        "3. 概括这个项目是做什么的、适合什么场景；\n"
-        "4. 保留关键技术缩写，如 LLM, RAG, VLM, TTS, STT, CV, SLAM, GPU, CUDA, API；\n"
-        "5. 不要编造原文没有的信息；\n"
-        "6. 只输出 1 句话中文简介。\n\n"
+        "2. 风格像中文产品介绍或技术媒体项目卡片；\n"
+        "3. 重点说明这个项目是什么、主要做什么、适合什么场景；\n"
+        "4. 语气简洁、自然、专业；\n"
+        "5. 保留关键技术缩写，如 LLM, RAG, VLM, TTS, STT, CV, SLAM, GPU, CUDA, API；\n"
+        "6. 不要编造原文没有的信息；\n"
+        "7. 只输出 1 句话中文简介。\n"
+        "8. 尽量采用类似这样的表达：『这是一个……的开源项目/工具/框架，适合……场景。』\n\n"
         f"项目名：{project.get('name', '')}\n"
         f"英文简介：{description_en}\n"
         f"标签：{', '.join(project.get('tags', []))}\n"
