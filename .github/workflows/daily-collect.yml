@@ -21,9 +21,13 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 googletrans==4.0.0-rc1
+        run: pip install requests beautifulsoup4
 
       - name: Collect trending data
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          TRANSLATION_MODEL: openrouter/openai/gpt-5.4
+          TRENDING_PERIOD: weekly
         run: python collector.py
 
       - name: Generate static pages
