@@ -21,7 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 googletrans==4.0.0-rc1
 
       - name: Collect trending data
         run: python collector.py

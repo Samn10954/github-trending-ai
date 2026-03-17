@@ -171,27 +171,21 @@ def derive_tags(matched_keywords: list[str]) -> list[str]:
     return sorted(tags)
 
 
-def pseudo_translate_to_zh(description_en: str) -> str:
-    """占位翻译：当前先保留英文，后续可接真实翻译 API。"""
-    if not description_en:
-        return ""
-    glossary = {
-        "agent": "智能体",
-        "agents": "智能体",
-        "framework": "框架",
-        "inference": "推理",
-        "training": "训练",
-        "speech": "语音",
-        "browser": "浏览器",
-        "robot": "机器人",
-        "multimodal": "多模态",
-        "vision": "视觉",
-        "database": "数据库",
-    }
-    translated = description_en
-    for en, zh in glossary.items():
-        translated = re.sub(rf"\b{re.escape(en)}\b", zh, translated, flags=re.IGNORECASE)
-    return translated
+def translate_to_zh(description_en: str, max_len: int = 200) -> str:
+    """使用 Google Translate API 翻译简介"""
+    from googletrans import Translator
+    translator = Translator()
+    
+    if not description_en or len(description_en) > max_len * 2:
+        return description_en[:max_len] + "..." if len(description_en) > max_len else description_en
+    
+    try:
+        result = translator.translate(description_en, dest='zh-cn')
+        translated = result.text
+        return translated[:max_len] + "..." if len(translated) > max_len else translated
+    except Exception as e:
+        print(f"翻译失败: {e}, 使用原文")
+        return description_en[:max_len] + "..." if len(description_en) > max_len else description_en
 
 
 def filter_projects(projects: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -207,7 +201,7 @@ def filter_projects(projects: list[dict[str, Any]]) -> list[dict[str, Any]]:
             project["matched_keywords"] = matched_keywords
             project["tags"] = derive_tags(matched_keywords)
             project["relevance_score"] = score
-            project["description_zh"] = pseudo_translate_to_zh(project["description_en"])
+            project["description_zh"] = translate_to_zh(project["description_en"])
             filtered.append(project)
     return filtered
 
