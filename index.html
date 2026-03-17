@@ -45,15 +45,10 @@
             color: #58a6ff;
             padding: 8px 16px;
             border-radius: 6px;
-            cursor: pointer;
+            text-decoration: none;
             transition: all 0.2s;
         }
         .date-btn:hover { background: #30363d; }
-        .date-btn.active {
-            background: #238636;
-            border-color: #238636;
-            color: white;
-        }
         
         .stats {
             display: flex;
@@ -115,14 +110,6 @@
             border-radius: 12px;
             font-size: 0.8rem;
         }
-        
-        .loading { text-align: center; padding: 40px; color: #8b949e; }
-        .error { text-align: center; padding: 40px; color: #f85149; }
-        
-        @media (max-width: 768px) {
-            .project-header { flex-direction: column; gap: 10px; }
-            .stats { flex-direction: column; gap: 10px; align-items: center; }
-        }
     </style>
 </head>
 <body>
@@ -132,130 +119,245 @@
             <p class="subtitle">每日 AI、具身智能热门开源项目精选</p>
         </header>
         
-        <div class="date-nav" id="dateNav"></div>
+        <div class="date-nav">
+            <a href="./index.html" class="date-btn">今天</a>
+            <a href="./2026-03-17.html" class="date-btn">3月17日</a>
+        </div>
         
-        <div class="stats" id="stats"></div>
+        <div class="stats">
+            <div>项目数: <strong>14</strong></div>
+            <div>本周新增: <strong>95,198</strong> ⭐</div>
+        </div>
         
-        <div class="project-list" id="projectList">
-            <div class="loading">加载中...</div>
+        <div class="project-list">
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/msitarzewski/agency-agents" target="_blank" class="project-name">msitarzewski/agency-agents</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 50.8k</span>
+                        <span class="stat today">+32,648 this week</span>
+                        <span class="stat fork">⑂ 7.6k</span>
+                    </div>
+                </div>
+                <p class="project-desc">A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</p>
+                    <div class="keywords">
+                            <span class="keyword">ai</span>
+                            <span class="keyword">agent</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/microsoft/BitNet" target="_blank" class="project-name">microsoft/BitNet</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 35.1k</span>
+                        <span class="stat today">+6,209 this week</span>
+                        <span class="stat fork">⑂ 3.0k</span>
+                    </div>
+                </div>
+                <p class="project-desc">Official inference framework for 1-bit LLMs</p>
+                    <div class="keywords">
+                            <span class="keyword">llm</span>
+                            <span class="keyword">inference</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/lightpanda-io/browser" target="_blank" class="project-name">lightpanda-io/browser</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 20.8k</span>
+                        <span class="stat today">+7,998 this week</span>
+                        <span class="stat fork">⑂ 784</span>
+                    </div>
+                </div>
+                <p class="project-desc">Lightpanda: the headless browser designed for AI and automation</p>
+                    <div class="keywords">
+                            <span class="keyword">ai</span>
+                            <span class="keyword">automation</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/alibaba/page-agent" target="_blank" class="project-name">alibaba/page-agent</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 10.1k</span>
+                        <span class="stat today">+7,084 this week</span>
+                        <span class="stat fork">⑂ 777</span>
+                    </div>
+                </div>
+                <p class="project-desc">JavaScript in-page GUI agent. Control web interfaces with natural language.</p>
+                    <div class="keywords">
+                            <span class="keyword">agent</span>
+                            <span class="keyword">control</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/promptfoo/promptfoo" target="_blank" class="project-name">promptfoo/promptfoo</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 17.0k</span>
+                        <span class="stat today">+5,792 this week</span>
+                        <span class="stat fork">⑂ 1.5k</span>
+                    </div>
+                </div>
+                <p class="project-desc">Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI.</p>
+                    <div class="keywords">
+                            <span class="keyword">ai</span>
+                            <span class="keyword">gpt</span>
+                            <span class="keyword">claude</span>
+                            <span class="keyword">gemini</span>
+                            <span class="keyword">agent</span>
+                            <span class="keyword">rag</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/fishaudio/fish-speech" target="_blank" class="project-name">fishaudio/fish-speech</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 27.9k</span>
+                        <span class="stat today">+4,872 this week</span>
+                        <span class="stat fork">⑂ 2.3k</span>
+                    </div>
+                </div>
+                <p class="project-desc">SOTA Open Source TTS</p>
+                    <div class="keywords">
+                            <span class="keyword">speech</span>
+                            <span class="keyword">tts</span>
+                            <span class="keyword">audio</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/obra/superpowers" target="_blank" class="project-name">obra/superpowers</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 90.8k</span>
+                        <span class="stat today">+3,050 this week</span>
+                        <span class="stat fork">⑂ 7.2k</span>
+                    </div>
+                </div>
+                <p class="project-desc">An agentic skills framework & software development methodology that works.</p>
+                    <div class="keywords">
+                            <span class="keyword">agent</span>
+                            <span class="keyword">agentic</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/NousResearch/hermes-agent" target="_blank" class="project-name">NousResearch/hermes-agent</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 8.3k</span>
+                        <span class="stat today">+2,615 this week</span>
+                        <span class="stat fork">⑂ 970</span>
+                    </div>
+                </div>
+                <p class="project-desc">The agent that grows with you</p>
+                    <div class="keywords">
+                            <span class="keyword">agent</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/AstrBotDevs/AstrBot" target="_blank" class="project-name">AstrBotDevs/AstrBot</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 25.5k</span>
+                        <span class="stat today">+2,298 this week</span>
+                        <span class="stat fork">⑂ 1.7k</span>
+                    </div>
+                </div>
+                <p class="project-desc">Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature</p>
+                    <div class="keywords">
+                            <span class="keyword">ai</span>
+                            <span class="keyword">llm</span>
+                            <span class="keyword">agent</span>
+                            <span class="keyword">agentic</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/volcengine/OpenViking" target="_blank" class="project-name">volcengine/OpenViking</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 14.9k</span>
+                        <span class="stat today">+2,298 this week</span>
+                        <span class="stat fork">⑂ 1.0k</span>
+                    </div>
+                </div>
+                <p class="project-desc">OpenViking is an open-source context database designed specifically for AI Agents</p>
+                    <div class="keywords">
+                            <span class="keyword">ai</span>
+                            <span class="keyword">agent</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/virattt/ai-hedge-fund" target="_blank" class="project-name">virattt/ai-hedge-fund</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 49.2k</span>
+                        <span class="stat today">+2,072 this week</span>
+                        <span class="stat fork">⑂ 8.6k</span>
+                    </div>
+                </div>
+                <p class="project-desc">An AI Hedge Fund Team</p>
+                    <div class="keywords">
+                            <span class="keyword">ai</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/pbakaus/impeccable" target="_blank" class="project-name">pbakaus/impeccable</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 9.7k</span>
+                        <span class="stat today">+1,970 this week</span>
+                        <span class="stat fork">⑂ 374</span>
+                    </div>
+                </div>
+                <p class="project-desc">The design language that makes your AI harness better at design.</p>
+                    <div class="keywords">
+                            <span class="keyword">ai</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/vectorize-io/hindsight" target="_blank" class="project-name">vectorize-io/hindsight</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 4.5k</span>
+                        <span class="stat today">+1,447 this week</span>
+                        <span class="stat fork">⑂ 300</span>
+                    </div>
+                </div>
+                <p class="project-desc">Hindsight: Agent Memory That Learns</p>
+                    <div class="keywords">
+                            <span class="keyword">agent</span>
+                    </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <a href="https://github.com/666ghj/BettaFish" target="_blank" class="project-name">666ghj/BettaFish</a>
+                    <div class="project-stats">
+                        <span class="stat star">⭐ 39.3k</span>
+                        <span class="stat today">+0 this week</span>
+                        <span class="stat fork">⑂ 7.3k</span>
+                    </div>
+                </div>
+                <p class="project-desc">微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌</p>
+                    <div class="keywords">
+                            <span class="keyword">agent</span>
+                    </div>
+            </div>
+            
         </div>
     </div>
-
-    <script>
-        const DATA_DIR = 'data/';
-        let dates = [];
-        let currentDate = '';
-        
-        async function loadDates() {
-            // 尝试从 index.json 获取日期列表，如果没有则扫描现有文件
-            try {
-                const resp = await fetch(DATA_DIR + 'index.json');
-                if (!resp.ok) throw new Error('index.json not found');
-                const data = await resp.json();
-                // 支持两种格式: {dates: [...]} 或 [...]
-                dates = data.dates || data;
-                console.log('Loaded dates:', dates);
-            } catch (e) {
-                console.error('Error loading dates:', e);
-                // 如果没有 index，生成最近7天的日期
-                dates = [];
-                for (let i = 0; i < 7; i++) {
-                    const d = new Date();
-                    d.setDate(d.getDate() - i);
-                    dates.push(d.toISOString().split('T')[0]);
-                }
-            }
-            
-            if (dates.length > 0) {
-                currentDate = dates[0];
-                renderDateNav();
-                loadData(currentDate);
-            } else {
-                document.getElementById('projectList').innerHTML = 
-                    '<div class="error">暂无数据，请先运行采集脚本</div>';
-            }
-        }
-        
-        function renderDateNav() {
-            const nav = document.getElementById('dateNav');
-            nav.innerHTML = dates.map(date => 
-                `<button class="date-btn ${date === currentDate ? 'active' : ''}" 
-                         onclick="selectDate('${date}')">${formatDate(date)}</button>`
-            ).join('');
-        }
-        
-        function formatDate(dateStr) {
-            const d = new Date(dateStr);
-            const today = new Date();
-            const yesterday = new Date(today);
-            yesterday.setDate(yesterday.getDate() - 1);
-            
-            if (dateStr === today.toISOString().split('T')[0]) return '今天';
-            if (dateStr === yesterday.toISOString().split('T')[0]) return '昨天';
-            return `${d.getMonth() + 1}月${d.getDate()}日`;
-        }
-        
-        async function selectDate(date) {
-            currentDate = date;
-            renderDateNav();
-            loadData(date);
-        }
-        
-        async function loadData(date) {
-            const listEl = document.getElementById('projectList');
-            const statsEl = document.getElementById('stats');
-            
-            listEl.innerHTML = '<div class="loading">加载中... (' + date + ')</div>';
-            
-            try {
-                const resp = await fetch(DATA_DIR + date + '.json');
-                console.log('Fetching:', DATA_DIR + date + '.json', 'Status:', resp.status);
-                if (!resp.ok) throw new Error('HTTP ' + resp.status);
-                const data = await resp.json();
-                console.log('Loaded data:', data);
-                
-                // 更新统计
-                const totalStars = data.projects.reduce((sum, p) => sum + p.stars_today, 0);
-                statsEl.innerHTML = `
-                    <div>项目数: <strong>${data.projects.length}</strong></div>
-                    <div>今日新增: <strong>${totalStars}</strong> ⭐</div>
-                `;
-                
-                // 渲染项目列表
-                if (data.projects.length === 0) {
-                    listEl.innerHTML = '<div class="error">当天没有找到相关项目</div>';
-                    return;
-                }
-                
-                listEl.innerHTML = data.projects.map(p => `
-                    <div class="project-card">
-                        <div class="project-header">
-                            <a href="${p.url}" target="_blank" class="project-name">${p.name}</a>
-                            <div class="project-stats">
-                                <span class="stat star">⭐ ${formatNumber(p.stars)}</span>
-                                <span class="stat today">+${p.stars_today} today</span>
-                                <span class="stat fork">⑂ ${formatNumber(p.forks)}</span>
-                            </div>
-                        </div>
-                        <p class="project-desc">${p.description || '暂无简介'}</p>
-                        ${p.matched_keywords ? `<div class="keywords">
-                            ${p.matched_keywords.map(k => `<span class="keyword">${k}</span>`).join('')}
-                        </div>` : ''}
-                    </div>
-                `).join('');
-                
-            } catch (err) {
-                listEl.innerHTML = `<div class="error">加载失败: ${err.message}</div>`;
-            }
-        }
-        
-        function formatNumber(n) {
-            if (n >= 1000) return (n / 1000).toFixed(1) + 'k';
-            return n;
-        }
-        
-        // 初始化
-        loadDates();
-    </script>
 </body>
 </html>
