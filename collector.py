@@ -144,31 +144,24 @@ def derive_tags(matched_keywords: list[str]) -> list[str]:
 
 
 def fallback_translate_to_zh(description_en: str, max_len: int = 200) -> str:
-    translated = description_en or ""
-    replacements = {
-        "agent": "智能体",
-        "agents": "智能体",
-        "framework": "框架",
-        "tool": "工具",
-        "tools": "工具",
-        "browser": "浏览器",
-        "speech": "语音",
-        "robot": "机器人",
-        "robotics": "机器人技术",
-        "vision": "视觉",
-        "multimodal": "多模态",
-        "memory": "记忆",
-        "database": "数据库",
-        "open source": "开源",
-        "inference": "推理",
-        "training": "训练",
-    }
-    for en, zh in replacements.items():
-        translated = re.sub(rf"\b{re.escape(en)}\b", zh, translated, flags=re.IGNORECASE)
-    translated = translated.strip()
-    if not translated:
+    """不要再输出半中半英伪翻译；失败时直接返回原文。"""
+    if not description_en:
         return ""
-    return ("这是一个" + translated)[:max_len] + ("..." if len(translated) > max_len else "")
+    return description_en[:max_len] + ("..." if len(description_en) > max_len else "")
+
+
+def looks_like_bad_zh(text: str) -> bool:
+    if not text:
+        return True
+    zh_chars = len(re.findall(r"[\u4e00-\u9fff]", text))
+    en_words = len(re.findall(r"[A-Za-z]{2,}", text))
+    if zh_chars < 8:
+        return True
+    if en_words > zh_chars / 2:
+        return True
+    if re.search(r"^这是一个[A-Za-z]", text):
+        return True
+    return False
 
 
 def generate_summary_with_openrouter(project: dict[str, Any], max_len: int = 200) -> str:
@@ -210,9 +203,13 @@ def generate_summary_with_openrouter(project: dict[str, Any], max_len: int = 200
         response.raise_for_status()
         data = response.json()
         translated = data["choices"][0]["message"]["content"].strip()
-        return translated[:max_len] + ("..." if len(translated) > max_len else "")
+        translated = translated[:max_len] + ("..." if len(translated) > max_len else "")
+        if looks_like_bad_zh(translated):
+            print("OpenRouter 返回结果中文质量不足，改为保留英文原文")
+            return fallback_translate_to_zh(description_en, max_len)
+        return translated
     except Exception as exc:
-        print(f"OpenRouter 翻译失败: {exc}，回退到术语翻译")
+        print(f"OpenRouter 翻译失败: {exc}，保留英文原文")
         return fallback_translate_to_zh(description_en, max_len)
 
 
