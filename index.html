@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Trending AI - 每日精选</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #0d1117;
+            color: #c9d1d9;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 40px 0;
+            border-bottom: 1px solid #30363d;
+            margin-bottom: 30px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(90deg, #58a6ff, #a371f7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+        .subtitle { color: #8b949e; }
+        
+        .date-nav {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        .date-btn {
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #58a6ff;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .date-btn:hover { background: #30363d; }
+        .date-btn.active {
+            background: #238636;
+            border-color: #238636;
+            color: white;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-bottom: 30px;
+            color: #8b949e;
+        }
+        .stats strong { color: #58a6ff; font-size: 1.5rem; }
+        
+        .project-list { display: grid; gap: 16px; }
+        .project-card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 20px;
+            transition: border-color 0.2s;
+        }
+        .project-card:hover { border-color: #58a6ff; }
+        .project-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+        }
+        .project-name {
+            font-size: 1.2rem;
+            color: #58a6ff;
+            text-decoration: none;
+        }
+        .project-name:hover { text-decoration: underline; }
+        .project-stats {
+            display: flex;
+            gap: 16px;
+            font-size: 0.9rem;
+        }
+        .stat {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .stat.star { color: #e3b341; }
+        .stat.fork { color: #8b949e; }
+        .stat.today { color: #238636; }
+        .project-desc {
+            color: #8b949e;
+            line-height: 1.6;
+            margin-bottom: 12px;
+        }
+        .keywords {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .keyword {
+            background: #21262d;
+            color: #a371f7;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+        }
+        
+        .loading { text-align: center; padding: 40px; color: #8b949e; }
+        .error { text-align: center; padding: 40px; color: #f85149; }
+        
+        @media (max-width: 768px) {
+            .project-header { flex-direction: column; gap: 10px; }
+            .stats { flex-direction: column; gap: 10px; align-items: center; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 GitHub Trending AI</h1>
+            <p class="subtitle">每日 AI、具身智能热门开源项目精选</p>
+        </header>
+        
+        <div class="date-nav" id="dateNav"></div>
+        
+        <div class="stats" id="stats"></div>
+        
+        <div class="project-list" id="projectList">
+            <div class="loading">加载中...</div>
+        </div>
+    </div>
+
+    <script>
+        const DATA_DIR = 'data/';
+        let dates = [];
+        let currentDate = '';
+        
+        async function loadDates() {
+            // 尝试从 index.json 获取日期列表，如果没有则扫描现有文件
+            try {
+                const resp = await fetch(DATA_DIR + 'index.json');
+                if (!resp.ok) throw new Error('index.json not found');
+                const data = await resp.json();
+                // 支持两种格式: {dates: [...]} 或 [...]
+                dates = data.dates || data;
+                console.log('Loaded dates:', dates);
+            } catch (e) {
+                console.error('Error loading dates:', e);
+                // 如果没有 index，生成最近7天的日期
+                dates = [];
+                for (let i = 0; i < 7; i++) {
+                    const d = new Date();
+                    d.setDate(d.getDate() - i);
+                    dates.push(d.toISOString().split('T')[0]);
+                }
+            }
+            
+            if (dates.length > 0) {
+                currentDate = dates[0];
+                renderDateNav();
+                loadData(currentDate);
+            } else {
+                document.getElementById('projectList').innerHTML = 
+                    '<div class="error">暂无数据，请先运行采集脚本</div>';
+            }
+        }
+        
+        function renderDateNav() {
+            const nav = document.getElementById('dateNav');
+            nav.innerHTML = dates.map(date => 
+                `<button class="date-btn ${date === currentDate ? 'active' : ''}" 
+                         onclick="selectDate('${date}')">${formatDate(date)}</button>`
+            ).join('');
+        }
+        
+        function formatDate(dateStr) {
+            const d = new Date(dateStr);
+            const today = new Date();
+            const yesterday = new Date(today);
+            yesterday.setDate(yesterday.getDate() - 1);
+            
+            if (dateStr === today.toISOString().split('T')[0]) return '今天';
+            if (dateStr === yesterday.toISOString().split('T')[0]) return '昨天';
+            return `${d.getMonth() + 1}月${d.getDate()}日`;
+        }
+        
+        async function selectDate(date) {
+            currentDate = date;
+            renderDateNav();
+            loadData(date);
+        }
+        
+        async function loadData(date) {
+            const listEl = document.getElementById('projectList');
+            const statsEl = document.getElementById('stats');
+            
+            listEl.innerHTML = '<div class="loading">加载中... (' + date + ')</div>';
+            
+            try {
+                const resp = await fetch(DATA_DIR + date + '.json');
+                console.log('Fetching:', DATA_DIR + date + '.json', 'Status:', resp.status);
+                if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                const data = await resp.json();
+                console.log('Loaded data:', data);
+                
+                // 更新统计
+                const totalStars = data.projects.reduce((sum, p) => sum + p.stars_today, 0);
+                statsEl.innerHTML = `
+                    <div>项目数: <strong>${data.projects.length}</strong></div>
+                    <div>今日新增: <strong>${totalStars}</strong> ⭐</div>
+                `;
+                
+                // 渲染项目列表
+                if (data.projects.length === 0) {
+                    listEl.innerHTML = '<div class="error">当天没有找到相关项目</div>';
+                    return;
+                }
+                
+                listEl.innerHTML = data.projects.map(p => `
+                    <div class="project-card">
+                        <div class="project-header">
+                            <a href="${p.url}" target="_blank" class="project-name">${p.name}</a>
+                            <div class="project-stats">
+                                <span class="stat star">⭐ ${formatNumber(p.stars)}</span>
+                                <span class="stat today">+${p.stars_today} today</span>
+                                <span class="stat fork">⑂ ${formatNumber(p.forks)}</span>
+                            </div>
+                        </div>
+                        <p class="project-desc">${p.description || '暂无简介'}</p>
+                        ${p.matched_keywords ? `<div class="keywords">
+                            ${p.matched_keywords.map(k => `<span class="keyword">${k}</span>`).join('')}
+                        </div>` : ''}
+                    </div>
+                `).join('');
+                
+            } catch (err) {
+                listEl.innerHTML = `<div class="error">加载失败: ${err.message}</div>`;
+            }
+        }
+        
+        function formatNumber(n) {
+            if (n >= 1000) return (n / 1000).toFixed(1) + 'k';
+            return n;
+        }
+        
+        // 初始化
+        loadDates();
+    </script>
+</body>
+</html>

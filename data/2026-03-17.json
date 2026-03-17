@@ -1,0 +1,204 @@
+{
+  "date": "2026-03-17",
+  "count": 14,
+  "projects": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 50791,
+      "forks": 7561,
+      "stars_today": 32648,
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "matched_keywords": [
+        "ai",
+        "agent"
+      ]
+    },
+    {
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "stars": 35079,
+      "forks": 2997,
+      "stars_today": 6209,
+      "owner": "microsoft",
+      "repo": "BitNet",
+      "matched_keywords": [
+        "llm",
+        "inference"
+      ]
+    },
+    {
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 20762,
+      "forks": 784,
+      "stars_today": 7998,
+      "owner": "lightpanda-io",
+      "repo": "browser",
+      "matched_keywords": [
+        "ai",
+        "automation"
+      ]
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 10111,
+      "forks": 777,
+      "stars_today": 7084,
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "matched_keywords": [
+        "agent",
+        "control"
+      ]
+    },
+    {
+      "name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "stars": 17049,
+      "forks": 1476,
+      "stars_today": 5792,
+      "owner": "promptfoo",
+      "repo": "promptfoo",
+      "matched_keywords": [
+        "ai",
+        "gpt",
+        "claude",
+        "gemini",
+        "agent",
+        "rag"
+      ]
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+      "stars": 14889,
+      "forks": 1012,
+      "stars_today": 8297,
+      "owner": "volcengine",
+      "repo": "OpenViking",
+      "matched_keywords": [
+        "ai",
+        "agent"
+      ]
+    },
+    {
+      "name": "fishaudio/fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "stars": 27928,
+      "forks": 2327,
+      "stars_today": 2638,
+      "owner": "fishaudio",
+      "repo": "fish-speech",
+      "matched_keywords": [
+        "speech",
+        "tts",
+        "audio"
+      ]
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 9700,
+      "forks": 374,
+      "stars_today": 6515,
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "matched_keywords": [
+        "ai"
+      ]
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 8315,
+      "forks": 970,
+      "stars_today": 5270,
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "matched_keywords": [
+        "agent"
+      ]
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 90781,
+      "forks": 7190,
+      "stars_today": 13195,
+      "owner": "obra",
+      "repo": "superpowers",
+      "matched_keywords": [
+        "agent",
+        "agentic"
+      ]
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "stars": 49197,
+      "forks": 8565,
+      "stars_today": 2162,
+      "owner": "virattt",
+      "repo": "ai-hedge-fund",
+      "matched_keywords": [
+        "ai"
+      ]
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 4475,
+      "forks": 300,
+      "stars_today": 1614,
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "matched_keywords": [
+        "agent"
+      ]
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 25498,
+      "forks": 1740,
+      "stars_today": 5107,
+      "owner": "AstrBotDevs",
+      "repo": "AstrBot",
+      "matched_keywords": [
+        "ai",
+        "llm",
+        "agent",
+        "agentic"
+      ]
+    },
+    {
+      "name": "666ghj/BettaFish",
+      "url": "https://github.com/666ghj/BettaFish",
+      "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+      "stars": 39255,
+      "forks": 7331,
+      "stars_today": 2018,
+      "owner": "666ghj",
+      "repo": "BettaFish",
+      "matched_keywords": [
+        "agent"
+      ]
+    }
+  ]
+}
