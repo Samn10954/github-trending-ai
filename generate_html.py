@@ -126,7 +126,9 @@ def render_page(record: dict[str, Any], records: list[dict[str, Any]], period: s
     body {{ font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; background:#0d1117; color:#c9d1d9; }}
     .container {{ max-width:1200px; margin:0 auto; padding:20px; }}
     header {{ text-align:center; padding:40px 0 24px; border-bottom:1px solid #30363d; margin-bottom:24px; }}
-    h1 {{ font-size:2.4rem; background:linear-gradient(90deg,#58a6ff,#a371f7); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }}
+    h1 {{ font-size:2.4rem; background:linear-gradient(90deg,#58a6ff,#a371f7); -webkit-background-clip:text; -webkit-text-fill-color:transparent; display:flex; align-items:center; justify-content:center; gap:12px; }}
+    .cat-logo {{ font-size:2.8rem; animation: float 3s ease-in-out infinite; }}
+    @keyframes float {{ 0%,100% {{ transform:translateY(0); }} 50% {{ transform:translateY(-8px); }} }}
     .subtitle {{ color:#8b949e; margin-top:10px; }}
     .section-title {{ font-size:1rem; color:#e6edf3; margin-bottom:12px; }}
     .date-nav,.tag-filter {{ display:flex; flex-wrap:wrap; gap:10px; justify-content:center; }}
