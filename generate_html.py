@@ -16,6 +16,7 @@ TAG_MAP = {
     'llm': ['llm', 'gpt', 'claude', 'gemini'],
     'robotics': ['robotics', 'robot', 'embodied', 'humanoid'],
     'vision': ['vision', 'cv', 'computer vision', 'multimodal', 'vlm'],
+    'multimodal': ['multimodal', 'mlm', 'image-text', 'video-understanding'],
     'speech': ['speech', 'tts', 'stt', 'voice', 'audio'],
     'rag': ['rag', 'retrieval', 'knowledge graph'],
     'training': ['training', 'inference', 'cuda', 'gpu']
@@ -268,6 +269,7 @@ def generate_html(data, dates):
                 <button class="tag-btn" data-tag="llm">LLM</button>
                 <button class="tag-btn" data-tag="robotics">机器人/具身</button>
                 <button class="tag-btn" data-tag="vision">视觉/CV</button>
+                <button class="tag-btn" data-tag="multimodal">多模态</button>
                 <button class="tag-btn" data-tag="speech">语音/TTS</button>
                 <button class="tag-btn" data-tag="rag">RAG</button>
                 <button class="tag-btn" data-tag="training">训练/推理</button>
@@ -292,7 +294,8 @@ def generate_html(data, dates):
             'agent': ['agent', 'agentic', 'autonomous'],
             'llm': ['llm', 'gpt', 'claude', 'gemini'],
             'robotics': ['robotics', 'robot', 'embodied', 'humanoid'],
-            'vision': ['vision', 'cv', 'computer vision', 'multimodal', 'vlm'],
+            'vision': ['vision', 'cv', 'computer vision', 'vlm'],
+            'multimodal': ['multimodal', 'mlm', 'image-text', 'video-understanding'],
             'speech': ['speech', 'tts', 'stt', 'voice', 'audio'],
             'rag': ['rag', 'retrieval', 'knowledge graph'],
             'training': ['training', 'inference', 'cuda', 'gpu']
