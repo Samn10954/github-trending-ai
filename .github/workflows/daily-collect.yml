@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    strategy:
+      matrix:
+        period: [daily, weekly, monthly]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,7 +30,7 @@ jobs:
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           TRANSLATION_MODEL: openrouter/openai/gpt-5.4
-          TRENDING_PERIOD: weekly
+          TRENDING_PERIOD: ${{ matrix.period }}
         run: python collector.py
 
       - name: Generate static pages
@@ -37,4 +40,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'Auto update trending data'
-          file_pattern: 'data/*.json data/*.md *.html'
+          file_pattern: 'data/**/*.json data/**/*.md *.html'

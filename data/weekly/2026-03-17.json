@@ -10,8 +10,8 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each 智能体 is a specialized expert with personality, processes, and...",
-      "stars": 50998,
-      "forks": 7600,
+      "stars": 51010,
+      "forks": 7601,
       "stars_period": 32648,
       "matched_keywords": [
         "agent",
@@ -29,8 +29,8 @@
       "url": "https://github.com/obra/superpowers",
       "description_en": "An agentic skills framework & software development methodology that works.",
       "description_zh": "An 智能体化 技能 框架 & software development methodology that works.",
-      "stars": 91109,
-      "forks": 7209,
+      "stars": 91124,
+      "forks": 7214,
       "stars_period": 13195,
       "matched_keywords": [
         "agentic"
@@ -47,7 +47,7 @@
       "url": "https://github.com/alibaba/page-agent",
       "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "description_zh": "JavaScript in-page GUI 智能体. Control web interfaces with natural language.",
-      "stars": 10226,
+      "stars": 10235,
       "forks": 782,
       "stars_period": 7084,
       "matched_keywords": [
@@ -104,7 +104,7 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description_en": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "description_zh": "智能体化 IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, 插件 and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 25532,
+      "stars": 25537,
       "forks": 1743,
       "stars_period": 5107,
       "matched_keywords": [
@@ -123,7 +123,7 @@
       "url": "https://github.com/fishaudio/fish-speech",
       "description_en": "SOTA Open Source TTS",
       "description_zh": "SOTA Open Source TTS",
-      "stars": 27950,
+      "stars": 27952,
       "forks": 2328,
       "stars_period": 2638,
       "matched_keywords": [
@@ -160,7 +160,7 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description_en": "Hindsight: Agent Memory That Learns",
       "description_zh": "Hindsight: 智能体 记忆 That Learns",
-      "stars": 4527,
+      "stars": 4528,
       "forks": 300,
       "stars_period": 1614,
       "matched_keywords": [

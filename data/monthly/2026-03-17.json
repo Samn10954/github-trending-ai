@@ -1,0 +1,85 @@
+{
+  "date": "2026-03-17",
+  "period": "monthly",
+  "count": 4,
+  "projects": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An 智能体化 技能 框架 & software development methodology that works.",
+      "stars": 91125,
+      "forks": 7214,
+      "stars_period": 35512,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "moeru-ai/airi",
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description_zh": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf...",
+      "stars": 34217,
+      "forks": 3403,
+      "stars_period": 16743,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "owner": "shareAI-lab",
+      "repo": "learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description_en": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "description_zh": "Bash is all you need - A nano Claude Code–like 智能体, built from 0 to 1",
+      "stars": 30220,
+      "forks": 5113,
+      "stars_period": 12041,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "owner": "alibaba",
+      "repo": "OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "description_en": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "description_zh": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding 智能体, GUI 智能体, 智能体 Ev...",
+      "stars": 8074,
+      "forks": 609,
+      "stars_period": 6867,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "training"
+      ],
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "relevance_score": 7
+    }
+  ]
+}

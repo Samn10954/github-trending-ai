@@ -1,58 +1,44 @@
 # GitHub Trending AI 每日精选
 
-每天自动收集 GitHub Trending 中与 AI、具身智能相关的开源项目，并生成可按日期浏览、按标签筛选的静态网页。
+每天自动收集 GitHub Trending 中与 AI、具身智能相关的开源项目，并生成可按日期浏览、按标签筛选、按周期切换的静态网页。
 
-## 功能
+## 当前能力
 
-- 每天早上 8:00（北京时间）自动采集
-- 数据源：GitHub Trending weekly
-- 按日期查看历史结果
-- 按标签筛选：Agent / LLM / 机器人/具身 / 视觉 / 多模态 / 语音 / RAG / 训练推理
-- 输出 JSON、Markdown、静态 HTML
+- 支持 **daily / weekly / monthly** 三套榜单
+- 支持 **按日期查看** 历史结果
+- 支持 **标签筛选**、**排序**、**收藏**
+- 支持 **项目级趋势图**（查看同一项目在历史日期中的变化）
+- 简介优先使用 OpenRouter 大模型翻译为中文，失败时回退到术语翻译
+
+## 数据目录
+
+```text
+data/
+  daily/
+    YYYY-MM-DD.json
+  weekly/
+    YYYY-MM-DD.json
+  monthly/
+    YYYY-MM-DD.json
+```
 
 ## 本地运行
 
 ```bash
-python3 collector.py
+export OPENROUTER_API_KEY=你的key
+TRENDING_PERIOD=daily python3 collector.py
+TRENDING_PERIOD=weekly python3 collector.py
+TRENDING_PERIOD=monthly python3 collector.py
 python3 generate_html.py
 python3 server.py
 ```
 
-打开：<http://localhost:8080>
+## GitHub Actions
 
-## 数据结构
+GitHub Actions 每天北京时间 08:00 自动执行，并分别采集：
+- daily
+- weekly
+- monthly
 
-每个 `data/YYYY-MM-DD.json` 包含：
-
-- `date`: 数据日期
-- `period`: 统计周期（当前为 `weekly`）
-- `count`: 项目数
-- `projects[]`:
-  - `name`
-  - `url`
-  - `description_en`
-  - `description_zh`
-  - `stars`
-  - `forks`
-  - `stars_period`
-  - `matched_keywords`
-  - `tags`
-  - `relevance_score`
-
-## 自动更新
-
-GitHub Actions 已配置为：
-- 每天北京时间 08:00 自动执行
-- 也可手动在 Actions 页面触发
-
-流程：
-1. 运行 `collector.py`
-2. 运行 `generate_html.py`
-3. 自动提交更新后的数据和页面
-
-## 后续可继续优化
-
-- 接入中文翻译 API，真正生成 `description_zh`
-- 增加排序（按 star / 新增 star）
-- 增加更多标签和更精细的分类
-- 改为 GitHub API + HTML fallback 双通道采集
+需要在仓库 Secrets 中配置：
+- `OPENROUTER_API_KEY`
