@@ -9,7 +9,6 @@ GitHub Trending AI 采集器
 from __future__ import annotations
 
 import json
-import os
 import re
 from datetime import datetime
 from pathlib import Path
@@ -172,6 +171,29 @@ def derive_tags(matched_keywords: list[str]) -> list[str]:
     return sorted(tags)
 
 
+def pseudo_translate_to_zh(description_en: str) -> str:
+    """占位翻译：当前先保留英文，后续可接真实翻译 API。"""
+    if not description_en:
+        return ""
+    glossary = {
+        "agent": "智能体",
+        "agents": "智能体",
+        "framework": "框架",
+        "inference": "推理",
+        "training": "训练",
+        "speech": "语音",
+        "browser": "浏览器",
+        "robot": "机器人",
+        "multimodal": "多模态",
+        "vision": "视觉",
+        "database": "数据库",
+    }
+    translated = description_en
+    for en, zh in glossary.items():
+        translated = re.sub(rf"\b{re.escape(en)}\b", zh, translated, flags=re.IGNORECASE)
+    return translated
+
+
 def filter_projects(projects: list[dict[str, Any]]) -> list[dict[str, Any]]:
     filtered: list[dict[str, Any]] = []
     for project in projects:
@@ -185,6 +207,7 @@ def filter_projects(projects: list[dict[str, Any]]) -> list[dict[str, Any]]:
             project["matched_keywords"] = matched_keywords
             project["tags"] = derive_tags(matched_keywords)
             project["relevance_score"] = score
+            project["description_zh"] = pseudo_translate_to_zh(project["description_en"])
             filtered.append(project)
     return filtered
 
