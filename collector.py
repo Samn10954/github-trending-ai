@@ -4,11 +4,13 @@ GitHub Trending AI 采集器
 - 抓取 GitHub Trending（weekly）
 - 过滤 AI / 具身智能相关项目
 - 生成标准化 JSON / Markdown 数据
+- 优先使用 OpenRouter 大模型翻译简介，失败时回退到术语翻译
 """
 
 from __future__ import annotations
 
 import json
+import os
 import re
 from datetime import datetime
 from pathlib import Path
@@ -22,6 +24,9 @@ DATA_DIR = BASE_DIR / "data"
 TRENDING_URL = "https://github.com/trending?since=weekly"
 PERIOD = "weekly"
 MIN_PARSED_PROJECTS = 5
+OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
+OPENROUTER_MODEL = os.getenv("TRANSLATION_MODEL", "openrouter/openai/gpt-5.4")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
 
 TAG_MAP = {
     "agent": ["agent", "agentic", "autonomous"],
@@ -77,6 +82,27 @@ KEYWORD_SPECS = [
     (r"\bgrasp\b", "grasp", 2),
     (r"\bdexterous\b", "dexterous", 2),
 ]
+
+GLOSSARY = {
+    "agent": "智能体",
+    "agents": "智能体",
+    "agentic": "智能体化",
+    "framework": "框架",
+    "inference": "推理",
+    "training": "训练",
+    "speech": "语音",
+    "browser": "浏览器",
+    "robot": "机器人",
+    "robotics": "机器人技术",
+    "multimodal": "多模态",
+    "vision": "视觉",
+    "database": "数据库",
+    "memory": "记忆",
+    "skills": "技能",
+    "context": "上下文",
+    "plugin": "插件",
+    "plugins": "插件",
+}
 
 
 def fetch_trending() -> str:
@@ -171,21 +197,54 @@ def derive_tags(matched_keywords: list[str]) -> list[str]:
     return sorted(tags)
 
 
-def translate_to_zh(description_en: str, max_len: int = 200) -> str:
-    """使用 Google Translate API 翻译简介"""
-    from googletrans import Translator
-    translator = Translator()
-    
-    if not description_en or len(description_en) > max_len * 2:
-        return description_en[:max_len] + "..." if len(description_en) > max_len else description_en
-    
+def fallback_translate_to_zh(description_en: str, max_len: int = 200) -> str:
+    if not description_en:
+        return ""
+    translated = description_en
+    for en, zh in GLOSSARY.items():
+        translated = re.sub(rf"\b{re.escape(en)}\b", zh, translated, flags=re.IGNORECASE)
+    return translated[:max_len] + ("..." if len(translated) > max_len else "")
+
+
+def translate_with_openrouter(description_en: str, max_len: int = 200) -> str:
+    if not description_en:
+        return ""
+    if not OPENROUTER_API_KEY:
+        return fallback_translate_to_zh(description_en, max_len=max_len)
+
+    prompt = (
+        "请把下面这段 GitHub 开源项目简介翻译成简洁、自然、专业的中文。"
+        "保留专有名词、项目名、技术缩写（如 LLM, RAG, VLM, TTS, STT, CV, SLAM, GPU, CUDA, API, UI, GUI, CLI, SDK, IDE, OSS）。"
+        "不要解释，不要补充，只输出翻译结果。\n\n"
+        f"原文：{description_en}"
+    )
+
+    payload = {
+        "model": OPENROUTER_MODEL,
+        "messages": [
+            {"role": "system", "content": "你是一个专业的技术翻译助手。"},
+            {"role": "user", "content": prompt},
+        ],
+        "temperature": 0.2,
+    }
+    headers = {
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Content-Type": "application/json",
+        "HTTP-Referer": "https://github.com/Samn10954/github-trending-ai",
+        "X-Title": "github-trending-ai-translator",
+    }
+
     try:
-        result = translator.translate(description_en, dest='zh-cn')
-        translated = result.text
-        return translated[:max_len] + "..." if len(translated) > max_len else translated
-    except Exception as e:
-        print(f"翻译失败: {e}, 使用原文")
-        return description_en[:max_len] + "..." if len(description_en) > max_len else description_en
+        response = requests.post(OPENROUTER_API_URL, headers=headers, json=payload, timeout=45)
+        response.raise_for_status()
+        data = response.json()
+        translated = data["choices"][0]["message"]["content"].strip()
+        if not translated:
+            raise ValueError("empty translation")
+        return translated[:max_len] + ("..." if len(translated) > max_len else "")
+    except Exception as exc:  # noqa: BLE001
+        print(f"OpenRouter 翻译失败: {exc}，回退到术语翻译")
+        return fallback_translate_to_zh(description_en, max_len=max_len)
 
 
 def filter_projects(projects: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -201,7 +260,7 @@ def filter_projects(projects: list[dict[str, Any]]) -> list[dict[str, Any]]:
             project["matched_keywords"] = matched_keywords
             project["tags"] = derive_tags(matched_keywords)
             project["relevance_score"] = score
-            project["description_zh"] = translate_to_zh(project["description_en"])
+            project["description_zh"] = translate_with_openrouter(project["description_en"])
             filtered.append(project)
     return filtered
 
