@@ -10,8 +10,8 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...",
-      "stars": 51062,
-      "forks": 7608,
+      "stars": 51070,
+      "forks": 7609,
       "stars_period": 32648,
       "matched_keywords": [
         "agent",
@@ -29,8 +29,8 @@
       "url": "https://github.com/obra/superpowers",
       "description_en": "An agentic skills framework & software development methodology that works.",
       "description_zh": "An agentic skills framework & software development methodology that works.",
-      "stars": 91175,
-      "forks": 7220,
+      "stars": 91191,
+      "forks": 7222,
       "stars_period": 13195,
       "matched_keywords": [
         "agentic"
@@ -47,7 +47,7 @@
       "url": "https://github.com/alibaba/page-agent",
       "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "description_zh": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "stars": 10254,
+      "stars": 10260,
       "forks": 783,
       "stars_period": 7084,
       "matched_keywords": [
@@ -65,7 +65,7 @@
       "url": "https://github.com/promptfoo/promptfoo",
       "description_en": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
       "description_zh": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and...",
-      "stars": 17091,
+      "stars": 17093,
       "forks": 1480,
       "stars_period": 5792,
       "matched_keywords": [
@@ -86,7 +86,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description_en": "The agent that grows with you",
       "description_zh": "The agent that grows with you",
-      "stars": 8354,
+      "stars": 8357,
       "forks": 976,
       "stars_period": 5270,
       "matched_keywords": [
@@ -104,7 +104,7 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description_en": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "description_zh": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "stars": 25541,
+      "stars": 25543,
       "forks": 1743,
       "stars_period": 5107,
       "matched_keywords": [
@@ -123,7 +123,7 @@
       "url": "https://github.com/fishaudio/fish-speech",
       "description_en": "SOTA Open Source TTS",
       "description_zh": "SOTA Open Source TTS",
-      "stars": 27953,
+      "stars": 27954,
       "forks": 2328,
       "stars_period": 2638,
       "matched_keywords": [
@@ -143,7 +143,7 @@
       "description_en": "An AI Hedge Fund Team",
       "description_zh": "An AI Hedge Fund Team",
       "stars": 49213,
-      "forks": 8565,
+      "forks": 8566,
       "stars_period": 2162,
       "matched_keywords": [
         "ai"
@@ -160,7 +160,7 @@
       "url": "https://github.com/vectorize-io/hindsight",
       "description_en": "Hindsight: Agent Memory That Learns",
       "description_zh": "Hindsight: Agent Memory That Learns",
-      "stars": 4531,
+      "stars": 4534,
       "forks": 300,
       "stars_period": 1614,
       "matched_keywords": [
