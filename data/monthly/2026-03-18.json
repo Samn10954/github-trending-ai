@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-18",
+  "period": "monthly",
+  "count": 5,
+  "projects": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 92691,
+      "forks": 7331,
+      "stars_period": 37809,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "moeru-ai/airi",
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description_zh": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf...",
+      "stars": 34285,
+      "forks": 3406,
+      "stars_period": 16925,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "sickn33/antigravity-awesome-skills",
+      "owner": "sickn33",
+      "repo": "antigravity-awesome-skills",
+      "url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "description_en": "The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
+      "description_zh": "The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
+      "stars": 25336,
+      "forks": 4340,
+      "stars_period": 14787,
+      "matched_keywords": [
+        "agentic",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "owner": "shareAI-lab",
+      "repo": "learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description_en": "Bash is all you need - A nano claude code–like agent harness, built from 0 to 1",
+      "description_zh": "Bash is all you need - A nano claude code–like agent harness, built from 0 to 1",
+      "stars": 30732,
+      "forks": 5160,
+      "stars_period": 12982,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "owner": "alibaba",
+      "repo": "OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "description_en": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "description_zh": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, ...",
+      "stars": 8315,
+      "forks": 625,
+      "stars_period": 6945,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "training"
+      ],
+      "tags": [
+        "agent",
+        "training"
+      ],
+      "relevance_score": 7
+    }
+  ]
+}
