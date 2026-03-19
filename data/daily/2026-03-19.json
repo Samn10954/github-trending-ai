@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-19",
+  "period": "daily",
+  "count": 4,
+  "projects": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 96476,
+      "forks": 7657,
+      "stars_period": 4089,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "owner": "jarrodwatts",
+      "repo": "claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description_en": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "description_zh": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": 7224,
+      "forks": 308,
+      "stars_period": 1038,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "unslothai/unsloth",
+      "owner": "unslothai",
+      "repo": "unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description_en": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "description_zh": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "stars": 55921,
+      "forks": 4689,
+      "stars_period": 1005,
+      "matched_keywords": [
+        "gpt",
+        "training"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "owner": "langchain-ai",
+      "repo": "open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description_en": "An Open-Source Asynchronous Coding Agent",
+      "description_zh": "An Open-Source Asynchronous Coding Agent",
+      "stars": 6424,
+      "forks": 814,
+      "stars_period": 481,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 7
+    }
+  ]
+}
