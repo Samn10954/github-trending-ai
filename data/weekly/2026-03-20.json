@@ -1,0 +1,236 @@
+{
+  "date": "2026-03-20",
+  "period": "weekly",
+  "count": 12,
+  "projects": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...",
+      "stars": 55571,
+      "forks": 8323,
+      "stars_period": 23185,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 99415,
+      "forks": 7923,
+      "stars_period": 19176,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "owner": "affaan-m",
+      "repo": "everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 88452,
+      "forks": 11575,
+      "stars_period": 14298,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "owner": "shareAI-lab",
+      "repo": "learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description_en": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "description_zh": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "stars": 33760,
+      "forks": 5487,
+      "stars_period": 7836,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "alibaba/page-agent",
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description_zh": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 11856,
+      "forks": 902,
+      "stars_period": 6243,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "langchain-ai/deepagents",
+      "owner": "langchain-ai",
+      "repo": "deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "description_en": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "description_zh": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "stars": 15627,
+      "forks": 2275,
+      "stars_period": 4877,
+      "matched_keywords": [
+        "agent",
+        "agentic",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 10
+    },
+    {
+      "name": "promptfoo/promptfoo",
+      "owner": "promptfoo",
+      "repo": "promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description_en": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "description_zh": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and...",
+      "stars": 17694,
+      "forks": 1518,
+      "stars_period": 4755,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "owner": "jarrodwatts",
+      "repo": "claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description_en": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "description_zh": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": 8597,
+      "forks": 356,
+      "stars_period": 3674,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 9184,
+      "forks": 1108,
+      "stars_period": 3241,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "langflow-ai/openrag",
+      "owner": "langflow-ai",
+      "repo": "openrag",
+      "url": "https://github.com/langflow-ai/openrag",
+      "description_en": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+      "description_zh": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+      "stars": 3407,
+      "forks": 307,
+      "stars_period": 2315,
+      "matched_keywords": [
+        "ai",
+        "retrieval"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "fishaudio/fish-speech",
+      "owner": "fishaudio",
+      "repo": "fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "description_en": "SOTA Open Source TTS",
+      "description_zh": "SOTA Open Source TTS",
+      "stars": 28350,
+      "forks": 2370,
+      "stars_period": 2159,
+      "matched_keywords": [
+        "speech",
+        "tts"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "owner": "langchain-ai",
+      "repo": "open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description_en": "An Open-Source Asynchronous Coding Agent",
+      "description_zh": "An Open-Source Asynchronous Coding Agent",
+      "stars": 7083,
+      "forks": 875,
+      "stars_period": 1463,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 7
+    }
+  ]
+}
