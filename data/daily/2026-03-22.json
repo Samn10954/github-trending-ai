@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-22",
+  "period": "daily",
+  "count": 1,
+  "projects": [
+    {
+      "name": "jarrodwatts/claude-hud",
+      "owner": "jarrodwatts",
+      "repo": "claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description_en": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "description_zh": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": 10490,
+      "forks": 448,
+      "stars_period": 970,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
