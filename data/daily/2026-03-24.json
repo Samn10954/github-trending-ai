@@ -1,0 +1,120 @@
+{
+  "date": "2026-03-24",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "affaan-m/everything-claude-code",
+      "owner": "affaan-m",
+      "repo": "everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 102185,
+      "forks": 13314,
+      "stars_period": 4458,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 39437,
+      "forks": 7332,
+      "stars_period": 2530,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "owner": "vxcontrol",
+      "repo": "pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description_en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "description_zh": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 13051,
+      "forks": 1625,
+      "stars_period": 1309,
+      "matched_keywords": [
+        "ai",
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 11645,
+      "forks": 1418,
+      "stars_period": 919,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "owner": "hesreallyhim",
+      "repo": "awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description_en": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+      "description_zh": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+      "stars": 31051,
+      "forks": 2165,
+      "stars_period": 429,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "owner": "kepano",
+      "repo": "obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "description_en": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+      "description_zh": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+      "stars": 16407,
+      "forks": 938,
+      "stars_period": 354,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
