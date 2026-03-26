@@ -1,0 +1,88 @@
+{
+  "date": "2026-03-26",
+  "period": "daily",
+  "count": 4,
+  "projects": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 7867,
+      "forks": 729,
+      "stars_period": 1341,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description_en": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "description_zh": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architectu...",
+      "stars": 26283,
+      "forks": 2847,
+      "stars_period": 1174,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "autonomous",
+        "claude",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 12
+    },
+    {
+      "name": "BerriAI/litellm",
+      "owner": "BerriAI",
+      "repo": "litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description_en": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "description_zh": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi...",
+      "stars": 40705,
+      "forks": 6717,
+      "stars_period": 301,
+      "matched_keywords": [
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "letta-ai/claude-subconscious",
+      "owner": "letta-ai",
+      "repo": "claude-subconscious",
+      "url": "https://github.com/letta-ai/claude-subconscious",
+      "description_en": "Give Claude Code a subconscious",
+      "description_zh": "Give Claude Code a subconscious",
+      "stars": 1501,
+      "forks": 114,
+      "stars_period": 71,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 10
+    }
+  ]
+}
