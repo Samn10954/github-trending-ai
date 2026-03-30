@@ -1,0 +1,236 @@
+{
+  "date": "2026-03-30",
+  "period": "monthly",
+  "count": 12,
+  "projects": [
+    {
+      "name": "affaan-m/everything-claude-code",
+      "owner": "affaan-m",
+      "repo": "everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 116770,
+      "forks": 15187,
+      "stars_period": 62608,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 123234,
+      "forks": 10038,
+      "stars_period": 58420,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "owner": "shareAI-lab",
+      "repo": "learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description_en": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "description_zh": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "stars": 42841,
+      "forks": 6599,
+      "stars_period": 23592,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "owner": "shanraisshan",
+      "repo": "claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description_en": "practice made claude perfect",
+      "description_zh": "practice made claude perfect",
+      "stars": 24485,
+      "forks": 2111,
+      "stars_period": 18638,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "moeru-ai/airi",
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description_zh": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf...",
+      "stars": 36400,
+      "forks": 3612,
+      "stars_period": 18562,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 16914,
+      "forks": 2058,
+      "stars_period": 15044,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "owner": "abhigyanpatwari",
+      "repo": "GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description_en": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "description_zh": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno...",
+      "stars": 20620,
+      "forks": 2358,
+      "stars_period": 14721,
+      "matched_keywords": [
+        "agent",
+        "knowledge graph",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 44028,
+      "forks": 7992,
+      "stars_period": 12995,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 15507,
+      "forks": 1232,
+      "stars_period": 11594,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "owner": "jarrodwatts",
+      "repo": "claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description_en": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "description_zh": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": 15039,
+      "forks": 616,
+      "stars_period": 11090,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "owner": "alirezarezvani",
+      "repo": "claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description_en": "+192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
+      "description_zh": "+192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
+      "stars": 7952,
+      "forks": 956,
+      "stars_period": 5825,
+      "matched_keywords": [
+        "agent",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "owner": "langchain-ai",
+      "repo": "open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description_en": "An Open-Source Asynchronous Coding Agent",
+      "description_zh": "An Open-Source Asynchronous Coding Agent",
+      "stars": 8813,
+      "forks": 1019,
+      "stars_period": 3558,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 7
+    }
+  ]
+}
