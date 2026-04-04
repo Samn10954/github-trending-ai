@@ -1,0 +1,44 @@
+{
+  "date": "2026-04-04",
+  "period": "daily",
+  "count": 2,
+  "projects": [
+    {
+      "name": "Yeachan-Heo/oh-my-codex",
+      "owner": "Yeachan-Heo",
+      "repo": "oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "description_zh": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "stars": 14224,
+      "forks": 1306,
+      "stars_period": 3047,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "owner": "onyx-dot-app",
+      "repo": "onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description_en": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "description_zh": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "stars": 23355,
+      "forks": 3139,
+      "stars_period": 1852,
+      "matched_keywords": [
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
