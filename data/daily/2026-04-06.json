@@ -1,0 +1,126 @@
+{
+  "date": "2026-04-06",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "onyx-dot-app/onyx",
+      "owner": "onyx-dot-app",
+      "repo": "onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description_en": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "description_zh": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "stars": 25085,
+      "forks": 3351,
+      "stars_period": 998,
+      "matched_keywords": [
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "block/goose",
+      "owner": "block",
+      "repo": "goose",
+      "url": "https://github.com/block/goose",
+      "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "description_zh": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 37124,
+      "forks": 3558,
+      "stars_period": 882,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "Blaizzy/mlx-vlm",
+      "owner": "Blaizzy",
+      "repo": "mlx-vlm",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "description_en": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "description_zh": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "stars": 3958,
+      "forks": 421,
+      "stars_period": 416,
+      "matched_keywords": [
+        "inference",
+        "vision",
+        "vlm"
+      ],
+      "tags": [
+        "multimodal",
+        "training",
+        "vision"
+      ],
+      "relevance_score": 12
+    },
+    {
+      "name": "google-ai-edge/gallery",
+      "owner": "google-ai-edge",
+      "repo": "gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description_en": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "description_zh": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "stars": 17040,
+      "forks": 1562,
+      "stars_period": 389,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "badlogic/pi-mono",
+      "owner": "badlogic",
+      "repo": "pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description_en": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "description_zh": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "stars": 31957,
+      "forks": 3478,
+      "stars_period": 355,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "owner": "google-ai-edge",
+      "repo": "LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "description_en": "",
+      "description_zh": "",
+      "stars": 1597,
+      "forks": 187,
+      "stars_period": 124,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    }
+  ]
+}
