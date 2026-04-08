@@ -1,0 +1,196 @@
+{
+  "date": "2026-04-08",
+  "period": "weekly",
+  "count": 10,
+  "projects": [
+    {
+      "name": "Yeachan-Heo/oh-my-codex",
+      "owner": "Yeachan-Heo",
+      "repo": "oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description_en": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "description_zh": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "stars": 18334,
+      "forks": 1725,
+      "stars_period": 14101,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "owner": "luongnv89",
+      "repo": "claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description_en": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "description_zh": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 22473,
+      "forks": 2685,
+      "stars_period": 10745,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 32366,
+      "forks": 4176,
+      "stars_period": 10487,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "owner": "Yeachan-Heo",
+      "repo": "oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "description_en": "Teams-first Multi-agent orchestration for Claude Code",
+      "description_zh": "Teams-first Multi-agent orchestration for Claude Code",
+      "stars": 25783,
+      "forks": 2370,
+      "stars_period": 7543,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "owner": "onyx-dot-app",
+      "repo": "onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description_en": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "description_zh": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "stars": 25850,
+      "forks": 3447,
+      "stars_period": 5449,
+      "matched_keywords": [
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "owner": "microsoft",
+      "repo": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description_en": "Open-Source Frontier Voice AI",
+      "description_zh": "Open-Source Frontier Voice AI",
+      "stars": 37351,
+      "forks": 4297,
+      "stars_period": 5025,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "google-ai-edge/gallery",
+      "owner": "google-ai-edge",
+      "repo": "gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description_en": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "description_zh": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "stars": 18858,
+      "forks": 1761,
+      "stars_period": 2934,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description_en": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "description_zh": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
+      "stars": 37833,
+      "forks": 6234,
+      "stars_period": 2543,
+      "matched_keywords": [
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "owner": "google-ai-edge",
+      "repo": "LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "description_en": "",
+      "description_zh": "",
+      "stars": 2593,
+      "forks": 253,
+      "stars_period": 1336,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "antinomyhq/forgecode",
+      "owner": "antinomyhq",
+      "repo": "forgecode",
+      "url": "https://github.com/antinomyhq/forgecode",
+      "description_en": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "description_zh": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "stars": 6203,
+      "forks": 1307,
+      "stars_period": 794,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    }
+  ]
+}
