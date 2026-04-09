@@ -1,0 +1,100 @@
+{
+  "date": "2026-04-09",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 141714,
+      "forks": 12087,
+      "stars_period": 2028,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "owner": "abhigyanpatwari",
+      "repo": "GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description_en": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "description_zh": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno...",
+      "stars": 25364,
+      "forks": 2819,
+      "stars_period": 980,
+      "matched_keywords": [
+        "agent",
+        "knowledge graph",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "google-ai-edge/gallery",
+      "owner": "google-ai-edge",
+      "repo": "gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description_en": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "description_zh": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "stars": 19553,
+      "forks": 1825,
+      "stars_period": 853,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "owner": "google-ai-edge",
+      "repo": "LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "description_en": "",
+      "description_zh": "",
+      "stars": 3014,
+      "forks": 283,
+      "stars_period": 501,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "owner": "virattt",
+      "repo": "ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description_en": "An AI Hedge Fund Team",
+      "description_zh": "An AI Hedge Fund Team",
+      "stars": 50735,
+      "forks": 8801,
+      "stars_period": 151,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
