@@ -1,0 +1,119 @@
+{
+  "date": "2026-04-10",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 45392,
+      "forks": 5866,
+      "stars_period": 6485,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 143926,
+      "forks": 12303,
+      "stars_period": 2299,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "owner": "forrestchang",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 10602,
+      "forks": 711,
+      "stars_period": 1364,
+      "matched_keywords": [
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description_en": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "description_zh": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": 15013,
+      "forks": 1998,
+      "stars_period": 1310,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "repo": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "description_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 7758,
+      "forks": 920,
+      "stars_period": 496,
+      "matched_keywords": [
+        "speech",
+        "tts",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "YishenTu/claudian",
+      "owner": "YishenTu",
+      "repo": "claudian",
+      "url": "https://github.com/YishenTu/claudian",
+      "description_en": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "description_zh": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 6883,
+      "forks": 403,
+      "stars_period": 200,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    }
+  ]
+}
