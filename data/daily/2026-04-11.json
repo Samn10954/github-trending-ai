@@ -1,0 +1,116 @@
+{
+  "date": "2026-04-11",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 52483,
+      "forks": 6832,
+      "stars_period": 7671,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 145854,
+      "forks": 12501,
+      "stars_period": 2150,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "multica-ai/multica",
+      "owner": "multica-ai",
+      "repo": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description_zh": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": 6181,
+      "forks": 757,
+      "stars_period": 1506,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "owner": "forrestchang",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 11810,
+      "forks": 778,
+      "stars_period": 1450,
+      "matched_keywords": [
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "repo": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description_en": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "description_zh": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": 16027,
+      "forks": 2107,
+      "stars_period": 1424,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "owner": "shanraisshan",
+      "repo": "claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description_en": "practice made claude perfect",
+      "description_zh": "practice made claude perfect",
+      "stars": 35862,
+      "forks": 3379,
+      "stars_period": 1251,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
