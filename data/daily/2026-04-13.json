@@ -1,0 +1,159 @@
+{
+  "date": "2026-04-13",
+  "period": "daily",
+  "count": 8,
+  "projects": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 68383,
+      "forks": 9138,
+      "stars_period": 7454,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "owner": "forrestchang",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 17297,
+      "forks": 1300,
+      "stars_period": 2369,
+      "matched_keywords": [
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "multica-ai/multica",
+      "owner": "multica-ai",
+      "repo": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description_zh": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": 9593,
+      "forks": 1221,
+      "stars_period": 1609,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "owner": "shanraisshan",
+      "repo": "claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description_en": "practice made claude perfect",
+      "description_zh": "practice made claude perfect",
+      "stars": 39289,
+      "forks": 3710,
+      "stars_period": 1548,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "repo": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "description_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 11451,
+      "forks": 1321,
+      "stars_period": 1278,
+      "matched_keywords": [
+        "speech",
+        "tts",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "owner": "thedotmack",
+      "repo": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description_en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_zh": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses...",
+      "stars": 50352,
+      "forks": 3975,
+      "stars_period": 753,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "owner": "virattt",
+      "repo": "ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description_en": "An AI Hedge Fund Team",
+      "description_zh": "An AI Hedge Fund Team",
+      "stars": 52238,
+      "forks": 9058,
+      "stars_period": 663,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "snarktank/ralph",
+      "owner": "snarktank",
+      "repo": "ralph",
+      "url": "https://github.com/snarktank/ralph",
+      "description_en": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+      "description_zh": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+      "stars": 16022,
+      "forks": 1592,
+      "stars_period": 463,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 7
+    }
+  ]
+}
