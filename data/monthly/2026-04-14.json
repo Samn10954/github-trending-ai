@@ -1,0 +1,212 @@
+{
+  "date": "2026-04-14",
+  "period": "monthly",
+  "count": 11,
+  "projects": [
+    {
+      "name": "affaan-m/everything-claude-code",
+      "owner": "affaan-m",
+      "repo": "everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 154631,
+      "forks": 23981,
+      "stars_period": 80744,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 150575,
+      "forks": 13025,
+      "stars_period": 69612,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 78204,
+      "forks": 10446,
+      "stars_period": 69018,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "owner": "shareAI-lab",
+      "repo": "learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description_en": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "description_zh": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "stars": 52854,
+      "forks": 8661,
+      "stars_period": 27226,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 50168,
+      "forks": 9071,
+      "stars_period": 18422,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 21592,
+      "forks": 1762,
+      "stars_period": 17477,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "owner": "microsoft",
+      "repo": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description_en": "Open-Source Frontier Voice AI",
+      "description_zh": "Open-Source Frontier Voice AI",
+      "stars": 39316,
+      "forks": 4556,
+      "stars_period": 15781,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "owner": "jarrodwatts",
+      "repo": "claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description_en": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "description_zh": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": 18909,
+      "forks": 836,
+      "stars_period": 14495,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "onyx-dot-app/onyx",
+      "owner": "onyx-dot-app",
+      "repo": "onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description_en": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "description_zh": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "stars": 26962,
+      "forks": 3581,
+      "stars_period": 9163,
+      "matched_keywords": [
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "google-ai-edge/gallery",
+      "owner": "google-ai-edge",
+      "repo": "gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description_en": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "description_zh": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "stars": 20919,
+      "forks": 1980,
+      "stars_period": 5586,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "owner": "google-ai-edge",
+      "repo": "LiteRT-LM",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM",
+      "description_en": "",
+      "description_zh": "",
+      "stars": 3679,
+      "forks": 352,
+      "stars_period": 2720,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    }
+  ]
+}
