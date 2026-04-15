@@ -1,0 +1,139 @@
+{
+  "date": "2026-04-15",
+  "period": "daily",
+  "count": 7,
+  "projects": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "owner": "forrestchang",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 34644,
+      "forks": 2844,
+      "stars_period": 9263,
+      "matched_keywords": [
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 85051,
+      "forks": 11512,
+      "stars_period": 8301,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "owner": "thedotmack",
+      "repo": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description_en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_zh": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses...",
+      "stars": 55987,
+      "forks": 4500,
+      "stars_period": 2997,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "owner": "shanraisshan",
+      "repo": "claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description_en": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "description_zh": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "stars": 43967,
+      "forks": 4208,
+      "stars_period": 2583,
+      "matched_keywords": [
+        "agentic",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 152495,
+      "forks": 13225,
+      "stars_period": 1919,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "owner": "virattt",
+      "repo": "ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description_en": "An AI Hedge Fund Team",
+      "description_zh": "An AI Hedge Fund Team",
+      "stars": 54243,
+      "forks": 9402,
+      "stars_period": 1007,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "description_zh": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 40319,
+      "forks": 4448,
+      "stars_period": 931,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
