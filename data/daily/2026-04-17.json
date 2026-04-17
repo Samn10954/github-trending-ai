@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-17",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "owner": "forrestchang",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 50475,
+      "forks": 4172,
+      "stars_period": 7959,
+      "matched_keywords": [
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "owner": "thedotmack",
+      "repo": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description_en": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "description_zh": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses...",
+      "stars": 60012,
+      "forks": 4940,
+      "stars_period": 1897,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "owner": "lsdefine",
+      "repo": "GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "description_zh": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 2886,
+      "forks": 327,
+      "stars_period": 872,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "owner": "openai",
+      "repo": "openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description_en": "A lightweight, powerful framework for multi-agent workflows",
+      "description_zh": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": 21305,
+      "forks": 3455,
+      "stars_period": 172,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "topoteretes/cognee",
+      "owner": "topoteretes",
+      "repo": "cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description_en": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "description_zh": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "stars": 15856,
+      "forks": 1633,
+      "stars_period": 170,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
