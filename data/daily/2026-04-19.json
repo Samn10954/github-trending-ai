@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-19",
+  "period": "daily",
+  "count": 3,
+  "projects": [
+    {
+      "name": "openai/openai-agents-python",
+      "owner": "openai",
+      "repo": "openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description_en": "A lightweight, powerful framework for multi-agent workflows",
+      "description_zh": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": 22415,
+      "forks": 3553,
+      "stars_period": 470,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "aaddrick/claude-desktop-debian",
+      "owner": "aaddrick",
+      "repo": "claude-desktop-debian",
+      "url": "https://github.com/aaddrick/claude-desktop-debian",
+      "description_en": "Claude Desktop for Debian-based Linux distributions",
+      "description_zh": "Claude Desktop for Debian-based Linux distributions",
+      "stars": 3486,
+      "forks": 382,
+      "stars_period": 44,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM",
+      "owner": "deepseek-ai",
+      "repo": "DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "description_zh": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "stars": 6561,
+      "forks": 878,
+      "stars_period": 31,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    }
+  ]
+}
