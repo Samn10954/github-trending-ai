@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-21",
+  "period": "daily",
+  "count": 2,
+  "projects": [
+    {
+      "name": "openai/openai-agents-python",
+      "owner": "openai",
+      "repo": "openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description_en": "A lightweight, powerful framework for multi-agent workflows",
+      "description_zh": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": 24008,
+      "forks": 3699,
+      "stars_period": 905,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM",
+      "owner": "deepseek-ai",
+      "repo": "DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "description_zh": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "stars": 6850,
+      "forks": 904,
+      "stars_period": 109,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    }
+  ]
+}
