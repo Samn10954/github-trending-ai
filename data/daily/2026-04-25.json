@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-25",
+  "period": "daily",
+  "count": 4,
+  "projects": [
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "description_zh": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "stars": 9181,
+      "forks": 1368,
+      "stars_period": 2638,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "owner": "Anil-matcha",
+      "repo": "Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description_en": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description_zh": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No ...",
+      "stars": 7742,
+      "forks": 1425,
+      "stars_period": 842,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "zilliztech/claude-context",
+      "owner": "zilliztech",
+      "repo": "claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description_en": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "description_zh": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "stars": 9041,
+      "forks": 692,
+      "stars_period": 706,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "deepseek-ai/DeepEP",
+      "owner": "deepseek-ai",
+      "repo": "DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description_en": "DeepEP: an efficient expert-parallel communication library",
+      "description_zh": "DeepEP: an efficient expert-parallel communication library",
+      "stars": 9343,
+      "forks": 1182,
+      "stars_period": 52,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    }
+  ]
+}
