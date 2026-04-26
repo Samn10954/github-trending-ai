@@ -1,0 +1,172 @@
+{
+  "date": "2026-04-26",
+  "period": "weekly",
+  "count": 9,
+  "projects": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "owner": "forrestchang",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 88002,
+      "forks": 8388,
+      "stars_period": 29917,
+      "matched_keywords": [
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 116885,
+      "forks": 17262,
+      "stars_period": 18223,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "description_zh": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "stars": 11634,
+      "forks": 1743,
+      "stars_period": 8668,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "multica-ai/multica",
+      "owner": "multica-ai",
+      "repo": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description_zh": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": 21103,
+      "forks": 2568,
+      "stars_period": 5118,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "zilliztech/claude-context",
+      "owner": "zilliztech",
+      "repo": "claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description_en": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "description_zh": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "stars": 9402,
+      "forks": 719,
+      "stars_period": 3301,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "owner": "openai",
+      "repo": "openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description_en": "A lightweight, powerful framework for multi-agent workflows",
+      "description_zh": "A lightweight, powerful framework for multi-agent workflows",
+      "stars": 25164,
+      "forks": 3847,
+      "stars_period": 3061,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "owner": "lsdefine",
+      "repo": "GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "description_zh": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 7181,
+      "forks": 808,
+      "stars_period": 3006,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "owner": "Anil-matcha",
+      "repo": "Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description_en": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description_zh": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No ...",
+      "stars": 8356,
+      "forks": 1526,
+      "stars_period": 2917,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "deepseek-ai/DeepGEMM",
+      "owner": "deepseek-ai",
+      "repo": "DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description_en": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "description_zh": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+      "stars": 7034,
+      "forks": 931,
+      "stars_period": 614,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    }
+  ]
+}
