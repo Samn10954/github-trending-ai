@@ -1,0 +1,84 @@
+{
+  "date": "2026-04-27",
+  "period": "daily",
+  "count": 4,
+  "projects": [
+    {
+      "name": "mattpocock/skills",
+      "owner": "mattpocock",
+      "repo": "skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description_en": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "description_zh": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "stars": 24433,
+      "forks": 1977,
+      "stars_period": 2519,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "description_zh": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "stars": 13999,
+      "forks": 1984,
+      "stars_period": 1701,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "owner": "abhigyanpatwari",
+      "repo": "GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description_en": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "description_zh": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive kno...",
+      "stars": 30312,
+      "forks": 3501,
+      "stars_period": 700,
+      "matched_keywords": [
+        "agent",
+        "knowledge graph",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "gastownhall/beads",
+      "owner": "gastownhall",
+      "repo": "beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description_en": "Beads - A memory upgrade for your coding agent",
+      "description_zh": "Beads - A memory upgrade for your coding agent",
+      "stars": 21739,
+      "forks": 1442,
+      "stars_period": 152,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
