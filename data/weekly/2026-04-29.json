@@ -1,0 +1,155 @@
+{
+  "date": "2026-04-29",
+  "period": "weekly",
+  "count": 8,
+  "projects": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "owner": "forrestchang",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 97211,
+      "forks": 9446,
+      "stars_period": 25836,
+      "matched_keywords": [
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description_en": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "description_zh": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "stars": 17652,
+      "forks": 2475,
+      "stars_period": 15110,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description_en": "Production-grade engineering skills for AI coding agents.",
+      "description_zh": "Production-grade engineering skills for AI coding agents.",
+      "stars": 25442,
+      "forks": 3150,
+      "stars_period": 6179,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "owner": "Anil-matcha",
+      "repo": "Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description_en": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description_zh": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No ...",
+      "stars": 9812,
+      "forks": 1734,
+      "stars_period": 4071,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "zilliztech/claude-context",
+      "owner": "zilliztech",
+      "repo": "claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "description_en": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "description_zh": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "stars": 10132,
+      "forks": 754,
+      "stars_period": 3767,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "owner": "HKUDS",
+      "repo": "RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description_en": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "description_zh": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "stars": 19288,
+      "forks": 2191,
+      "stars_period": 2645,
+      "matched_keywords": [
+        "rag"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "owner": "lsdefine",
+      "repo": "GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "description_zh": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 8042,
+      "forks": 922,
+      "stars_period": 2620,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "owner": "AIDC-AI",
+      "repo": "Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description_en": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "description_zh": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": 7404,
+      "forks": 1199,
+      "stars_period": 2330,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
