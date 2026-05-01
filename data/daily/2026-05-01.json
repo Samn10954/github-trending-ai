@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-01",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "warpdotdev/warp",
+      "owner": "warpdotdev",
+      "repo": "warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description_en": "Warp is an agentic development environment, born out of the terminal.",
+      "description_zh": "Warp is an agentic development environment, born out of the terminal.",
+      "stars": 49513,
+      "forks": 3246,
+      "stars_period": 8399,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 57934,
+      "forks": 11017,
+      "stars_period": 2023,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 174688,
+      "forks": 15414,
+      "stars_period": 1632,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description_en": "Coding Agent Harness",
+      "description_zh": "Coding Agent Harness",
+      "stars": 1933,
+      "forks": 175,
+      "stars_period": 675,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "browserbase/skills",
+      "owner": "browserbase",
+      "repo": "skills",
+      "url": "https://github.com/browserbase/skills",
+      "description_en": "Claude Agent SDK with a web browsing tool",
+      "description_zh": "Claude Agent SDK with a web browsing tool",
+      "stars": 874,
+      "forks": 66,
+      "stars_period": 69,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
