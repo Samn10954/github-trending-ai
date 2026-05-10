@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-10",
+  "period": "daily",
+  "count": 4,
+  "projects": [
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description_en": "Production-grade engineering skills for AI coding agents.",
+      "description_zh": "Production-grade engineering skills for AI coding agents.",
+      "stars": 37502,
+      "forks": 4187,
+      "stars_period": 3009,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "decolua/9router",
+      "owner": "decolua",
+      "repo": "9router",
+      "url": "https://github.com/decolua/9router",
+      "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "description_zh": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars": 6605,
+      "forks": 1182,
+      "stars_period": 1031,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "owner": "bytedance",
+      "repo": "UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "description_zh": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars": 31495,
+      "forks": 3131,
+      "stars_period": 552,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "multimodal"
+      ],
+      "tags": [
+        "agent",
+        "multimodal"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "oracle-devrel/oracle-ai-developer-hub",
+      "owner": "oracle-devrel",
+      "repo": "oracle-ai-developer-hub",
+      "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+      "description_en": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+      "description_zh": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+      "stars": 838,
+      "forks": 234,
+      "stars_period": 90,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
