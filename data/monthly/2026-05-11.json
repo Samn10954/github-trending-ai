@@ -1,0 +1,195 @@
+{
+  "date": "2026-05-11",
+  "period": "monthly",
+  "count": 10,
+  "projects": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "owner": "forrestchang",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 123905,
+      "forks": 12587,
+      "stars_period": 112371,
+      "matched_keywords": [
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 142847,
+      "forks": 22284,
+      "stars_period": 92870,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "owner": "thedotmack",
+      "repo": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "description_zh": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau...",
+      "stars": 74555,
+      "forks": 6393,
+      "stars_period": 27652,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 13
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description_en": "Production-grade engineering skills for AI coding agents.",
+      "description_zh": "Production-grade engineering skills for AI coding agents.",
+      "stars": 38678,
+      "forks": 4279,
+      "stars_period": 26792,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 73312,
+      "forks": 14283,
+      "stars_period": 24174,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description_en": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "description_zh": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "stars": 23557,
+      "forks": 3455,
+      "stars_period": 21766,
+      "matched_keywords": [
+        "claude",
+        "voice"
+      ],
+      "tags": [
+        "llm",
+        "speech"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "multica-ai/multica",
+      "owner": "multica-ai",
+      "repo": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description_zh": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": 26954,
+      "forks": 3241,
+      "stars_period": 21605,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "owner": "AIDC-AI",
+      "repo": "Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description_en": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "description_zh": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": 14732,
+      "forks": 2148,
+      "stars_period": 11017,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "owner": "lsdefine",
+      "repo": "GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description_en": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "description_zh": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "stars": 10609,
+      "forks": 1200,
+      "stars_period": 9574,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "owner": "Anil-matcha",
+      "repo": "Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description_en": "Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description_zh": "Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-host...",
+      "stars": 12673,
+      "forks": 2252,
+      "stars_period": 8591,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
