@@ -1,0 +1,62 @@
+{
+  "date": "2026-05-13",
+  "period": "daily",
+  "count": 3,
+  "projects": [
+    {
+      "name": "millionco/react-doctor",
+      "owner": "millionco",
+      "repo": "react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description_en": "Your agent writes bad React. This catches it",
+      "description_zh": "Your agent writes bad React. This catches it",
+      "stars": 8835,
+      "forks": 281,
+      "stars_period": 788,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "owner": "rasbt",
+      "repo": "LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description_en": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "description_zh": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "stars": 93905,
+      "forks": 14425,
+      "stars_period": 772,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "HKUDS/AI-Trader",
+      "owner": "HKUDS",
+      "repo": "AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description_en": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "description_zh": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "stars": 16723,
+      "forks": 2617,
+      "stars_period": 229,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    }
+  ]
+}
