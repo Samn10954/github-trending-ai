@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-17",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 194174,
+      "forks": 17267,
+      "stars_period": 1305,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "owner": "supertone-inc",
+      "repo": "supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "description_zh": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "stars": 6981,
+      "forks": 715,
+      "stars_period": 749,
+      "matched_keywords": [
+        "tts"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "description_zh": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars": 23258,
+      "forks": 2492,
+      "stars_period": 673,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 13
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description_en": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "description_zh": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "stars": 2633,
+      "forks": 220,
+      "stars_period": 416,
+      "matched_keywords": [
+        "claude",
+        "knowledge graph"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "owner": "Anil-matcha",
+      "repo": "Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description_en": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description_zh": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "stars": 14528,
+      "forks": 2525,
+      "stars_period": 317,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
