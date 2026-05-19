@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-19",
+  "period": "daily",
+  "count": 9,
+  "projects": [
+    {
+      "name": "tech-leads-club/agent-skills",
+      "owner": "tech-leads-club",
+      "repo": "agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description_en": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "description_zh": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "stars": 4114,
+      "forks": 357,
+      "stars_period": 1244,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 10
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 36825,
+      "forks": 3565,
+      "stars_period": 1049,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "owner": "microsoft",
+      "repo": "ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description_en": "12 Lessons to Get Started Building AI Agents",
+      "description_zh": "12 Lessons to Get Started Building AI Agents",
+      "stars": 63577,
+      "forks": 21191,
+      "stars_period": 1012,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "BigBodyCobain/Shadowbroker",
+      "owner": "BigBodyCobain",
+      "repo": "Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "description_en": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "description_zh": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to...",
+      "stars": 7820,
+      "forks": 1199,
+      "stars_period": 767,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "owner": "supertone-inc",
+      "repo": "supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description_en": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "description_zh": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "stars": 8430,
+      "forks": 858,
+      "stars_period": 715,
+      "matched_keywords": [
+        "tts"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description_en": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "description_zh": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "stars": 24493,
+      "forks": 2583,
+      "stars_period": 609,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 13
+    },
+    {
+      "name": "humanlayer/12-factor-agents",
+      "owner": "humanlayer",
+      "repo": "12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description_en": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "description_zh": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "stars": 20718,
+      "forks": 1569,
+      "stars_period": 399,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description_en": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "description_zh": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stars": 37316,
+      "forks": 36257,
+      "stars_period": 310,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "owner": "ggml-org",
+      "repo": "llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description_en": "LLM inference in C/C++",
+      "description_zh": "LLM inference in C/C++",
+      "stars": 111129,
+      "forks": 18393,
+      "stars_period": 213,
+      "matched_keywords": [
+        "inference",
+        "llm"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
