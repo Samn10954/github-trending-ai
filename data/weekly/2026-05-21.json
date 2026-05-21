@@ -1,0 +1,81 @@
+{
+  "date": "2026-05-21",
+  "period": "weekly",
+  "count": 4,
+  "projects": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 200281,
+      "forks": 17856,
+      "stars_period": 10851,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "description_zh": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "stars": 10296,
+      "forks": 638,
+      "stars_period": 6731,
+      "matched_keywords": [
+        "claude",
+        "knowledge graph"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description_en": "Public repository for Agent Skills",
+      "description_zh": "Public repository for Agent Skills",
+      "stars": 138354,
+      "forks": 16320,
+      "stars_period": 4749,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "millionco/react-doctor",
+      "owner": "millionco",
+      "repo": "react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "description_en": "Your agent writes bad React. This catches it",
+      "description_zh": "Your agent writes bad React. This catches it",
+      "stars": 10488,
+      "forks": 337,
+      "stars_period": 1345,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
