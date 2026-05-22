@@ -1,0 +1,237 @@
+{
+  "date": "2026-05-22",
+  "period": "daily",
+  "count": 12,
+  "projects": [
+    {
+      "name": "colbymchenry/codegraph",
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "description_zh": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "stars": 14102,
+      "forks": 799,
+      "stars_period": 4294,
+      "matched_keywords": [
+        "claude",
+        "knowledge graph"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 143637,
+      "forks": 14726,
+      "stars_period": 2614,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 201765,
+      "forks": 17978,
+      "stars_period": 1576,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description_en": "Learn it. Build it. Ship it for others.",
+      "description_zh": "Learn it. Build it. Ship it for others.",
+      "stars": 10891,
+      "forks": 2138,
+      "stars_period": 1333,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...",
+      "stars": 103787,
+      "forks": 17069,
+      "stars_period": 1018,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 22793,
+      "forks": 2658,
+      "stars_period": 682,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "owner": "Lum1104",
+      "repo": "Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "description_zh": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,...",
+      "stars": 16833,
+      "forks": 1572,
+      "stars_period": 666,
+      "matched_keywords": [
+        "claude",
+        "gemini",
+        "knowledge graph"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 39217,
+      "forks": 3719,
+      "stars_period": 656,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "multica-ai/multica",
+      "owner": "multica-ai",
+      "repo": "multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description_en": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "description_zh": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": 30868,
+      "forks": 3752,
+      "stars_period": 534,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "owner": "can1357",
+      "repo": "oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description_en": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description_zh": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 5920,
+      "forks": 481,
+      "stars_period": 500,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "antoinezambelli/forge",
+      "owner": "antoinezambelli",
+      "repo": "forge",
+      "url": "https://github.com/antoinezambelli/forge",
+      "description_en": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+      "description_zh": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+      "stars": 1534,
+      "forks": 81,
+      "stars_period": 398,
+      "matched_keywords": [
+        "agentic",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "teng-lin/notebooklm-py",
+      "owner": "teng-lin",
+      "repo": "notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "description_en": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "description_zh": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl...",
+      "stars": 14442,
+      "forks": 2000,
+      "stars_period": 186,
+      "matched_keywords": [
+        "agentic",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 7
+    }
+  ]
+}
