@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-01",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description_zh": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stars": 74971,
+      "forks": 10670,
+      "stars_period": 1937,
+      "matched_keywords": [
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "repo": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "description_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 23684,
+      "forks": 2728,
+      "stars_period": 635,
+      "matched_keywords": [
+        "speech",
+        "tts",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "owner": "FareedKhan-dev",
+      "repo": "train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description_en": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "description_zh": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "stars": 3106,
+      "forks": 457,
+      "stars_period": 626,
+      "matched_keywords": [
+        "llm",
+        "training"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "anthropics/claude-code",
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "description_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ...",
+      "stars": 129033,
+      "forks": 21010,
+      "stars_period": 489,
+      "matched_keywords": [
+        "agentic",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "owner": "nesquena",
+      "repo": "hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description_en": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "description_zh": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "stars": 10162,
+      "forks": 1382,
+      "stars_period": 357,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "revfactory/harness",
+      "owner": "revfactory",
+      "repo": "harness",
+      "url": "https://github.com/revfactory/harness",
+      "description_en": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "description_zh": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars": 4701,
+      "forks": 655,
+      "stars_period": 323,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
