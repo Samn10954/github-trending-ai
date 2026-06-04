@@ -1,0 +1,223 @@
+{
+  "date": "2026-06-04",
+  "period": "monthly",
+  "count": 11,
+  "projects": [
+    {
+      "name": "Lum1104/Understand-Anything",
+      "owner": "Lum1104",
+      "repo": "Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "description_zh": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,...",
+      "stars": 51297,
+      "forks": 4192,
+      "stars_period": 40416,
+      "matched_keywords": [
+        "claude",
+        "gemini",
+        "knowledge graph"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description_en": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "description_zh": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars": 39756,
+      "forks": 2470,
+      "stars_period": 38467,
+      "matched_keywords": [
+        "agent",
+        "claude",
+        "gemini",
+        "knowledge graph"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "Hmbown/CodeWhale",
+      "owner": "Hmbown",
+      "repo": "CodeWhale",
+      "url": "https://github.com/Hmbown/CodeWhale",
+      "description_en": "DeepSeek + MiMo coding agent in terminal",
+      "description_zh": "DeepSeek + MiMo coding agent in terminal",
+      "stars": 36931,
+      "forks": 3177,
+      "stars_period": 35225,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description_zh": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stars": 78969,
+      "forks": 11228,
+      "stars_period": 22441,
+      "matched_keywords": [
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description_en": "Learn it. Build it. Ship it for others.",
+      "description_zh": "Learn it. Build it. Ship it for others.",
+      "stars": 27983,
+      "forks": 4567,
+      "stars_period": 21631,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "decolua/9router",
+      "owner": "decolua",
+      "repo": "9router",
+      "url": "https://github.com/decolua/9router",
+      "description_en": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "description_zh": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars": 16164,
+      "forks": 2420,
+      "stars_period": 12585,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "fathah/hermes-desktop",
+      "owner": "fathah",
+      "repo": "hermes-desktop",
+      "url": "https://github.com/fathah/hermes-desktop",
+      "description_en": "Desktop Companion for Hermes Agent",
+      "description_zh": "Desktop Companion for Hermes Agent",
+      "stars": 10029,
+      "forks": 1189,
+      "stars_period": 8951,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "chopratejas/headroom",
+      "owner": "chopratejas",
+      "repo": "headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "description_zh": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 10269,
+      "forks": 676,
+      "stars_period": 7349,
+      "matched_keywords": [
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "owner": "bytedance",
+      "repo": "UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description_en": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "description_zh": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "stars": 36019,
+      "forks": 3625,
+      "stars_period": 6551,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "multimodal"
+      ],
+      "tags": [
+        "agent",
+        "multimodal"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "owner": "can1357",
+      "repo": "oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description_en": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description_zh": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 10341,
+      "forks": 861,
+      "stars_period": 6443,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "HKUDS/ViMax",
+      "owner": "HKUDS",
+      "repo": "ViMax",
+      "url": "https://github.com/HKUDS/ViMax",
+      "description_en": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "description_zh": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
+      "stars": 8650,
+      "forks": 1327,
+      "stars_period": 5930,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
