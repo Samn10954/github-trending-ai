@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-05",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "chopratejas/headroom",
+      "owner": "chopratejas",
+      "repo": "headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "description_zh": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 12874,
+      "forks": 828,
+      "stars_period": 3142,
+      "matched_keywords": [
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 181269,
+      "forks": 31102,
+      "stars_period": 1913,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 207433,
+      "forks": 31839,
+      "stars_period": 1750,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "owner": "Open-LLM-VTuber",
+      "repo": "Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description_en": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "description_zh": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars": 9700,
+      "forks": 1160,
+      "stars_period": 581,
+      "matched_keywords": [
+        "llm",
+        "voice"
+      ],
+      "tags": [
+        "llm",
+        "speech"
+      ],
+      "relevance_score": 10
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 27716,
+      "forks": 2356,
+      "stars_period": 199,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "github/copilot-sdk",
+      "owner": "github",
+      "repo": "copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "description_zh": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9025,
+      "forks": 1214,
+      "stars_period": 38,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
