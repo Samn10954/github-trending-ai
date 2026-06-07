@@ -1,0 +1,120 @@
+{
+  "date": "2026-06-07",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 219759,
+      "forks": 19554,
+      "stars_period": 700,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 22476,
+      "forks": 1920,
+      "stars_period": 683,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 28984,
+      "forks": 2452,
+      "stars_period": 439,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "owner": "microsoft",
+      "repo": "VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description_en": "Open-Source Frontier Voice AI",
+      "description_zh": "Open-Source Frontier Voice AI",
+      "stars": 48505,
+      "forks": 5392,
+      "stars_period": 216,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "santifer/career-ops",
+      "owner": "santifer",
+      "repo": "career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "description_zh": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 49455,
+      "forks": 10214,
+      "stars_period": 193,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "owner": "danielmiessler",
+      "repo": "Personal_AI_Infrastructure",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "description_en": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "description_zh": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "stars": 15015,
+      "forks": 2126,
+      "stars_period": 70,
+      "matched_keywords": [
+        "agentic",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
