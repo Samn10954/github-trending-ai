@@ -1,0 +1,104 @@
+{
+  "date": "2026-06-08",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "owner": "NousResearch",
+      "repo": "hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description_en": "The agent that grows with you",
+      "description_zh": "The agent that grows with you",
+      "stars": 186212,
+      "forks": 32030,
+      "stars_period": 1112,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 31666,
+      "forks": 2638,
+      "stars_period": 1111,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "aaif-goose/goose",
+      "owner": "aaif-goose",
+      "repo": "goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description_en": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "description_zh": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 47612,
+      "forks": 5018,
+      "stars_period": 322,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "owner": "ggml-org",
+      "repo": "llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description_en": "LLM inference in C/C++",
+      "description_zh": "LLM inference in C/C++",
+      "stars": 115404,
+      "forks": 19316,
+      "stars_period": 158,
+      "matched_keywords": [
+        "inference",
+        "llm"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "opencv/opencv",
+      "owner": "opencv",
+      "repo": "opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description_en": "Open Source Computer Vision Library",
+      "description_zh": "Open Source Computer Vision Library",
+      "stars": 88163,
+      "forks": 56600,
+      "stars_period": 65,
+      "matched_keywords": [
+        "computer vision",
+        "vision"
+      ],
+      "tags": [
+        "vision"
+      ],
+      "relevance_score": 4
+    }
+  ]
+}
