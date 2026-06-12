@@ -1,0 +1,140 @@
+{
+  "date": "2026-06-12",
+  "period": "daily",
+  "count": 7,
+  "projects": [
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description_en": "Production-grade engineering skills for AI coding agents.",
+      "description_zh": "Production-grade engineering skills for AI coding agents.",
+      "stars": 55142,
+      "forks": 5985,
+      "stars_period": 3278,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "description_zh": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "stars": 16384,
+      "forks": 1700,
+      "stars_period": 1978,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...",
+      "stars": 111742,
+      "forks": 18269,
+      "stars_period": 1599,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 225055,
+      "forks": 20013,
+      "stars_period": 1322,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "owner": "x1xhlol",
+      "repo": "system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description_en": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "description_zh": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V...",
+      "stars": 139932,
+      "forks": 34628,
+      "stars_period": 368,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "description_zh": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars": 2810,
+      "forks": 221,
+      "stars_period": 319,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "hexo-ai/sia",
+      "owner": "hexo-ai",
+      "repo": "sia",
+      "url": "https://github.com/hexo-ai/sia",
+      "description_en": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+      "description_zh": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
+      "stars": 1385,
+      "forks": 165,
+      "stars_period": 199,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    }
+  ]
+}
