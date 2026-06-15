@@ -1,0 +1,44 @@
+{
+  "date": "2026-06-15",
+  "period": "daily",
+  "count": 2,
+  "projects": [
+    {
+      "name": "NVIDIA/SkillSpector",
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "description_zh": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars": 5527,
+      "forks": 422,
+      "stars_period": 964,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "owner": "Introduction-to-Autonomous-Robots",
+      "repo": "Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description_en": "Introduction to Autonomous Robots",
+      "description_zh": "Introduction to Autonomous Robots",
+      "stars": 2808,
+      "forks": 627,
+      "stars_period": 293,
+      "matched_keywords": [
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
