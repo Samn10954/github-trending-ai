@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-17",
+  "period": "daily",
+  "count": 1,
+  "projects": [
+    {
+      "name": "OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "repo": "VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description_en": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "description_zh": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "stars": 30213,
+      "forks": 3411,
+      "stars_period": 408,
+      "matched_keywords": [
+        "speech",
+        "tts",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
