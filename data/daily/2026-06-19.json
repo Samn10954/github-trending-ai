@@ -1,0 +1,100 @@
+{
+  "date": "2026-06-19",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 232552,
+      "forks": 20657,
+      "stars_period": 1429,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "owner": "Kilo-Org",
+      "repo": "kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "description_en": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "description_zh": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "stars": 22268,
+      "forks": 2709,
+      "stars_period": 1345,
+      "matched_keywords": [
+        "agent",
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "owner": "zai-org",
+      "repo": "GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "description_en": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "description_zh": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "stars": 4204,
+      "forks": 434,
+      "stars_period": 202,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "withastro/flue",
+      "owner": "withastro",
+      "repo": "flue",
+      "url": "https://github.com/withastro/flue",
+      "description_en": "The sandbox agent framework.",
+      "description_zh": "The sandbox agent framework.",
+      "stars": 5552,
+      "forks": 305,
+      "stars_period": 162,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "owner": "Lightricks",
+      "repo": "LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description_en": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "description_zh": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars": 7522,
+      "forks": 1209,
+      "stars_period": 51,
+      "matched_keywords": [
+        "audio",
+        "inference"
+      ],
+      "tags": [
+        "speech",
+        "training"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
