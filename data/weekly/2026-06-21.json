@@ -1,0 +1,158 @@
+{
+  "date": "2026-06-21",
+  "period": "weekly",
+  "count": 8,
+  "projects": [
+    {
+      "name": "chopratejas/headroom",
+      "owner": "chopratejas",
+      "repo": "headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "description_en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "description_zh": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars": 42158,
+      "forks": 2906,
+      "stars_period": 14982,
+      "matched_keywords": [
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 36050,
+      "forks": 2870,
+      "stars_period": 8483,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description_en": "Production-grade engineering skills for AI coding agents.",
+      "description_zh": "Production-grade engineering skills for AI coding agents.",
+      "stars": 64277,
+      "forks": 6943,
+      "stars_period": 6332,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "description_zh": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars": 8730,
+      "forks": 675,
+      "stars_period": 4631,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "description_zh": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "stars": 20126,
+      "forks": 2044,
+      "stars_period": 2605,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "description_zh": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ...",
+      "stars": 43930,
+      "forks": 7278,
+      "stars_period": 1866,
+      "matched_keywords": [
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "withastro/flue",
+      "owner": "withastro",
+      "repo": "flue",
+      "url": "https://github.com/withastro/flue",
+      "description_en": "The sandbox agent framework.",
+      "description_zh": "The sandbox agent framework.",
+      "stars": 6128,
+      "forks": 346,
+      "stars_period": 1012,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "LMCache/LMCache",
+      "owner": "LMCache",
+      "repo": "LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description_en": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "description_zh": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars": 9485,
+      "forks": 1357,
+      "stars_period": 713,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
