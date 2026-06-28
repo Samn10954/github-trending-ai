@@ -1,0 +1,242 @@
+{
+  "date": "2026-06-28",
+  "period": "monthly",
+  "count": 12,
+  "projects": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "owner": "harry0703",
+      "repo": "MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description_en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "description_zh": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stars": 93629,
+      "forks": 13569,
+      "stars_period": 33794,
+      "matched_keywords": [
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "Egonex-AI/Understand-Anything",
+      "owner": "Egonex-AI",
+      "repo": "Understand-Anything",
+      "url": "https://github.com/Egonex-AI/Understand-Anything",
+      "description_en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "description_zh": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,...",
+      "stars": 68708,
+      "forks": 5674,
+      "stars_period": 30783,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "knowledge graph"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 10
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "owner": "colbymchenry",
+      "repo": "codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description_en": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "description_zh": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "stars": 55416,
+      "forks": 3416,
+      "stars_period": 26455,
+      "matched_keywords": [
+        "agent",
+        "claude",
+        "gemini",
+        "knowledge graph"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 43587,
+      "forks": 3464,
+      "stars_period": 22848,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 47209,
+      "forks": 3919,
+      "stars_period": 20777,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description_zh": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 25471,
+      "forks": 2815,
+      "stars_period": 20575,
+      "matched_keywords": [
+        "agent",
+        "agentic",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "owner": "mukul975",
+      "repo": "Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "description_zh": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with...",
+      "stars": 22245,
+      "forks": 2546,
+      "stars_period": 11529,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "description_zh": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "stars": 21392,
+      "forks": 2169,
+      "stars_period": 9754,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "owner": "tashfeenahmed",
+      "repo": "freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description_en": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "description_zh": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc...",
+      "stars": 13542,
+      "forks": 2021,
+      "stars_period": 7737,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "owner": "can1357",
+      "repo": "oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description_en": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "description_zh": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "stars": 14907,
+      "forks": 1322,
+      "stars_period": 7339,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "description_zh": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ...",
+      "stars": 46661,
+      "forks": 7643,
+      "stars_period": 5827,
+      "matched_keywords": [
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "owner": "ogulcancelik",
+      "repo": "herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description_en": "agent multiplexer that lives in your terminal.",
+      "description_zh": "agent multiplexer that lives in your terminal.",
+      "stars": 7765,
+      "forks": 477,
+      "stars_period": 5076,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
