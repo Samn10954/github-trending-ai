@@ -1,0 +1,84 @@
+{
+  "date": "2026-06-29",
+  "period": "daily",
+  "count": 4,
+  "projects": [
+    {
+      "name": "xbtlin/ai-berkshire",
+      "owner": "xbtlin",
+      "repo": "ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description_en": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "description_zh": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag...",
+      "stars": 5652,
+      "forks": 759,
+      "stars_period": 1445,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description_zh": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 14474,
+      "forks": 2645,
+      "stars_period": 492,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "owner": "opendatalab",
+      "repo": "MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description_en": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "description_zh": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "stars": 71790,
+      "forks": 6023,
+      "stars_period": 380,
+      "matched_keywords": [
+        "agentic",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "commaai/openpilot",
+      "owner": "commaai",
+      "repo": "openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description_en": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "description_zh": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "stars": 62485,
+      "forks": 11096,
+      "stars_period": 266,
+      "matched_keywords": [
+        "robotics"
+      ],
+      "tags": [
+        "robotics"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
