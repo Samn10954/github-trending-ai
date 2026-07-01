@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-01",
+  "period": "weekly",
+  "count": 12,
+  "projects": [
+    {
+      "name": "calesthio/OpenMontage",
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description_zh": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 30068,
+      "forks": 3397,
+      "stars_period": 15353,
+      "matched_keywords": [
+        "agent",
+        "agentic",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 47292,
+      "forks": 3748,
+      "stars_period": 8398,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "topoteretes/cognee",
+      "owner": "topoteretes",
+      "repo": "cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description_en": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "description_zh": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "stars": 26145,
+      "forks": 2405,
+      "stars_period": 6417,
+      "matched_keywords": [
+        "ai",
+        "knowledge graph"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr...",
+      "stars": 52609,
+      "forks": 45617,
+      "stars_period": 5806,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "owner": "JCodesMore",
+      "repo": "ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description_en": "Clone any website with one command using AI coding agents",
+      "description_zh": "Clone any website with one command using AI coding agents",
+      "stars": 24054,
+      "forks": 3416,
+      "stars_period": 5624,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "owner": "mukul975",
+      "repo": "Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "description_zh": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with...",
+      "stars": 23520,
+      "forks": 2676,
+      "stars_period": 4109,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description_en": "The open-source AI voice studio. Clone, dictate, create.",
+      "description_zh": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 36363,
+      "forks": 4358,
+      "stars_period": 3336,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "stablyai/orca",
+      "owner": "stablyai",
+      "repo": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 9779,
+      "forks": 665,
+      "stars_period": 3311,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "owner": "interviewstreet",
+      "repo": "hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description_en": "AI agent to evaluate and score resumes.",
+      "description_zh": "AI agent to evaluate and score resumes.",
+      "stars": 4014,
+      "forks": 792,
+      "stars_period": 2266,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "alibaba/page-agent",
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description_zh": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 20825,
+      "forks": 1781,
+      "stars_period": 1591,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "owner": "BuilderIO",
+      "repo": "agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description_en": "A framework for building agent-native applications.",
+      "description_zh": "A framework for building agent-native applications.",
+      "stars": 3220,
+      "forks": 311,
+      "stars_period": 1370,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "owner": "aws",
+      "repo": "agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description_en": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "description_zh": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "stars": 1653,
+      "forks": 137,
+      "stars_period": 684,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    }
+  ]
+}
