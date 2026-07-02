@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-02",
+  "period": "daily",
+  "count": 10,
+  "projects": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...",
+      "stars": 123833,
+      "forks": 20130,
+      "stars_period": 2114,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "owner": "microsoft",
+      "repo": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description_en": "12 Weeks, 24 Lessons, AI for All!",
+      "description_zh": "12 Weeks, 24 Lessons, AI for All!",
+      "stars": 50623,
+      "forks": 10267,
+      "stars_period": 1096,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "owner": "diegosouzapw",
+      "repo": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description_en": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description_zh": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%...",
+      "stars": 9663,
+      "forks": 1479,
+      "stars_period": 1010,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "gpt",
+        "multimodal"
+      ],
+      "tags": [
+        "llm",
+        "multimodal"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "facebook/astryx",
+      "owner": "facebook",
+      "repo": "astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description_en": "An open source design system that's fully customizable and agent ready",
+      "description_zh": "An open source design system that's fully customizable and agent ready",
+      "stars": 2787,
+      "forks": 150,
+      "stars_period": 708,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description_zh": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 16698,
+      "forks": 2818,
+      "stars_period": 694,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "owner": "ogulcancelik",
+      "repo": "herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description_en": "agent multiplexer that lives in your terminal.",
+      "description_zh": "agent multiplexer that lives in your terminal.",
+      "stars": 9691,
+      "forks": 567,
+      "stars_period": 609,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "owner": "altic-dev",
+      "repo": "FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "description_zh": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "stars": 5564,
+      "forks": 332,
+      "stars_period": 572,
+      "matched_keywords": [
+        "ai",
+        "stt"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "allenai/olmocr",
+      "owner": "allenai",
+      "repo": "olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description_en": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "description_zh": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "stars": 18337,
+      "forks": 1508,
+      "stars_period": 334,
+      "matched_keywords": [
+        "llm",
+        "training"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "0xNyk/council-of-high-intelligence",
+      "owner": "0xNyk",
+      "repo": "council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "description_en": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "description_zh": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One co...",
+      "stars": 2704,
+      "forks": 249,
+      "stars_period": 161,
+      "matched_keywords": [
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "owner": "Unclecheng-li",
+      "repo": "VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "description_en": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "description_zh": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "stars": 1623,
+      "forks": 221,
+      "stars_period": 132,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
