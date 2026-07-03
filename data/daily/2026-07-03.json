@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-03",
+  "period": "daily",
+  "count": 8,
+  "projects": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...",
+      "stars": 125668,
+      "forks": 20391,
+      "stars_period": 3032,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description_zh": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 17419,
+      "forks": 2893,
+      "stars_period": 939,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 244592,
+      "forks": 21692,
+      "stars_period": 897,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 225265,
+      "forks": 34465,
+      "stars_period": 486,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "santifer/career-ops",
+      "owner": "santifer",
+      "repo": "career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description_en": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "description_zh": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "stars": 57961,
+      "forks": 11400,
+      "stars_period": 372,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "owner": "langflow-ai",
+      "repo": "langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description_en": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "description_zh": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 150812,
+      "forks": 9401,
+      "stars_period": 117,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "agentskills/agentskills",
+      "owner": "agentskills",
+      "repo": "agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "description_en": "Specification and documentation for Agent Skills",
+      "description_zh": "Specification and documentation for Agent Skills",
+      "stars": 21670,
+      "forks": 1377,
+      "stars_period": 86,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "pytorch/pytorch",
+      "owner": "pytorch",
+      "repo": "pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 101261,
+      "forks": 28229,
+      "stars_period": 65,
+      "matched_keywords": [
+        "gpu",
+        "neural"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
