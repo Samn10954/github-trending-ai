@@ -1,0 +1,137 @@
+{
+  "date": "2026-07-04",
+  "period": "daily",
+  "count": 7,
+  "projects": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 245601,
+      "forks": 21775,
+      "stars_period": 1209,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...",
+      "stars": 126560,
+      "forks": 20540,
+      "stars_period": 1208,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "facebook/astryx",
+      "owner": "facebook",
+      "repo": "astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description_en": "An open source design system that's fully customizable and agent ready",
+      "description_zh": "An open source design system that's fully customizable and agent ready",
+      "stars": 4732,
+      "forks": 277,
+      "stars_period": 885,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "owner": "ogulcancelik",
+      "repo": "herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description_en": "agent multiplexer that lives in your terminal.",
+      "description_zh": "agent multiplexer that lives in your terminal.",
+      "stars": 10858,
+      "forks": 640,
+      "stars_period": 478,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "agentskills/agentskills",
+      "owner": "agentskills",
+      "repo": "agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "description_en": "Specification and documentation for Agent Skills",
+      "description_zh": "Specification and documentation for Agent Skills",
+      "stars": 22026,
+      "forks": 1395,
+      "stars_period": 406,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "pytorch/pytorch",
+      "owner": "pytorch",
+      "repo": "pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 101451,
+      "forks": 28252,
+      "stars_period": 293,
+      "matched_keywords": [
+        "gpu",
+        "neural"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "anthropics/claude-code",
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "description_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ...",
+      "stars": 135880,
+      "forks": 21861,
+      "stars_period": 221,
+      "matched_keywords": [
+        "agentic",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    }
+  ]
+}
