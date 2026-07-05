@@ -1,0 +1,139 @@
+{
+  "date": "2026-07-05",
+  "period": "daily",
+  "count": 7,
+  "projects": [
+    {
+      "name": "alibaba/page-agent",
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description_zh": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 23195,
+      "forks": 2012,
+      "stars_period": 742,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "owner": "ogulcancelik",
+      "repo": "herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description_en": "agent multiplexer that lives in your terminal.",
+      "description_zh": "agent multiplexer that lives in your terminal.",
+      "stars": 11523,
+      "forks": 673,
+      "stars_period": 707,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "description_zh": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ...",
+      "stars": 49021,
+      "forks": 7992,
+      "stars_period": 471,
+      "matched_keywords": [
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "agentskills/agentskills",
+      "owner": "agentskills",
+      "repo": "agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "description_en": "Specification and documentation for Agent Skills",
+      "description_zh": "Specification and documentation for Agent Skills",
+      "stars": 22376,
+      "forks": 1416,
+      "stars_period": 351,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "owner": "alirezarezvani",
+      "repo": "claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description_en": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "description_zh": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e...",
+      "stars": 20193,
+      "forks": 2763,
+      "stars_period": 136,
+      "matched_keywords": [
+        "agent",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "CoplayDev/unity-mcp",
+      "owner": "CoplayDev",
+      "repo": "unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "description_en": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "description_zh": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+      "stars": 11643,
+      "forks": 1264,
+      "stars_period": 69,
+      "matched_keywords": [
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "crynta/terax-ai",
+      "owner": "crynta",
+      "repo": "terax-ai",
+      "url": "https://github.com/crynta/terax-ai",
+      "description_en": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "description_zh": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "stars": 8087,
+      "forks": 862,
+      "stars_period": 62,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
