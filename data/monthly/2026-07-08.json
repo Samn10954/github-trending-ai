@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-08",
+  "period": "monthly",
+  "count": 12,
+  "projects": [
+    {
+      "name": "calesthio/OpenMontage",
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description_zh": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 35109,
+      "forks": 4036,
+      "stars_period": 30474,
+      "matched_keywords": [
+        "agent",
+        "agentic",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 52756,
+      "forks": 4242,
+      "stars_period": 29851,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 50352,
+      "forks": 4200,
+      "stars_period": 20890,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr...",
+      "stars": 55594,
+      "forks": 47987,
+      "stars_period": 14631,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "description_zh": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ...",
+      "stars": 53116,
+      "forks": 8658,
+      "stars_period": 11323,
+      "matched_keywords": [
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "description_zh": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars": 12335,
+      "forks": 1016,
+      "stars_period": 10999,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "owner": "phuryn",
+      "repo": "pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description_en": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "description_zh": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "stars": 22928,
+      "forks": 2310,
+      "stars_period": 10794,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "stablyai/orca",
+      "owner": "stablyai",
+      "repo": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 13622,
+      "forks": 916,
+      "stars_period": 8947,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "owner": "ogulcancelik",
+      "repo": "herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description_en": "agent multiplexer that lives in your terminal.",
+      "description_zh": "agent multiplexer that lives in your terminal.",
+      "stars": 13636,
+      "forks": 792,
+      "stars_period": 8492,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "alibaba/page-agent",
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description_zh": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 24966,
+      "forks": 2138,
+      "stars_period": 6603,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description_en": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "description_zh": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "stars": 11324,
+      "forks": 3745,
+      "stars_period": 5887,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "owner": "interviewstreet",
+      "repo": "hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description_en": "AI agent to evaluate and score resumes.",
+      "description_zh": "AI agent to evaluate and score resumes.",
+      "stars": 5100,
+      "forks": 952,
+      "stars_period": 4098,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    }
+  ]
+}
