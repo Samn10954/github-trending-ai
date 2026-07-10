@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-10",
+  "period": "daily",
+  "count": 8,
+  "projects": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description_en": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "description_zh": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "stars": 19386,
+      "forks": 5563,
+      "stars_period": 3716,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description_en": "Production-grade engineering skills for AI coding agents.",
+      "description_zh": "Production-grade engineering skills for AI coding agents.",
+      "stars": 76033,
+      "forks": 8175,
+      "stars_period": 2554,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "description_zh": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ...",
+      "stars": 55246,
+      "forks": 9030,
+      "stars_period": 1125,
+      "matched_keywords": [
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "owner": "bradautomates",
+      "repo": "claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "description_zh": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars": 6782,
+      "forks": 774,
+      "stars_period": 718,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "owner": "vxcontrol",
+      "repo": "pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description_en": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "description_zh": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 19505,
+      "forks": 2628,
+      "stars_period": 535,
+      "matched_keywords": [
+        "ai",
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "owner": "kyutai-labs",
+      "repo": "pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description_en": "A TTS that fits in your CPU (and pocket)",
+      "description_zh": "A TTS that fits in your CPU (and pocket)",
+      "stars": 7035,
+      "forks": 705,
+      "stars_period": 235,
+      "matched_keywords": [
+        "tts"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "unclecode/crawl4ai",
+      "owner": "unclecode",
+      "repo": "crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description_en": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "description_zh": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "stars": 71914,
+      "forks": 7383,
+      "stars_period": 215,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "description_zh": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 47222,
+      "forks": 5558,
+      "stars_period": 194,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
