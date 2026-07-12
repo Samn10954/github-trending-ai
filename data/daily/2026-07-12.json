@@ -1,0 +1,100 @@
+{
+  "date": "2026-07-12",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 252512,
+      "forks": 22536,
+      "stars_period": 740,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "owner": "google-labs-code",
+      "repo": "stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "description_zh": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C...",
+      "stars": 7100,
+      "forks": 946,
+      "stars_period": 340,
+      "matched_keywords": [
+        "agent",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description_en": "CLI tool for configuring and monitoring Claude Code",
+      "description_zh": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 29044,
+      "forks": 3188,
+      "stars_period": 232,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "description_zh": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 47976,
+      "forks": 5676,
+      "stars_period": 219,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "DayuanJiang/next-ai-draw-io",
+      "owner": "DayuanJiang",
+      "repo": "next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description_en": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "description_zh": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza...",
+      "stars": 33316,
+      "forks": 3606,
+      "stars_period": 81,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
