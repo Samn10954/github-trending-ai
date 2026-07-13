@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-13",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description_zh": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 20697,
+      "forks": 3611,
+      "stars_period": 768,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "description_zh": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 48503,
+      "forks": 5737,
+      "stars_period": 459,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "description_zh": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 118711,
+      "forks": 17646,
+      "stars_period": 408,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 14
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description_en": "CLI tool for configuring and monitoring Claude Code",
+      "description_zh": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 29272,
+      "forks": 3205,
+      "stars_period": 274,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 4376,
+      "forks": 253,
+      "stars_period": 155,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "owner": "virattt",
+      "repo": "ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description_en": "An AI Hedge Fund Team",
+      "description_zh": "An AI Hedge Fund Team",
+      "stars": 61451,
+      "forks": 10862,
+      "stars_period": 115,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
