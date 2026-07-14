@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-14",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description_zh": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 21866,
+      "forks": 3762,
+      "stars_period": 1153,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "owner": "Graphify-Labs",
+      "repo": "graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description_en": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "description_zh": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable...",
+      "stars": 84876,
+      "forks": 8354,
+      "stars_period": 1095,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "knowledge graph"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "description_zh": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 119734,
+      "forks": 17752,
+      "stars_period": 996,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 14
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 5236,
+      "forks": 276,
+      "stars_period": 794,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "owner": "coreyhaines31",
+      "repo": "marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "description_zh": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": 38654,
+      "forks": 6174,
+      "stars_period": 299,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "moeru-ai/airi",
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description_zh": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf...",
+      "stars": 41946,
+      "forks": 4200,
+      "stars_period": 78,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
