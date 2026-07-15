@@ -1,0 +1,200 @@
+{
+  "date": "2026-07-15",
+  "period": "monthly",
+  "count": 10,
+  "projects": [
+    {
+      "name": "calesthio/OpenMontage",
+      "owner": "calesthio",
+      "repo": "OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description_en": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "description_zh": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 38552,
+      "forks": 4675,
+      "stars_period": 33860,
+      "matched_keywords": [
+        "agent",
+        "agentic",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 56327,
+      "forks": 4635,
+      "stars_period": 28179,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "description_zh": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 22541,
+      "forks": 7000,
+      "stars_period": 19140,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "owner": "asgeirtj",
+      "repo": "system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description_en": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "description_zh": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -...",
+      "stars": 57793,
+      "forks": 9552,
+      "stars_period": 15784,
+      "matched_keywords": [
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "stablyai/orca",
+      "owner": "stablyai",
+      "repo": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 19227,
+      "forks": 1503,
+      "stars_period": 14163,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "owner": "diegosouzapw",
+      "repo": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description_en": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description_zh": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%...",
+      "stars": 17359,
+      "forks": 2607,
+      "stars_period": 11137,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "gpt",
+        "multimodal"
+      ],
+      "tags": [
+        "llm",
+        "multimodal"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "owner": "ogulcancelik",
+      "repo": "herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description_en": "agent multiplexer that lives in your terminal.",
+      "description_zh": "agent multiplexer that lives in your terminal.",
+      "stars": 16512,
+      "forks": 1114,
+      "stars_period": 10805,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "topoteretes/cognee",
+      "owner": "topoteretes",
+      "repo": "cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description_en": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "description_zh": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "stars": 27884,
+      "forks": 2750,
+      "stars_period": 10094,
+      "matched_keywords": [
+        "ai",
+        "knowledge graph"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "alibaba/page-agent",
+      "owner": "alibaba",
+      "repo": "page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description_en": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "description_zh": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": 26638,
+      "forks": 2441,
+      "stars_period": 8181,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "owner": "interviewstreet",
+      "repo": "hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description_en": "AI agent to evaluate and score resumes.",
+      "description_zh": "AI agent to evaluate and score resumes.",
+      "stars": 5852,
+      "forks": 1158,
+      "stars_period": 4711,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    }
+  ]
+}
