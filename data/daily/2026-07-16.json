@@ -1,0 +1,141 @@
+{
+  "date": "2026-07-16",
+  "period": "daily",
+  "count": 7,
+  "projects": [
+    {
+      "name": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 8778,
+      "forks": 449,
+      "stars_period": 1277,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "description_zh": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 121988,
+      "forks": 18000,
+      "stars_period": 1236,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 14
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description_zh": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 23768,
+      "forks": 4048,
+      "stars_period": 915,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "owner": "HenryNdubuaku",
+      "repo": "maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description_en": "Become a cracked AI/ML Research Engineer",
+      "description_zh": "Become a cracked AI/ML Research Engineer",
+      "stars": 5971,
+      "forks": 746,
+      "stars_period": 725,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "owner": "coreyhaines31",
+      "repo": "marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "description_zh": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": 39818,
+      "forks": 6325,
+      "stars_period": 340,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "owner": "openinterpreter",
+      "repo": "openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description_en": "A coding agent for low-cost models",
+      "description_zh": "A coding agent for low-cost models",
+      "stars": 65538,
+      "forks": 5655,
+      "stars_period": 299,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "moeru-ai/airi",
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description_zh": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf...",
+      "stars": 42555,
+      "forks": 4253,
+      "stars_period": 110,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
