@@ -1,0 +1,126 @@
+{
+  "date": "2026-07-17",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 11023,
+      "forks": 548,
+      "stars_period": 3372,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "owner": "Graphify-Labs",
+      "repo": "graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description_en": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "description_zh": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable...",
+      "stars": 89180,
+      "forks": 8708,
+      "stars_period": 1107,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "knowledge graph"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "description_zh": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 122977,
+      "forks": 18133,
+      "stars_period": 923,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 14
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "owner": "openinterpreter",
+      "repo": "openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description_en": "A coding agent for open models like Kimi K3",
+      "description_zh": "A coding agent for open models like Kimi K3",
+      "stars": 66016,
+      "forks": 5675,
+      "stars_period": 661,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "lobehub/lobehub",
+      "owner": "lobehub",
+      "repo": "lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description_en": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "description_zh": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+      "stars": 80207,
+      "forks": 15614,
+      "stars_period": 71,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "github/copilot-sdk",
+      "owner": "github",
+      "repo": "copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "description_zh": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9658,
+      "forks": 1319,
+      "stars_period": 13,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
