@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-18",
+  "period": "daily",
+  "count": 4,
+  "projects": [
+    {
+      "name": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 12102,
+      "forks": 606,
+      "stars_period": 1485,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "owner": "openinterpreter",
+      "repo": "openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description_en": "A coding agent for open models like Kimi K3",
+      "description_zh": "A coding agent for open models like Kimi K3",
+      "stars": 66399,
+      "forks": 5707,
+      "stars_period": 431,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "github/copilot-sdk",
+      "owner": "github",
+      "repo": "copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "description_zh": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9805,
+      "forks": 1331,
+      "stars_period": 233,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "HenryNdubuaku/maths-cs-ai-compendium",
+      "owner": "HenryNdubuaku",
+      "repo": "maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description_en": "Become a cracked AI/ML Research Engineer",
+      "description_zh": "Become a cracked AI/ML Research Engineer",
+      "stars": 6656,
+      "forks": 811,
+      "stars_period": 200,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
