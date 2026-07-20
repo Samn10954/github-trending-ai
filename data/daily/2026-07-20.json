@@ -1,0 +1,195 @@
+{
+  "date": "2026-07-20",
+  "period": "daily",
+  "count": 10,
+  "projects": [
+    {
+      "name": "bojieli/ai-agent-book",
+      "owner": "bojieli",
+      "repo": "ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description_en": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 6430,
+      "forks": 599,
+      "stars_period": 1734,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 15
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "owner": "jamiepine",
+      "repo": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description_en": "The open-source AI voice studio. Clone, dictate, create.",
+      "description_zh": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 43471,
+      "forks": 5306,
+      "stars_period": 610,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "owner": "KnockOutEZ",
+      "repo": "wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description_en": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "description_zh": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "stars": 1944,
+      "forks": 121,
+      "stars_period": 595,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description_en": "Learn it. Build it. Ship it for others.",
+      "description_zh": "Learn it. Build it. Ship it for others.",
+      "stars": 39808,
+      "forks": 6636,
+      "stars_period": 501,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "owner": "MoonshotAI",
+      "repo": "kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description_en": "Kimi Code CLI is your next CLI agent.",
+      "description_zh": "Kimi Code CLI is your next CLI agent.",
+      "stars": 9933,
+      "forks": 1197,
+      "stars_period": 410,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "owner": "kvcache-ai",
+      "repo": "ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description_en": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "description_zh": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "stars": 18432,
+      "forks": 1455,
+      "stars_period": 360,
+      "matched_keywords": [
+        "ai",
+        "inference",
+        "llm"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "lyogavin/airllm",
+      "owner": "lyogavin",
+      "repo": "airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description_en": "AirLLM 70B inference with single 4GB GPU",
+      "description_zh": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 23675,
+      "forks": 2683,
+      "stars_period": 358,
+      "matched_keywords": [
+        "gpu",
+        "inference"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description_en": "Coding Agent Harness",
+      "description_zh": "Coding Agent Harness",
+      "stars": 8974,
+      "forks": 1040,
+      "stars_period": 235,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "owner": "AstrBotDevs",
+      "repo": "AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description_en": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "description_zh": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "stars": 36734,
+      "forks": 2547,
+      "stars_period": 83,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "github/copilot-sdk",
+      "owner": "github",
+      "repo": "copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description_en": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "description_zh": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "stars": 9977,
+      "forks": 1351,
+      "stars_period": 39,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
