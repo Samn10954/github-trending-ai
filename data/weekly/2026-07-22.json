@@ -1,0 +1,233 @@
+{
+  "date": "2026-07-22",
+  "period": "weekly",
+  "count": 12,
+  "projects": [
+    {
+      "name": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 15015,
+      "forks": 750,
+      "stars_period": 8948,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "stablyai/orca",
+      "owner": "stablyai",
+      "repo": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "stars": 25105,
+      "forks": 1808,
+      "stars_period": 5733,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description_en": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "description_zh": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "stars": 125829,
+      "forks": 18567,
+      "stars_period": 5385,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 14
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "repo": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description_en": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description_zh": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 26168,
+      "forks": 4285,
+      "stars_period": 3679,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "earendil-works/pi",
+      "owner": "earendil-works",
+      "repo": "pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "description_zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 74780,
+      "forks": 9203,
+      "stars_period": 3569,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "openai/codex",
+      "owner": "openai",
+      "repo": "codex",
+      "url": "https://github.com/openai/codex",
+      "description_en": "Lightweight coding agent that runs in your terminal",
+      "description_zh": "Lightweight coding agent that runs in your terminal",
+      "stars": 100445,
+      "forks": 15035,
+      "stars_period": 2445,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description_en": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "description_zh": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "stars": 6767,
+      "forks": 454,
+      "stars_period": 2216,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "owner": "openinterpreter",
+      "repo": "openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description_en": "A coding agent for open models like Kimi K3",
+      "description_zh": "A coding agent for open models like Kimi K3",
+      "stars": 67076,
+      "forks": 5759,
+      "stars_period": 2205,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "repo": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description_en": "The most intelligent agent harness for code",
+      "description_zh": "The most intelligent agent harness for code",
+      "stars": 10379,
+      "forks": 1140,
+      "stars_period": 1769,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "kangarooking/cangjie-skill",
+      "owner": "kangarooking",
+      "repo": "cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "description_en": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "description_zh": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "stars": 4269,
+      "forks": 562,
+      "stars_period": 1364,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "owner": "MoonshotAI",
+      "repo": "kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description_en": "Kimi Code CLI is your next CLI agent.",
+      "description_zh": "Kimi Code CLI is your next CLI agent.",
+      "stars": 10526,
+      "forks": 1233,
+      "stars_period": 1294,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "HKUDS/nanobot",
+      "owner": "HKUDS",
+      "repo": "nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "description_en": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "description_zh": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "stars": 46033,
+      "forks": 8130,
+      "stars_period": 477,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
