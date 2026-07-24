@@ -1,0 +1,105 @@
+{
+  "date": "2026-07-24",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "owner": "diegosouzapw",
+      "repo": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description_zh": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod...",
+      "stars": 27361,
+      "forks": 3585,
+      "stars_period": 1929,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "description_zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 69500,
+      "forks": 7859,
+      "stars_period": 636,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "agegr/pi-web",
+      "owner": "agegr",
+      "repo": "pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description_en": "Web UI for the pi coding agent",
+      "description_zh": "Web UI for the pi coding agent",
+      "stars": 2399,
+      "forks": 328,
+      "stars_period": 315,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description_en": "A collection of agent skills for CAD, robotics and hardware design",
+      "description_zh": "A collection of agent skills for CAD, robotics and hardware design",
+      "stars": 10047,
+      "forks": 1103,
+      "stars_period": 230,
+      "matched_keywords": [
+        "agent",
+        "robotics"
+      ],
+      "tags": [
+        "agent",
+        "robotics"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description_en": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description_zh": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-...",
+      "stars": 11643,
+      "forks": 803,
+      "stars_period": 180,
+      "matched_keywords": [
+        "agent",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
