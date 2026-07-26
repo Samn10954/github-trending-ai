@@ -1,0 +1,139 @@
+{
+  "date": "2026-07-26",
+  "period": "daily",
+  "count": 7,
+  "projects": [
+    {
+      "name": "citrolabs/ego-lite",
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description_en": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "description_zh": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": 3660,
+      "forks": 179,
+      "stars_period": 986,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "description_zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 70631,
+      "forks": 7946,
+      "stars_period": 577,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 261145,
+      "forks": 23302,
+      "stars_period": 479,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description_en": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description_zh": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-...",
+      "stars": 13045,
+      "forks": 888,
+      "stars_period": 431,
+      "matched_keywords": [
+        "agent",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "owner": "CoreBunch",
+      "repo": "Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description_en": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "description_zh": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "stars": 5132,
+      "forks": 482,
+      "stars_period": 426,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 233355,
+      "forks": 35579,
+      "stars_period": 377,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "owner": "anthropics",
+      "repo": "claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description_en": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "description_zh": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "stars": 49926,
+      "forks": 5898,
+      "stars_period": 132,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
