@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-27",
+  "period": "weekly",
+  "count": 11,
+  "projects": [
+    {
+      "name": "bojieli/ai-agent-book",
+      "owner": "bojieli",
+      "repo": "ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description_en": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 21307,
+      "forks": 2122,
+      "stars_period": 15909,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 15
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "owner": "diegosouzapw",
+      "repo": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description_zh": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod...",
+      "stars": 31174,
+      "forks": 4043,
+      "stars_period": 10912,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "stablyai/orca",
+      "owner": "stablyai",
+      "repo": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "stars": 29894,
+      "forks": 2117,
+      "stars_period": 7392,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "earendil-works/pi",
+      "owner": "earendil-works",
+      "repo": "pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "description_zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 78234,
+      "forks": 9630,
+      "stars_period": 5389,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "repo": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description_en": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "description_zh": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "stars": 18328,
+      "forks": 921,
+      "stars_period": 4932,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description_en": "Learn it. Build it. Ship it for others.",
+      "description_zh": "Learn it. Build it. Ship it for others.",
+      "stars": 43830,
+      "forks": 7373,
+      "stars_period": 4317,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description_en": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "description_zh": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 70945,
+      "forks": 7958,
+      "stars_period": 2820,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description_en": "A collection of agent skills for CAD, robotics and hardware design",
+      "description_zh": "A collection of agent skills for CAD, robotics and hardware design",
+      "stars": 10599,
+      "forks": 1155,
+      "stars_period": 2169,
+      "matched_keywords": [
+        "agent",
+        "robotics"
+      ],
+      "tags": [
+        "agent",
+        "robotics"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "owner": "CoreBunch",
+      "repo": "Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description_en": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "description_zh": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "stars": 5759,
+      "forks": 522,
+      "stars_period": 1893,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "agegr/pi-web",
+      "owner": "agegr",
+      "repo": "pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description_en": "Web UI for the pi coding agent",
+      "description_zh": "Web UI for the pi coding agent",
+      "stars": 2896,
+      "forks": 387,
+      "stars_period": 1551,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "owner": "MoonshotAI",
+      "repo": "kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description_en": "Kimi Code CLI is your next CLI agent.",
+      "description_zh": "Kimi Code CLI is your next CLI agent.",
+      "stars": 10904,
+      "forks": 1256,
+      "stars_period": 1200,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
