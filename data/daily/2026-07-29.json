@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-29",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "bradautomates/claude-video",
+      "owner": "bradautomates",
+      "repo": "claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description_en": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "description_zh": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "stars": 12188,
+      "forks": 1221,
+      "stars_period": 988,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "moeru-ai/airi",
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description_zh": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf...",
+      "stars": 44833,
+      "forks": 4452,
+      "stars_period": 797,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 234895,
+      "forks": 35790,
+      "stars_period": 636,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "owner": "huggingface",
+      "repo": "speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description_en": "Build local voice agents with open-source models",
+      "description_zh": "Build local voice agents with open-source models",
+      "stars": 7317,
+      "forks": 958,
+      "stars_period": 227,
+      "matched_keywords": [
+        "speech",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "owner": "microsoft",
+      "repo": "agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description_en": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "description_zh": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "stars": 5252,
+      "forks": 835,
+      "stars_period": 46,
+      "matched_keywords": [
+        "agent",
+        "agentic",
+        "ai",
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 16
+    }
+  ]
+}
