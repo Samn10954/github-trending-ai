@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-31",
+  "period": "weekly",
+  "count": 9,
+  "projects": [
+    {
+      "name": "bojieli/ai-agent-book",
+      "owner": "bojieli",
+      "repo": "ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description_en": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 27627,
+      "forks": 2905,
+      "stars_period": 9304,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 15
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "owner": "diegosouzapw",
+      "repo": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description_zh": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod...",
+      "stars": 35252,
+      "forks": 4545,
+      "stars_period": 8464,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description_en": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description_zh": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-...",
+      "stars": 16639,
+      "forks": 1126,
+      "stars_period": 5322,
+      "matched_keywords": [
+        "agent",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description_en": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "description_zh": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf...",
+      "stars": 6615,
+      "forks": 317,
+      "stars_period": 5037,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 14286,
+      "forks": 760,
+      "stars_period": 4978,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "earendil-works/pi",
+      "owner": "earendil-works",
+      "repo": "pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description_en": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "description_zh": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 80999,
+      "forks": 9997,
+      "stars_period": 4799,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "owner": "CoreBunch",
+      "repo": "Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description_en": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "description_zh": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "stars": 6820,
+      "forks": 599,
+      "stars_period": 2872,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "moeru-ai/airi",
+      "owner": "moeru-ai",
+      "repo": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description_en": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "description_zh": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf...",
+      "stars": 45927,
+      "forks": 4528,
+      "stars_period": 2815,
+      "matched_keywords": [
+        "ai",
+        "voice"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "UditAkhourii/adhd",
+      "owner": "UditAkhourii",
+      "repo": "adhd",
+      "url": "https://github.com/UditAkhourii/adhd",
+      "description_en": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "description_zh": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deep...",
+      "stars": 2897,
+      "forks": 220,
+      "stars_period": 791,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
