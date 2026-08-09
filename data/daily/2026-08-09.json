@@ -1,0 +1,82 @@
+{
+  "date": "2026-08-09",
+  "period": "daily",
+  "count": 4,
+  "projects": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "owner": "PrimeIntellect-ai",
+      "repo": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description_zh": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": 9010,
+      "forks": 863,
+      "stars_period": 2483,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 15
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description_en": "Production-grade engineering skills for AI coding agents.",
+      "description_zh": "Production-grade engineering skills for AI coding agents.",
+      "stars": 84589,
+      "forks": 9113,
+      "stars_period": 779,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "google/skills",
+      "owner": "google",
+      "repo": "skills",
+      "url": "https://github.com/google/skills",
+      "description_en": "Agent Skills for Google products and technologies",
+      "description_zh": "Agent Skills for Google products and technologies",
+      "stars": 16753,
+      "forks": 1371,
+      "stars_period": 481,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 96501,
+      "forks": 18657,
+      "stars_period": 153,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
