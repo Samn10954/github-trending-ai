@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-10",
+  "period": "daily",
+  "count": 7,
+  "projects": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "owner": "PrimeIntellect-ai",
+      "repo": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description_zh": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": 11254,
+      "forks": 1158,
+      "stars_period": 2356,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 15
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...",
+      "stars": 140762,
+      "forks": 22987,
+      "stars_period": 858,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description_en": "Production-grade engineering skills for AI coding agents.",
+      "description_zh": "Production-grade engineering skills for AI coding agents.",
+      "stars": 85172,
+      "forks": 9165,
+      "stars_period": 680,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "google/skills",
+      "owner": "google",
+      "repo": "skills",
+      "url": "https://github.com/google/skills",
+      "description_en": "Agent Skills for Google products and technologies",
+      "description_zh": "Agent Skills for Google products and technologies",
+      "stars": 17259,
+      "forks": 1394,
+      "stars_period": 528,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "repo": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description_en": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr...",
+      "stars": 61241,
+      "forks": 52011,
+      "stars_period": 306,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "owner": "vitali87",
+      "repo": "code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "description_zh": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "stars": 3032,
+      "forks": 522,
+      "stars_period": 96,
+      "matched_keywords": [
+        "ai",
+        "rag"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "owner": "harveyai",
+      "repo": "harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "description_en": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "description_zh": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "stars": 839,
+      "forks": 177,
+      "stars_period": 47,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
