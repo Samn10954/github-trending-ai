@@ -1,0 +1,102 @@
+{
+  "date": "2026-08-11",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "owner": "PrimeIntellect-ai",
+      "repo": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description_zh": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": 13131,
+      "forks": 1334,
+      "stars_period": 2642,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 15
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...",
+      "stars": 141868,
+      "forks": 23137,
+      "stars_period": 1349,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "owner": "vitali87",
+      "repo": "code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "description_zh": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "stars": 3550,
+      "forks": 548,
+      "stars_period": 682,
+      "matched_keywords": [
+        "ai",
+        "rag"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description_en": "Production-grade engineering skills for AI coding agents.",
+      "description_zh": "Production-grade engineering skills for AI coding agents.",
+      "stars": 85765,
+      "forks": 9229,
+      "stars_period": 659,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 97245,
+      "forks": 18736,
+      "stars_period": 177,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
