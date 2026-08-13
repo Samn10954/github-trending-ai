@@ -1,0 +1,122 @@
+{
+  "date": "2026-08-13",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "repo": "agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description_en": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "description_zh": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a...",
+      "stars": 144618,
+      "forks": 23422,
+      "stars_period": 1873,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "stablyai/orca",
+      "owner": "stablyai",
+      "repo": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "stars": 43959,
+      "forks": 3058,
+      "stars_period": 1235,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "repo": "ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "description_en": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "description_zh": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support...",
+      "stars": 45659,
+      "forks": 3717,
+      "stars_period": 476,
+      "matched_keywords": [
+        "ai",
+        "audio"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "owner": "infiniflow",
+      "repo": "ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description_en": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "description_zh": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "stars": 87576,
+      "forks": 10312,
+      "stars_period": 139,
+      "matched_keywords": [
+        "agent",
+        "rag",
+        "retrieval"
+      ],
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "owner": "Lightricks",
+      "repo": "LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description_en": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "description_zh": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "stars": 8725,
+      "forks": 1398,
+      "stars_period": 65,
+      "matched_keywords": [
+        "audio",
+        "inference"
+      ],
+      "tags": [
+        "speech",
+        "training"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "embabel/embabel-agent",
+      "owner": "embabel",
+      "repo": "embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "description_en": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "description_zh": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "stars": 4232,
+      "forks": 411,
+      "stars_period": 40,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    }
+  ]
+}
