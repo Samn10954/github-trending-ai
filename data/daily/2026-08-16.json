@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-16",
+  "period": "daily",
+  "count": 3,
+  "projects": [
+    {
+      "name": "citrolabs/ego-lite",
+      "owner": "citrolabs",
+      "repo": "ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description_en": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "description_zh": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf...",
+      "stars": 10977,
+      "forks": 560,
+      "stars_period": 545,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 47362,
+      "forks": 4392,
+      "stars_period": 118,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "owner": "altic-dev",
+      "repo": "FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "description_en": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
+      "description_zh": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
+      "stars": 10335,
+      "forks": 700,
+      "stars_period": 104,
+      "matched_keywords": [
+        "ai",
+        "stt"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
