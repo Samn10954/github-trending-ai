@@ -1,0 +1,123 @@
+{
+  "date": "2026-08-18",
+  "period": "weekly",
+  "count": 6,
+  "projects": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "owner": "PrimeIntellect-ai",
+      "repo": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description_en": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "description_zh": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": 16934,
+      "forks": 1817,
+      "stars_period": 4328,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 15
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "repo": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description_en": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "description_zh": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s...",
+      "stars": 22631,
+      "forks": 2063,
+      "stars_period": 3389,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 14
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description_en": "Public repository for Agent Skills",
+      "description_zh": "Public repository for Agent Skills",
+      "stars": 170017,
+      "forks": 20237,
+      "stars_period": 2714,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "repo": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description_en": "Production-grade engineering skills for AI coding agents.",
+      "description_zh": "Production-grade engineering skills for AI coding agents.",
+      "stars": 88060,
+      "forks": 9440,
+      "stars_period": 2575,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "lightningpixel/modly",
+      "owner": "lightningpixel",
+      "repo": "modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description_en": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "description_zh": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "stars": 6376,
+      "forks": 634,
+      "stars_period": 1338,
+      "matched_keywords": [
+        "ai",
+        "gpu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "owner": "vitali87",
+      "repo": "code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "description_en": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "description_zh": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "stars": 4543,
+      "forks": 609,
+      "stars_period": 1135,
+      "matched_keywords": [
+        "ai",
+        "rag"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "relevance_score": 11
+    }
+  ]
+}
