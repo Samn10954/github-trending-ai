@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-19",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "owner": "mukul975",
+      "repo": "Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description_en": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "description_zh": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with...",
+      "stars": 29214,
+      "forks": 3496,
+      "stars_period": 730,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 2736,
+      "forks": 236,
+      "stars_period": 648,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "jundot/omlx",
+      "owner": "jundot",
+      "repo": "omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "description_zh": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": 19410,
+      "forks": 1670,
+      "stars_period": 370,
+      "matched_keywords": [
+        "inference",
+        "llm"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "owner": "chaitanyagiri",
+      "repo": "munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description_en": "local multi-agent harness",
+      "description_zh": "local multi-agent harness",
+      "stars": 2046,
+      "forks": 241,
+      "stars_period": 306,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "owner": "volcengine",
+      "repo": "OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description_en": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "description_zh": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": 29395,
+      "forks": 2307,
+      "stars_period": 213,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "relevance_score": 8
+    }
+  ]
+}
