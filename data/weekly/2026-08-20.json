@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-20",
+  "period": "weekly",
+  "count": 4,
+  "projects": [
+    {
+      "name": "lightningpixel/modly",
+      "owner": "lightningpixel",
+      "repo": "modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description_en": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "description_zh": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
+      "stars": 6914,
+      "forks": 666,
+      "stars_period": 1797,
+      "matched_keywords": [
+        "ai",
+        "gpu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "owner": "volcengine",
+      "repo": "OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description_en": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "description_zh": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": 30201,
+      "forks": 2337,
+      "stars_period": 1659,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "jundot/omlx",
+      "owner": "jundot",
+      "repo": "omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "description_zh": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": 19844,
+      "forks": 1691,
+      "stars_period": 1102,
+      "matched_keywords": [
+        "inference",
+        "llm"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "CodebuffAI/freebuff",
+      "owner": "CodebuffAI",
+      "repo": "freebuff",
+      "url": "https://github.com/CodebuffAI/freebuff",
+      "description_en": "The free coding agent",
+      "description_zh": "The free coding agent",
+      "stars": 10107,
+      "forks": 1122,
+      "stars_period": 1037,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
