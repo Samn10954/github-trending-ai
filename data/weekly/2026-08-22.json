@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-22",
+  "period": "weekly",
+  "count": 4,
+  "projects": [
+    {
+      "name": "volcengine/OpenViking",
+      "owner": "volcengine",
+      "repo": "OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description_en": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "description_zh": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": 31666,
+      "forks": 2424,
+      "stars_period": 3033,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "owner": "akitaonrails",
+      "repo": "ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description_en": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "description_zh": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 3944,
+      "forks": 297,
+      "stars_period": 2404,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "jundot/omlx",
+      "owner": "jundot",
+      "repo": "omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description_en": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "description_zh": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "stars": 20225,
+      "forks": 1716,
+      "stars_period": 1536,
+      "matched_keywords": [
+        "inference",
+        "llm"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "NVIDIA-NeMo/Switchyard",
+      "owner": "NVIDIA-NeMo",
+      "repo": "Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description_en": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "description_zh": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/pe...",
+      "stars": 2065,
+      "forks": 185,
+      "stars_period": 642,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
