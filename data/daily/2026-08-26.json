@@ -1,0 +1,256 @@
+{
+  "date": "2026-08-26",
+  "period": "daily",
+  "count": 13,
+  "projects": [
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "owner": "freestylefly",
+      "repo": "awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description_en": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "description_zh": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 17936,
+      "forks": 1852,
+      "stars_period": 1698,
+      "matched_keywords": [
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "description_zh": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 35313,
+      "forks": 12144,
+      "stars_period": 1265,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "openai/codex",
+      "owner": "openai",
+      "repo": "codex",
+      "url": "https://github.com/openai/codex",
+      "description_en": "Lightweight coding agent that runs in your terminal",
+      "description_zh": "Lightweight coding agent that runs in your terminal",
+      "stars": 118127,
+      "forks": 18000,
+      "stars_period": 1181,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 111059,
+      "forks": 6104,
+      "stars_period": 982,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 207219,
+      "forks": 21146,
+      "stars_period": 830,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "owner": "AgriciDaniel",
+      "repo": "claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description_en": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "description_zh": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal...",
+      "stars": 12741,
+      "forks": 1381,
+      "stars_period": 813,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "knowledge graph",
+        "llm"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 13
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description_en": "Learn it. Build it. Ship it for others.",
+      "description_zh": "Learn it. Build it. Ship it for others.",
+      "stars": 49003,
+      "forks": 8566,
+      "stars_period": 569,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "apache/maka",
+      "owner": "apache",
+      "repo": "maka",
+      "url": "https://github.com/apache/maka",
+      "description_en": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "description_zh": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "stars": 3343,
+      "forks": 331,
+      "stars_period": 543,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description_en": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "description_zh": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": 37784,
+      "forks": 3737,
+      "stars_period": 542,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "owner": "anthropics",
+      "repo": "claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description_en": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "description_zh": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": 1762,
+      "forks": 178,
+      "stars_period": 351,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 100268,
+      "forks": 19354,
+      "stars_period": 218,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "repo": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description_en": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "description_zh": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 134239,
+      "forks": 19742,
+      "stars_period": 161,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 14
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 34098,
+      "forks": 3869,
+      "stars_period": 55,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
