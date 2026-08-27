@@ -1,0 +1,238 @@
+{
+  "date": "2026-08-27",
+  "period": "daily",
+  "count": 12,
+  "projects": [
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "owner": "freestylefly",
+      "repo": "awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description_en": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "description_zh": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 22179,
+      "forks": 2200,
+      "stars_period": 4050,
+      "matched_keywords": [
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 113149,
+      "forks": 6187,
+      "stars_period": 1598,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "description_zh": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 36815,
+      "forks": 12494,
+      "stars_period": 1300,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "description_zh": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": 19881,
+      "forks": 1337,
+      "stars_period": 1035,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description_en": "Learn it. Build it. Ship it for others.",
+      "description_zh": "Learn it. Build it. Ship it for others.",
+      "stars": 49787,
+      "forks": 8655,
+      "stars_period": 838,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "owner": "AgriciDaniel",
+      "repo": "claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description_en": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "description_zh": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal...",
+      "stars": 13627,
+      "forks": 1412,
+      "stars_period": 810,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "knowledge graph",
+        "llm"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 13
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "owner": "anthropics",
+      "repo": "claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description_en": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "description_zh": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": 2296,
+      "forks": 196,
+      "stars_period": 538,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description_en": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "description_zh": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "stars": 50608,
+      "forks": 8184,
+      "stars_period": 536,
+      "matched_keywords": [
+        "claude",
+        "voice"
+      ],
+      "tags": [
+        "llm",
+        "speech"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description_en": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "description_zh": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": 38370,
+      "forks": 3770,
+      "stars_period": 525,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 34463,
+      "forks": 3894,
+      "stars_period": 308,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "VoltAgent/awesome-agent-skills",
+      "owner": "VoltAgent",
+      "repo": "awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "description_en": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "description_zh": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "stars": 32809,
+      "forks": 3471,
+      "stars_period": 242,
+      "matched_keywords": [
+        "agent",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 13
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "description_zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biolog...",
+      "stars": 34916,
+      "forks": 3371,
+      "stars_period": 138,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 17
+    }
+  ]
+}
