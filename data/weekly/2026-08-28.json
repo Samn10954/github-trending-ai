@@ -1,0 +1,197 @@
+{
+  "date": "2026-08-28",
+  "period": "weekly",
+  "count": 10,
+  "projects": [
+    {
+      "name": "openai/codex",
+      "owner": "openai",
+      "repo": "codex",
+      "url": "https://github.com/openai/codex",
+      "description_en": "Lightweight coding agent that runs in your terminal",
+      "description_zh": "Lightweight coding agent that runs in your terminal",
+      "stars": 119423,
+      "forks": 18222,
+      "stars_period": 12358,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "owner": "freestylefly",
+      "repo": "awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description_en": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "description_zh": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 23904,
+      "forks": 2366,
+      "stars_period": 11300,
+      "matched_keywords": [
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description_en": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "description_zh": "Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "stars": 50974,
+      "forks": 8226,
+      "stars_period": 4657,
+      "matched_keywords": [
+        "claude",
+        "voice"
+      ],
+      "tags": [
+        "llm",
+        "speech"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "owner": "volcengine",
+      "repo": "OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description_en": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "description_zh": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": 34036,
+      "forks": 2583,
+      "stars_period": 3078,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "santifer/career-ops",
+      "owner": "santifer",
+      "repo": "career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "description_en": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "description_zh": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod...",
+      "stars": 69011,
+      "forks": 13042,
+      "stars_period": 2611,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "cv"
+      ],
+      "tags": [
+        "llm",
+        "vision"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "owner": "tinyhumansai",
+      "repo": "openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description_en": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "description_zh": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": 38642,
+      "forks": 3794,
+      "stars_period": 2178,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "owner": "anthropics",
+      "repo": "claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description_en": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "description_zh": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "stars": 2478,
+      "forks": 210,
+      "stars_period": 2069,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "owner": "chaitanyagiri",
+      "repo": "munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description_en": "local multi-agent harness",
+      "description_zh": "local multi-agent harness",
+      "stars": 5120,
+      "forks": 608,
+      "stars_period": 2017,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "owner": "tashfeenahmed",
+      "repo": "freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "description_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key...",
+      "stars": 21256,
+      "forks": 3030,
+      "stars_period": 2014,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "apache/maka",
+      "owner": "apache",
+      "repo": "maka",
+      "url": "https://github.com/apache/maka",
+      "description_en": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "description_zh": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "stars": 3830,
+      "forks": 359,
+      "stars_period": 1978,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
