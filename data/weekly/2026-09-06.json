@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-06",
+  "period": "weekly",
+  "count": 6,
+  "projects": [
+    {
+      "name": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "description_zh": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": 49571,
+      "forks": 3215,
+      "stars_period": 19480,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "description_zh": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": 31989,
+      "forks": 5244,
+      "stars_period": 10109,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "description_zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biolog...",
+      "stars": 42977,
+      "forks": 3928,
+      "stars_period": 5491,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 17
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 250037,
+      "forks": 37626,
+      "stars_period": 5445,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "owner": "jingyaogong",
+      "repo": "minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description_en": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "description_zh": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": 58832,
+      "forks": 7645,
+      "stars_period": 3649,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "owner": "magnitudedev",
+      "repo": "magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description_en": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "description_zh": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli...",
+      "stars": 3259,
+      "forks": 233,
+      "stars_period": 1396,
+      "matched_keywords": [
+        "agent",
+        "claude",
+        "inference"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "training"
+      ],
+      "relevance_score": 7
+    }
+  ]
+}
