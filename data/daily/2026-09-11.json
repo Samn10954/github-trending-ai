@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-11",
+  "period": "daily",
+  "count": 9,
+  "projects": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 38739,
+      "forks": 2220,
+      "stars_period": 3882,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "owner": "freestylefly",
+      "repo": "awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description_en": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "description_zh": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "stars": 30971,
+      "forks": 3001,
+      "stars_period": 962,
+      "matched_keywords": [
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "description_zh": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": 35449,
+      "forks": 5652,
+      "stars_period": 837,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 284784,
+      "forks": 25476,
+      "stars_period": 732,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "owner": "diegosouzapw",
+      "repo": "OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description_en": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "description_zh": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline ...",
+      "stars": 64340,
+      "forks": 9004,
+      "stars_period": 626,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "gemini",
+        "gpt"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "vastsa/PI-Desktop",
+      "owner": "vastsa",
+      "repo": "PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description_en": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "description_zh": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "stars": 2375,
+      "forks": 197,
+      "stars_period": 624,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "owner": "alsk1992",
+      "repo": "CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description_en": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "description_zh": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi...",
+      "stars": 1740,
+      "forks": 261,
+      "stars_period": 277,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "owner": "nashsu",
+      "repo": "llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description_en": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "description_zh": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e...",
+      "stars": 18199,
+      "forks": 2104,
+      "stars_period": 142,
+      "matched_keywords": [
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "vercel-labs/skills",
+      "owner": "vercel-labs",
+      "repo": "skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "description_en": "The open agent skills tool - npx skills",
+      "description_zh": "The open agent skills tool - npx skills",
+      "stars": 31215,
+      "forks": 2665,
+      "stars_period": 122,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
