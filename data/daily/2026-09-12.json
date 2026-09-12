@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-12",
+  "period": "daily",
+  "count": 7,
+  "projects": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 42103,
+      "forks": 2379,
+      "stars_period": 3463,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 285419,
+      "forks": 25522,
+      "stars_period": 729,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "owner": "nashsu",
+      "repo": "llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "description_en": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "description_zh": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch e...",
+      "stars": 18796,
+      "forks": 2135,
+      "stars_period": 647,
+      "matched_keywords": [
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "owner": "alsk1992",
+      "repo": "CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description_en": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "description_zh": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk whi...",
+      "stars": 2192,
+      "forks": 285,
+      "stars_period": 626,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "vastsa/PI-Desktop",
+      "owner": "vastsa",
+      "repo": "PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description_en": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "description_zh": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "stars": 2822,
+      "forks": 221,
+      "stars_period": 552,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "jordan-gibbs/hyperresearch",
+      "owner": "jordan-gibbs",
+      "repo": "hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "description_en": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "description_zh": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "stars": 2683,
+      "forks": 261,
+      "stars_period": 153,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "owner": "jihe520",
+      "repo": "MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description_en": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "description_zh": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "stars": 4890,
+      "forks": 394,
+      "stars_period": 129,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
