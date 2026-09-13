@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-13",
+  "period": "weekly",
+  "count": 11,
+  "projects": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 43530,
+      "forks": 2481,
+      "stars_period": 15924,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "description_zh": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": 59790,
+      "forks": 3911,
+      "stars_period": 10442,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 136712,
+      "forks": 7335,
+      "stars_period": 9272,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 257176,
+      "forks": 38478,
+      "stars_period": 8086,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "description_zh": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": 36237,
+      "forks": 5746,
+      "stars_period": 4417,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "blader/humanizer",
+      "owner": "blader",
+      "repo": "humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description_en": "Agent skill that removes signs of AI-generated writing from text",
+      "description_zh": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 47374,
+      "forks": 3857,
+      "stars_period": 4069,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 285855,
+      "forks": 25576,
+      "stars_period": 3938,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "owner": "coreyhaines31",
+      "repo": "marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description_en": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "description_zh": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "stars": 49845,
+      "forks": 7571,
+      "stars_period": 2822,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "petergyang/no-ai-slop",
+      "owner": "petergyang",
+      "repo": "no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "description_en": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "description_zh": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "stars": 8700,
+      "forks": 648,
+      "stars_period": 1307,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "owner": "Tencent",
+      "repo": "WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 22694,
+      "forks": 3256,
+      "stars_period": 1168,
+      "matched_keywords": [
+        "agent",
+        "autonomous",
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description_en": "A library of agent skills for CAD, CAE and CAM",
+      "description_zh": "A library of agent skills for CAD, CAE and CAM",
+      "stars": 15466,
+      "forks": 1597,
+      "stars_period": 1011,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
