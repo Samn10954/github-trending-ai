@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-23",
+  "period": "daily",
+  "count": 4,
+  "projects": [
+    {
+      "name": "google/ax",
+      "owner": "google",
+      "repo": "ax",
+      "url": "https://github.com/google/ax",
+      "description_en": "Google's open agentic orchestration runtime",
+      "description_zh": "Google's open agentic orchestration runtime",
+      "stars": 7840,
+      "forks": 364,
+      "stars_period": 2305,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "owner": "agent-substrate",
+      "repo": "substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description_en": "Agent Substrate: the core system",
+      "description_zh": "Agent Substrate: the core system",
+      "stars": 3054,
+      "forks": 389,
+      "stars_period": 245,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "superdesigndev/treg",
+      "owner": "superdesigndev",
+      "repo": "treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "description_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "stars": 2298,
+      "forks": 223,
+      "stars_period": 230,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description_en": "CLI tool for configuring and monitoring Claude Code",
+      "description_zh": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 31186,
+      "forks": 3548,
+      "stars_period": 64,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
