@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-24",
+  "period": "daily",
+  "count": 9,
+  "projects": [
+    {
+      "name": "google/ax",
+      "owner": "google",
+      "repo": "ax",
+      "url": "https://github.com/google/ax",
+      "description_en": "Google's open agentic orchestration runtime",
+      "description_zh": "Google's open agentic orchestration runtime",
+      "stars": 9261,
+      "forks": 443,
+      "stars_period": 1543,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "owner": "agent-substrate",
+      "repo": "substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description_en": "Agent Substrate: the core system",
+      "description_zh": "Agent Substrate: the core system",
+      "stars": 3549,
+      "forks": 418,
+      "stars_period": 558,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "superdesigndev/treg",
+      "owner": "superdesigndev",
+      "repo": "treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "description_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "stars": 2782,
+      "forks": 243,
+      "stars_period": 506,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 290768,
+      "forks": 26021,
+      "stars_period": 474,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description_en": "CLI tool for configuring and monitoring Claude Code",
+      "description_zh": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 31553,
+      "forks": 3583,
+      "stars_period": 389,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "strands-agents/harness-sdk",
+      "owner": "strands-agents",
+      "repo": "harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description_en": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "description_zh": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "stars": 7916,
+      "forks": 1208,
+      "stars_period": 115,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "TNT-Likely/PanWatch",
+      "owner": "TNT-Likely",
+      "repo": "PanWatch",
+      "url": "https://github.com/TNT-Likely/PanWatch",
+      "description_en": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "description_zh": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "stars": 1593,
+      "forks": 302,
+      "stars_period": 95,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "owner": "BuilderIO",
+      "repo": "agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description_en": "A framework for building agentic apps",
+      "description_zh": "A framework for building agentic apps",
+      "stars": 6609,
+      "forks": 593,
+      "stars_period": 87,
+      "matched_keywords": [
+        "agent",
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 50002,
+      "forks": 4603,
+      "stars_period": 57,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
