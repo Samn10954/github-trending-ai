@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-25",
+  "period": "daily",
+  "count": 8,
+  "projects": [
+    {
+      "name": "vectorize-io/hindsight",
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description_en": "Hindsight: Agent Memory That Learns",
+      "description_zh": "Hindsight: Agent Memory That Learns",
+      "stars": 27933,
+      "forks": 2699,
+      "stars_period": 1668,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "google/ax",
+      "owner": "google",
+      "repo": "ax",
+      "url": "https://github.com/google/ax",
+      "description_en": "Google's open agentic orchestration runtime",
+      "description_zh": "Google's open agentic orchestration runtime",
+      "stars": 10606,
+      "forks": 514,
+      "stars_period": 1373,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 291277,
+      "forks": 26059,
+      "stars_period": 611,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "superdesigndev/treg",
+      "owner": "superdesigndev",
+      "repo": "treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "description_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "stars": 3198,
+      "forks": 267,
+      "stars_period": 468,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "strands-agents/harness-sdk",
+      "owner": "strands-agents",
+      "repo": "harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description_en": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "description_zh": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "stars": 8298,
+      "forks": 1241,
+      "stars_period": 455,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 50372,
+      "forks": 4618,
+      "stars_period": 413,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description_en": "Learn it. Build it. Ship it for others.",
+      "description_zh": "Learn it. Build it. Ship it for others.",
+      "stars": 56699,
+      "forks": 9945,
+      "stars_period": 347,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "NVIDIA/Model-Optimizer",
+      "owner": "NVIDIA",
+      "repo": "Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description_en": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "description_zh": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre...",
+      "stars": 4126,
+      "forks": 631,
+      "stars_period": 44,
+      "matched_keywords": [
+        "deep learning",
+        "inference",
+        "llm",
+        "neural"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 8
+    }
+  ]
+}
