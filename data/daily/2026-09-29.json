@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-29",
+  "period": "daily",
+  "count": 2,
+  "projects": [
+    {
+      "name": "vectorize-io/hindsight",
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description_en": "Hindsight: Agent Memory That Learns",
+      "description_zh": "Hindsight: Agent Memory That Learns",
+      "stars": 41337,
+      "forks": 5570,
+      "stars_period": 4561,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "owner": "mvschwarz",
+      "repo": "openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description_en": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "description_zh": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": 1856,
+      "forks": 144,
+      "stars_period": 734,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
