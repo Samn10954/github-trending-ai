@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-30",
+  "period": "weekly",
+  "count": 9,
+  "projects": [
+    {
+      "name": "vectorize-io/hindsight",
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description_en": "Hindsight: Agent Memory That Learns",
+      "description_zh": "Hindsight: Agent Memory That Learns",
+      "stars": 43082,
+      "forks": 5800,
+      "stars_period": 17365,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "stablyai/orca",
+      "owner": "stablyai",
+      "repo": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "description_en": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "description_zh": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 81762,
+      "forks": 5306,
+      "stars_period": 6242,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description_en": "Learn it. Build it. Ship it for others.",
+      "description_zh": "Learn it. Build it. Ship it for others.",
+      "stars": 61609,
+      "forks": 10548,
+      "stars_period": 5830,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 23233,
+      "forks": 1359,
+      "stars_period": 3311,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "owner": "Tencent",
+      "repo": "WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 31309,
+      "forks": 4184,
+      "stars_period": 2397,
+      "matched_keywords": [
+        "agent",
+        "autonomous",
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 51034,
+      "forks": 4656,
+      "stars_period": 1327,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "owner": "davila7",
+      "repo": "claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description_en": "CLI tool for configuring and monitoring Claude Code",
+      "description_zh": "CLI tool for configuring and monitoring Claude Code",
+      "stars": 32186,
+      "forks": 3653,
+      "stars_period": 1218,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "owner": "TencentCloud",
+      "repo": "Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": 5897,
+      "forks": 733,
+      "stars_period": 1128,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "pytorch/pytorch",
+      "owner": "pytorch",
+      "repo": "pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 103537,
+      "forks": 31007,
+      "stars_period": 399,
+      "matched_keywords": [
+        "gpu",
+        "neural"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
