@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-03",
+  "period": "monthly",
+  "count": 14,
+  "projects": [
+    {
+      "name": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "repo": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description_en": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "description_zh": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "stars": 76334,
+      "forks": 5131,
+      "stars_period": 33363,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "owner": "DietrichGebert",
+      "repo": "ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description_en": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description_zh": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 151967,
+      "forks": 8151,
+      "stars_period": 31213,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "repo": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description_en": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "description_zh": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 52985,
+      "forks": 3051,
+      "stars_period": 26537,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 271449,
+      "forks": 40551,
+      "stars_period": 26490,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description_en": "Hindsight: Agent Memory That Learns",
+      "description_zh": "Hindsight: Agent Memory That Learns",
+      "stars": 44755,
+      "forks": 5869,
+      "stars_period": 22756,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "repo": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description_en": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "description_zh": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,...",
+      "stars": 43383,
+      "forks": 3126,
+      "stars_period": 21821,
+      "matched_keywords": [
+        "agent",
+        "llm"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "owner": "Tencent",
+      "repo": "WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description_en": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "description_zh": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 31795,
+      "forks": 4245,
+      "stars_period": 10794,
+      "matched_keywords": [
+        "agent",
+        "autonomous",
+        "llm",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "owner": "THU-MAIC",
+      "repo": "OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description_en": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "description_zh": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stars": 39837,
+      "forks": 6167,
+      "stars_period": 9734,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "owner": "tashfeenahmed",
+      "repo": "freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "description_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key...",
+      "stars": 30206,
+      "forks": 4232,
+      "stars_period": 6530,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "anthropics/claude-code",
+      "owner": "anthropics",
+      "repo": "claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description_en": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "description_zh": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ...",
+      "stars": 148997,
+      "forks": 25285,
+      "stars_period": 5832,
+      "matched_keywords": [
+        "agentic",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "owner": "TencentCloud",
+      "repo": "Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": 6420,
+      "forks": 791,
+      "stars_period": 5017,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "owner": "NVIDIA",
+      "repo": "SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description_en": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "description_zh": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo...",
+      "stars": 19140,
+      "forks": 1665,
+      "stars_period": 3495,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "superdesigndev/treg",
+      "owner": "superdesigndev",
+      "repo": "treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description_en": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "description_zh": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "stars": 4057,
+      "forks": 336,
+      "stars_period": 3055,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "owner": "max-sixty",
+      "repo": "worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description_en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "description_zh": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars": 8689,
+      "forks": 310,
+      "stars_period": 1950,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
