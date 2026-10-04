@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-04",
+  "period": "weekly",
+  "count": 7,
+  "projects": [
+    {
+      "name": "vectorize-io/hindsight",
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description_en": "Hindsight: Agent Memory That Learns",
+      "description_zh": "Hindsight: Agent Memory That Learns",
+      "stars": 45172,
+      "forks": 5898,
+      "stars_period": 14507,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description_en": "Learn it. Build it. Ship it for others.",
+      "description_zh": "Learn it. Build it. Ship it for others.",
+      "stars": 63256,
+      "forks": 10816,
+      "stars_period": 5059,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 89973,
+      "forks": 7917,
+      "stars_period": 3952,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "owner": "TencentCloud",
+      "repo": "Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": 6616,
+      "forks": 816,
+      "stars_period": 1476,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "owner": "alirezarezvani",
+      "repo": "claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description_en": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "description_zh": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e...",
+      "stars": 27514,
+      "forks": 3875,
+      "stars_period": 948,
+      "matched_keywords": [
+        "agent",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "tile-ai/tilelang",
+      "owner": "tile-ai",
+      "repo": "tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "description_en": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "description_zh": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "stars": 8299,
+      "forks": 837,
+      "stars_period": 800,
+      "matched_keywords": [
+        "ai",
+        "gpu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "pytorch/pytorch",
+      "owner": "pytorch",
+      "repo": "pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description_en": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "description_zh": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "stars": 103705,
+      "forks": 31283,
+      "stars_period": 346,
+      "matched_keywords": [
+        "gpu",
+        "neural"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
