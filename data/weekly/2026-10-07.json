@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-07",
+  "period": "weekly",
+  "count": 4,
+  "projects": [
+    {
+      "name": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 92727,
+      "forks": 8132,
+      "stars_period": 6454,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "owner": "NVIDIA",
+      "repo": "OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "description_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 15172,
+      "forks": 1718,
+      "stars_period": 5228,
+      "matched_keywords": [
+        "ai",
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "owner": "thedotmack",
+      "repo": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "description_zh": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau...",
+      "stars": 97267,
+      "forks": 8570,
+      "stars_period": 2104,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 13
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "owner": "VectifyAI",
+      "repo": "PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "description_zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 38820,
+      "forks": 3361,
+      "stars_period": 2079,
+      "matched_keywords": [
+        "rag"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
