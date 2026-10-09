@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-09",
+  "period": "weekly",
+  "count": 3,
+  "projects": [
+    {
+      "name": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "repo": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description_en": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "description_zh": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 94298,
+      "forks": 8245,
+      "stars_period": 6987,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 11
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "owner": "thedotmack",
+      "repo": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description_en": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "description_zh": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Clau...",
+      "stars": 98638,
+      "forks": 8648,
+      "stars_period": 3153,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 13
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description_en": "Give your agent CAD superpowers.",
+      "description_zh": "Give your agent CAD superpowers.",
+      "stars": 18524,
+      "forks": 1837,
+      "stars_period": 1898,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
