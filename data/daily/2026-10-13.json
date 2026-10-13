@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-13",
+  "period": "daily",
+  "count": 2,
+  "projects": [
+    {
+      "name": "lyogavin/airllm",
+      "owner": "lyogavin",
+      "repo": "airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description_en": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "description_zh": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "stars": 37721,
+      "forks": 3886,
+      "stars_period": 879,
+      "matched_keywords": [
+        "gpu",
+        "inference",
+        "llm"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "repo": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description_en": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "description_zh": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (mul...",
+      "stars": 59445,
+      "forks": 9348,
+      "stars_period": 626,
+      "matched_keywords": [
+        "claude",
+        "voice"
+      ],
+      "tags": [
+        "llm",
+        "speech"
+      ],
+      "relevance_score": 7
+    }
+  ]
+}
