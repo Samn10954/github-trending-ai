@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-16",
+  "period": "daily",
+  "count": 7,
+  "projects": [
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "owner": "K-Dense-AI",
+      "repo": "scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description_en": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "description_zh": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog...",
+      "stars": 50632,
+      "forks": 4501,
+      "stars_period": 1091,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 17
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 280517,
+      "forks": 41716,
+      "stars_period": 1013,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "xerj-org/xerj",
+      "owner": "xerj-org",
+      "repo": "xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description_en": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "description_zh": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search...",
+      "stars": 5821,
+      "forks": 313,
+      "stars_period": 715,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "rag"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 300026,
+      "forks": 26793,
+      "stars_period": 582,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 39255,
+      "forks": 4339,
+      "stars_period": 307,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "description_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa...",
+      "stars": 75214,
+      "forks": 8936,
+      "stars_period": 147,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "autonomous",
+        "claude",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 12
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "owner": "lightseekorg",
+      "repo": "tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "description_en": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "description_zh": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "stars": 2534,
+      "forks": 337,
+      "stars_period": 30,
+      "matched_keywords": [
+        "inference",
+        "llm"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "relevance_score": 5
+    }
+  ]
+}
