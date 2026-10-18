@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-18",
+  "period": "weekly",
+  "count": 1,
+  "projects": [
+    {
+      "name": "anthropics/claude-plugins-official",
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 41882,
+      "forks": 4471,
+      "stars_period": 3581,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
