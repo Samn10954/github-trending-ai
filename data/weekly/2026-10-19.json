@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-19",
+  "period": "weekly",
+  "count": 2,
+  "projects": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "repo": "ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description_en": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "description_zh": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 53776,
+      "forks": 17482,
+      "stars_period": 5742,
+      "matched_keywords": [
+        "ai",
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 42802,
+      "forks": 4539,
+      "stars_period": 4774,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
