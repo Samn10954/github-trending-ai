@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-21",
+  "period": "monthly",
+  "count": 12,
+  "projects": [
+    {
+      "name": "vectorize-io/hindsight",
+      "owner": "vectorize-io",
+      "repo": "hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description_en": "Hindsight: Agent Memory That Learns",
+      "description_zh": "Hindsight: Agent Memory That Learns",
+      "stars": 52069,
+      "forks": 6191,
+      "stars_period": 28261,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 284981,
+      "forks": 42283,
+      "stars_period": 22836,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "repo": "ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description_en": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "description_zh": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "stars": 71845,
+      "forks": 12642,
+      "stars_period": 16986,
+      "matched_keywords": [
+        "ai"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 34484,
+      "forks": 2160,
+      "stars_period": 15824,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "owner": "tashfeenahmed",
+      "repo": "freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description_en": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "description_zh": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key...",
+      "stars": 38402,
+      "forks": 5176,
+      "stars_period": 10683,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "owner": "NVIDIA",
+      "repo": "OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description_en": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "description_zh": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "stars": 16830,
+      "forks": 1791,
+      "stars_period": 8173,
+      "matched_keywords": [
+        "ai",
+        "autonomous"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "owner": "anthropics",
+      "repo": "claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description_en": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "description_zh": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "stars": 43436,
+      "forks": 4585,
+      "stars_period": 6997,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "owner": "TencentCloud",
+      "repo": "Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description_en": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description_zh": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": 10504,
+      "forks": 1314,
+      "stars_period": 6143,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 55709,
+      "forks": 5024,
+      "stars_period": 6135,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "owner": "earthtojake",
+      "repo": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description_en": "Give your agent CAD superpowers.",
+      "description_zh": "Give your agent CAD superpowers.",
+      "stars": 22030,
+      "forks": 2160,
+      "stars_period": 5836,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "owner": "VectifyAI",
+      "repo": "PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description_en": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "description_zh": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "stars": 39391,
+      "forks": 3420,
+      "stars_period": 3715,
+      "matched_keywords": [
+        "rag"
+      ],
+      "tags": [
+        "rag"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "owner": "agent-substrate",
+      "repo": "substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description_en": "Agent Substrate: the core system",
+      "description_zh": "Agent Substrate: the core system",
+      "stars": 5683,
+      "forks": 614,
+      "stars_period": 3659,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 9
+    }
+  ]
+}
