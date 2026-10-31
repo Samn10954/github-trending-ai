@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-31",
+  "period": "weekly",
+  "count": 11,
+  "projects": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 54288,
+      "forks": 3517,
+      "stars_period": 12838,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "owner": "pbakaus",
+      "repo": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description_en": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "description_zh": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "stars": 97259,
+      "forks": 5730,
+      "stars_period": 11323,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "repo": "ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description_en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "description_zh": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 293492,
+      "forks": 43429,
+      "stars_period": 6506,
+      "matched_keywords": [
+        "agent",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "owner": "TauricResearch",
+      "repo": "TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description_en": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_zh": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 118759,
+      "forks": 22703,
+      "stars_period": 5490,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 309526,
+      "forks": 27544,
+      "stars_period": 5474,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "owner": "Leonxlnx",
+      "repo": "taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description_en": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "description_zh": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "stars": 106435,
+      "forks": 7203,
+      "stars_period": 4712,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "AgriciDaniel/claude-seo",
+      "owner": "AgriciDaniel",
+      "repo": "claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "description_en": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "description_zh": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S...",
+      "stars": 24600,
+      "forks": 3271,
+      "stars_period": 4478,
+      "matched_keywords": [
+        "agent",
+        "agentic",
+        "claude"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 12
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "owner": "multica-ai",
+      "repo": "andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description_en": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "description_zh": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 226947,
+      "forks": 22659,
+      "stars_period": 4178,
+      "matched_keywords": [
+        "ai",
+        "claude",
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 9
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description_en": "Public repository for Agent Skills",
+      "description_zh": "Public repository for Agent Skills",
+      "stars": 185433,
+      "forks": 21904,
+      "stars_period": 1888,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "owner": "ruvnet",
+      "repo": "ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description_en": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "description_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa...",
+      "stars": 80324,
+      "forks": 9416,
+      "stars_period": 1723,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "autonomous",
+        "claude",
+        "rag"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 12
+    },
+    {
+      "name": "jakubkrehel/skills",
+      "owner": "jakubkrehel",
+      "repo": "skills",
+      "url": "https://github.com/jakubkrehel/skills",
+      "description_en": "A collection of agent skills that help you build great interfaces.",
+      "description_zh": "A collection of agent skills that help you build great interfaces.",
+      "stars": 9401,
+      "forks": 358,
+      "stars_period": 1107,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
