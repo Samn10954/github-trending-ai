@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-08",
+  "period": "daily",
+  "count": 6,
+  "projects": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 65969,
+      "forks": 4290,
+      "stars_period": 2085,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "google/skills",
+      "owner": "google",
+      "repo": "skills",
+      "url": "https://github.com/google/skills",
+      "description_en": "Agent Skills for Google products and technologies",
+      "description_zh": "Agent Skills for Google products and technologies",
+      "stars": 23494,
+      "forks": 1964,
+      "stars_period": 443,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description_en": "Public repository for Agent Skills",
+      "description_zh": "Public repository for Agent Skills",
+      "stars": 188905,
+      "forks": 22267,
+      "stars_period": 390,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description_en": "Browser automation CLI for AI agents",
+      "description_zh": "Browser automation CLI for AI agents",
+      "stars": 46956,
+      "forks": 3221,
+      "stars_period": 190,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "owner": "dsx-ai-factory",
+      "repo": "nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "description_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "stars": 600,
+      "forks": 92,
+      "stars_period": 123,
+      "matched_keywords": [
+        "ai",
+        "gpu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "meta/astryx",
+      "owner": "meta",
+      "repo": "astryx",
+      "url": "https://github.com/meta/astryx",
+      "description_en": "An open source design system that's fully customizable and agent ready",
+      "description_zh": "An open source design system that's fully customizable and agent ready",
+      "stars": 14701,
+      "forks": 1207,
+      "stars_period": 96,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
