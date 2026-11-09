@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-09",
+  "period": "daily",
+  "count": 5,
+  "projects": [
+    {
+      "name": "meta/astryx",
+      "owner": "meta",
+      "repo": "astryx",
+      "url": "https://github.com/meta/astryx",
+      "description_en": "An open source design system that's fully customizable and agent ready",
+      "description_zh": "An open source design system that's fully customizable and agent ready",
+      "stars": 17424,
+      "forks": 1376,
+      "stars_period": 875,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description_en": "Browser automation CLI for AI agents",
+      "description_zh": "Browser automation CLI for AI agents",
+      "stars": 47827,
+      "forks": 3269,
+      "stars_period": 815,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description_en": "Public repository for Agent Skills",
+      "description_zh": "Public repository for Agent Skills",
+      "stars": 189861,
+      "forks": 22371,
+      "stars_period": 792,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "dsx-ai-factory/nvke",
+      "owner": "dsx-ai-factory",
+      "repo": "nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description_en": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "description_zh": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "stars": 919,
+      "forks": 113,
+      "stars_period": 345,
+      "matched_keywords": [
+        "ai",
+        "gpu"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "owner": "anthropics",
+      "repo": "claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description_en": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "description_zh": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "stars": 19557,
+      "forks": 3285,
+      "stars_period": 32,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    }
+  ]
+}
