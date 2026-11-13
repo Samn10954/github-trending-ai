@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-13",
+  "period": "weekly",
+  "count": 6,
+  "projects": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "owner": "cloudflare",
+      "repo": "security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description_en": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "description_zh": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 71337,
+      "forks": 4745,
+      "stars_period": 10700,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "vercel-labs/agent-desktop",
+      "owner": "vercel-labs",
+      "repo": "agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description_en": "Computer use CLI for AI agents",
+      "description_zh": "Computer use CLI for AI agents",
+      "stars": 22860,
+      "forks": 1694,
+      "stars_period": 6414,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "anthropics/skills",
+      "owner": "anthropics",
+      "repo": "skills",
+      "url": "https://github.com/anthropics/skills",
+      "description_en": "Public repository for Agent Skills",
+      "description_zh": "Public repository for Agent Skills",
+      "stars": 193790,
+      "forks": 22800,
+      "stars_period": 6055,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "owner": "NVIDIA",
+      "repo": "auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description_en": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "description_zh": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ...",
+      "stars": 12317,
+      "forks": 1013,
+      "stars_period": 5802,
+      "matched_keywords": [
+        "agent",
+        "ai",
+        "llm",
+        "retrieval"
+      ],
+      "tags": [
+        "agent",
+        "llm",
+        "rag"
+      ],
+      "relevance_score": 10
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "owner": "vercel-labs",
+      "repo": "agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description_en": "Browser automation CLI for AI agents",
+      "description_zh": "Browser automation CLI for AI agents",
+      "stars": 50406,
+      "forks": 3508,
+      "stars_period": 4601,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 8
+    },
+    {
+      "name": "google/skills",
+      "owner": "google",
+      "repo": "skills",
+      "url": "https://github.com/google/skills",
+      "description_en": "Agent Skills for Google products and technologies",
+      "description_zh": "Agent Skills for Google products and technologies",
+      "stars": 24093,
+      "forks": 2006,
+      "stars_period": 1933,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    }
+  ]
+}
