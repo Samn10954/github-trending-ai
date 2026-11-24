@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-24",
+  "period": "daily",
+  "count": 8,
+  "projects": [
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "owner": "elementalsouls",
+      "repo": "Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description_en": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "description_zh": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi...",
+      "stars": 20362,
+      "forks": 2144,
+      "stars_period": 2029,
+      "matched_keywords": [
+        "claude"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 6
+    },
+    {
+      "name": "obra/superpowers",
+      "owner": "obra",
+      "repo": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description_en": "An agentic skills framework & software development methodology that works.",
+      "description_zh": "An agentic skills framework & software development methodology that works.",
+      "stars": 325432,
+      "forks": 28861,
+      "stars_period": 840,
+      "matched_keywords": [
+        "agentic"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "owner": "jingyaogong",
+      "repo": "minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description_en": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "description_zh": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": 69812,
+      "forks": 9103,
+      "stars_period": 828,
+      "matched_keywords": [
+        "llm"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "repo": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description_en": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "description_zh": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 73709,
+      "forks": 6499,
+      "stars_period": 797,
+      "matched_keywords": [
+        "agent",
+        "ai"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 5
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "owner": "HKUDS",
+      "repo": "CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description_en": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "description_zh": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "stars": 64103,
+      "forks": 5828,
+      "stars_period": 790,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "Tracer-Cloud/opensre",
+      "owner": "Tracer-Cloud",
+      "repo": "opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description_en": "The open-source agent for CI/CD reliability.",
+      "description_zh": "The open-source agent for CI/CD reliability.",
+      "stars": 14956,
+      "forks": 1999,
+      "stars_period": 436,
+      "matched_keywords": [
+        "agent"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "relevance_score": 3
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "owner": "google-labs-code",
+      "repo": "stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description_en": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "description_zh": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C...",
+      "stars": 12456,
+      "forks": 1520,
+      "stars_period": 422,
+      "matched_keywords": [
+        "agent",
+        "claude",
+        "gemini"
+      ],
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "relevance_score": 7
+    },
+    {
+      "name": "openvinotoolkit/openvino",
+      "owner": "openvinotoolkit",
+      "repo": "openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description_en": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "description_zh": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "stars": 12349,
+      "forks": 3683,
+      "stars_period": 184,
+      "matched_keywords": [
+        "ai",
+        "inference"
+      ],
+      "tags": [
+        "training"
+      ],
+      "relevance_score": 4
+    }
+  ]
+}
